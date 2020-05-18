@@ -1,0 +1,39 @@
+--------------------------------------------------------------------------Trojan Horse
+*Use by the Greeks to capture Troy from the Trojans 
+
+*Software that pretends to be something else
+-So it can conquer your computer
+-Doesnt really care much about replicating
+
+*Circumvents your existing security
+-Anti-Virus may catch it when it run
+
+*Once it inside it has free reign
+-and it may open the gates for the other program
+-------------------------------------------------------------------------- Backdoors
+*Why go through normal authication methods?
+-Just walk in the back door
+
+*Often placed on your computer through walmare
+-Some malware software can take advantage of backdorrs created by other malware.
+
+-------------------------------------------------------------------------- Remote Access Trojan(RATs)
+*Remote Administration Tool
+-The ultimate backdoor
+-Administrative control of a advice
+
+*Malware install the server/service/host
+-Bad Guys connect with the client software
+
+*Control a device
+-Key Logging
+-Screen recording/screenshots
+-Copy files
+-Embed more malware
+-------------------------------------------------------------------------- Protecting against trojan and RATs
+* Dont run unknow software
+* Keep anti-virus/anti-malware signatures updated
+*Always have a backup
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------

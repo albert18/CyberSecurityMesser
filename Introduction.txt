@@ -1,0 +1,31 @@
+Malware 
+    1. Malicious Software - these can be very bad
+    2. Gather Information - Keystrokes
+    3. Participate in a group - Controlled over the NET
+    4. Show you advertising - Big money
+    5. Viruses and worms - Encypt your data, ruin your day.
+
+Malware Types and Methods
+1. Viruses
+2. Cryto-Malware
+3. Ransomware
+4. Worms
+5. Trojan Horse
+6. Rootkit
+7. Keylogger
+8. Adware/Spyware
+9. Botnet
+
+How you get Malware
+*These all work together
+-A Worm take advantages of a vulnerability
+-installs malware that includes a remote access backdoor
+
+*Your computer must run a program
+-Email link - Don't click link
+-Webpage pop-up
+-Worm
+
+*Your computer is vulnerable
+-Operating system - keep your OS updated
+-Application - e.g. adobe flash

@@ -1,0 +1,41 @@
+------------------------------------------------------- Virus
+
+*malware that can reproduce itself
+-It doesnt need you to click anything
+-It need you to reduce a program
+
+*Reproduce through file or the network
+-Just running a program can spead a virus
+
+*May or may not cause the problem
+-Some viruses are invisible, and annoying
+
+*Anti-virus is very common
+-Thousand of new viruses every week
+-Is your signature file updated?
+
+Virus Types
+*Program viruses
+-It's part of the application
+
+*Boot sector viruses
+-Who needs an OS?
+
+*Script viruses
+-Operating system and browser-based
+
+*Macro viruses
+- Common in Microsoft Office
+
+------------------------------------------------------- Worms
+* Malware that self-replicates
+-Doesnt need you to do anything
+-uses the network as a trasmission medium
+-Self-propagates and spread quickly
+
+*Worm and pretty bad things
+-Can take over many systems very quickly
+
+*Firewall and IDS/IPS can mitigate many worm infestations
+-Doesnt help much once the worm get inside.
+

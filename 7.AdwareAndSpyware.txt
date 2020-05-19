@@ -34,7 +34,15 @@
 *Money
 -Your bank account is incredibly valuable 
 
-------------------------------------------------------- 
+------------------------------------------------------- Protecting against adware/spyware
+
+*Maintain you antivirus/anti-malware - have the latest signatures
+*Always know what you're installing - watch your options during the installations
+*Wheres your backup - Cleaning adware isnt easy
+*Run some scans - *****Malwarebytes*****
+
+
+
 ------------------------------------------------------- 
 ------------------------------------------------------- 
 ------------------------------------------------------- 

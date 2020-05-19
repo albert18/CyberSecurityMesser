@@ -9,7 +9,15 @@
 ****************************************DARKCOMET- SOFTWARE****************************************
 
 
------------------------------------------------------------ 
+----------------------------------------------------------- Preventing Keyloggers
+*Usually installed with malware
+-Use anti-virus/anti-malware
+
+*Block unathorized communication
+-Block the exfiltration attempt
+-Firewall Rules/Monitoring
+
+*Run a keylogging scanner - Checks for Keylogging activity
 ----------------------------------------------------------- 
 ----------------------------------------------------------- 
 ----------------------------------------------------------- 

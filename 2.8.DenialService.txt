@@ -29,3 +29,14 @@
 
 *Asymmetric Threat
 -The attacker may have fewer resources than the victim
+
+---------------------------------DDos Amplication
+*Turn your small attack into a big attack
+-often reflected off another device or service
+
+*An increasingly common DDos technique
+-Turn internet services againts the victim
+
+*Uses protocols with little authentication or checks
+-NTP, DNS, ICMP
+-A common example of protocol abuse

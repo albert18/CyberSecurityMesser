@@ -1,0 +1,31 @@
+------------------------------- Denial of Service
+*Force service to fail
+
+*Take advantage of a design failure of vulnerability
+
+*Cause a system to be unavailable
+
+*Create a smokescreen for some other exploit
+
+*Doesnt have to be complicated
+
+-------------------------------- A "Friedly" DOS
+*Unintentional DoSing
+
+*Network DoSing
+
+*Bandwidth DOS
+
+*Water line Breaks
+
+-------------------------------- Distributed Denial of Service (DDos)
+*Launch an army of computers to bring down a service.
+-User all the Bandwidth or resources - traffic spike
+
+*This is why the bad guys have botnets
+-Thousands or million of computer at your command
+-At its peak, Zeus botnet infected over 3.6 million PCS
+-Coordinated Attack
+
+*Asymmetric Threat
+-The attacker may have fewer resources than the victim

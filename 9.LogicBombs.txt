@@ -10,4 +10,18 @@
 
 *Difficult to recover if it goes off
 
------------------------------------ 
+----------------------------------- Preventing a logic bomb
+*Difficult to recognize
+-Each is unique
+-No predefined signatures
+
+*Process and procedures
+-Format change control
+
+*Electronic monitoring
+-Alert on changes
+-Host-baed intrusion detection, tripwire, etc.
+
+*Constant auditing
+-An administrator can circumvent existing systems
+

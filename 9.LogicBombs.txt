@@ -1,0 +1,13 @@
+----------------------------------- Logic Bomb
+*Waits for a predefined event
+-Often left by someone with grudge
+
+*Time Bomb
+-Time or Date
+
+*User event
+-Logic bomb
+
+*Difficult to recover if it goes off
+
+----------------------------------- 

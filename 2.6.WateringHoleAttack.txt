@@ -1,0 +1,33 @@
+--------------------------------------Watering Hole Attack
+*What if your network was really secure?
+-You didnt even plug in the usb key from the parking lot
+
+*The bad guys cant get in
+-Not responding the phishing emails
+-Not opening any email attachements
+
+*Have the mountain come to you
+-Go where the mountain hangs out
+-The watering hole
+-This requires a bit of research
+
+-------------------------------------- Executing the watering hole attack 
+
+*Determine which website the victim group uses
+-Educated guess  - local coffee or sandwich shop
+-Industry related issue
+
+*Infect one of these third-party sites
+
+*Infect all visitors
+
+---------------------------------------- Watching the watering hole
+*Defense-in-depth
+-Layered defense
+-its never one thing
+
+*Firewall and IPS
+-Stop the network traffic before things get bad
+
+*Anti-Virus/Anti-Malware signature updates
+

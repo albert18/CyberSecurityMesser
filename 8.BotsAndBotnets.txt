@@ -1,0 +1,41 @@
+----------------------------------------------- BotNETS
+*Robot Network
+    -Skynet is self-aware
+*Once your machine is infected, it becomes a bot
+-You may not even know 
+*How does it get to your computer?
+-Trojan Horse(e.g funny video)
+-OS application vulnerability
+*A day in the life of a bot
+-Sit around. Check in with the mothership. Wait for instructions.
+
+----------------------------------------------- Zeus Botnet
+https://map.lookingglasscyber.com/ ----------------------------- VERY COOL
+
+
+----------------------------------------------- Botnet
+*A group of bots working together
+-Nothing good can come from this
+
+*Distributed denial of service(DDOS)
+-The Power of many
+
+*Botnets are for sale
+-Rent time from the bad guys
+-Not a long-term business proposition
+
+----------------------------------------------- Stopping Botnet
+*Prevent the initial infection
+-OS and application patches
+-Anti-Virus/Anti-malware and update signatures
+
+*Identity an existing infection
+-On-demand scans
+-Networking monitoring
+
+*Prevent command and control(C&C)
+-Block at the firewall
+-Identity at the workstation with a host-based firewall or host-based IPS
+
+
+

@@ -1,0 +1,18 @@
+----------------------------------------Phishing
+*Social engineering with a touch of spoofing
+-OFten delivered by SPAM, IM, Etc
+
+*Don't be fooled
+-Check the URL
+
+*Usually there's something not quite right
+-Spelling, font, and graphics
+
+*Vishing is done over the phone
+-Fake security checks and bank updates
+
+---------------------------------------- Spear Phishing
+*Phishing with inside information
+-Makes the attack nore believable
+-Spear phishing the CEO is "Whaling"
+

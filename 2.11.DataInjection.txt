@@ -1,0 +1,15 @@
+**********************************************Code Injection
+*Code Injection
+    -Adding your own information into a data stream
+
+*Enabled because of bad programming
+    -The application should properly handle input and output
+
+*So many different data types
+    -Html, SQL, XML, LDAP, etc
+
+********************************************** SQL injection
+
+
+
+

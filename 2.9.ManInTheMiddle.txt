@@ -1,3 +1,10 @@
 It is completely - invasion
 
 *********************************************ARP Poisoning(Spoofing)
+
+Man in the Browser
+-What if the middleman was on the same computer as the victim?
+
+-Huge advantages for the bad guys
+
+- The man in the browser waits

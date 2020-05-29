@@ -1,0 +1,15 @@
+************************************Cross-site request forgery
+*One-click attack, session riding
+    -XSFR, CSRF(Sea surf)
+
+*Takas advantage of the trust that a web application has for the user
+    -The website trust your browser
+
+*Significant web application
+    -Application should have anti-forgery techniques added
+    -Usually a cryptograhic token to prevent a forgery
+
+
+************************************
+************************************
+************************************

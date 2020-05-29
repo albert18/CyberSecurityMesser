@@ -3,7 +3,11 @@
 *XSS
 
 ********************************************** Non-persistent (reflected) XSS attack
-**********************************************
+********************************************** persistent (Stored) XSS attack
+*Bad guy posts a message to a social network
+*It's now "Persistent"
+*No specific target
+*For Social networking, this can spead quickly
 **********************************************
 **********************************************
 **********************************************

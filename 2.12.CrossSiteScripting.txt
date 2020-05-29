@@ -8,6 +8,16 @@
 *It's now "Persistent"
 *No specific target
 *For Social networking, this can spead quickly
+
 **********************************************
-**********************************************
+*Token Need to be expires
+
+********************************************** Protecting agains XSS
+*Be careful when clicking untrusted links
+
+*Consider disabling javascript(This offer limited protection)
+
+*Keep your browser and applications updated
+
+*Validate Input
 **********************************************

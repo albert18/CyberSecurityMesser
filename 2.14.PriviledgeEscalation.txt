@@ -1,0 +1,19 @@
+***********************************Priviledge escalation
+*Gain higher level access to a system
+
+*Higher level access means more capabilities
+
+*There are high priority vulnerability patches
+
+*Horizontal Priviledge escalation
+
+
+***********************************Mitigating priviledge escalation
+*Patch quickly
+
+*updated anti-virus/anti-malware software
+
+*Data execution prevention
+
+*address space layout random
+

@@ -1,0 +1,21 @@
+************************************ DNS poisoning
+*Modify the DNS server
+    -Require some crafty hacking
+
+*Modify the client host file
+    -The host file takes precedent over DNS queries
+
+*Send a fake a response to a valid DNS request
+-Require a redirection of the original request or the the resulting response.
+
+************************************ Domain Hijacking ************************************
+
+*Get access to the domain registration and you have control where the traffics flows
+    -You dont need to touch the actual sernvers
+    -Determine the DNS anmes and DNS UP addresses
+    
+*Many ways to get into the account
+    -Brute Force
+    -Social Engineer the password
+    -Gain access to the email address that manages the account
+    -The usual things

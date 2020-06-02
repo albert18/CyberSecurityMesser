@@ -1,0 +1,12 @@
+**************************************** Zero Day Attack
+*Many applications have vulnerabilities
+
+*Someone is working hard to find the next big vulnerability
+
+*Bad guys keep these yet-to-be discovered holes to themselves
+
+*Zero-day
+
+*Common vulnerabilities and Exposures(CVE)
+
+****************************************

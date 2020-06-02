@@ -1,0 +1,18 @@
+**************************************** Wired vs Wireless replay
+*Similar to a weird replay attacks
+
+*Wireless adds some additional capabilities
+
+*Much easier to capture the data
+
+**************************************** Cracking WEP
+*WEP = Wired Equivalent Privacy
+
+*ARP request replay attack
+
+
+
+****************************************
+****************************************
+****************************************
+****************************************

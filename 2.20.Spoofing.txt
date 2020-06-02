@@ -13,4 +13,20 @@ is completely fake
 -Person in the middle of the conversation pretends to be both endpoints
 
 
-**************************************
+************************************** MAC spoofing
+*Your ethernet device has a MAC address
+
+*Changing the MAC address can be legimate
+
+*It might not be legitimate
+
+*Very difficult to detect
+
+************************************** IP address spoofing
+*Take some else IP address
+
+*Can be legitimate
+
+*May not be legitimate
+
+Easier to identity the mac address spoofing

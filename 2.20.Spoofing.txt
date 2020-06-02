@@ -1,0 +1,16 @@
+************************************** Spoofing
+*Pretend to b something you aren't
+-Fake web server, fake DNS Server, etc.
+
+*Email Address spoofing
+-The sending address of an email isn't really the sender
+
+*Caller ID spoofing
+-The incoming call information
+is completely fake
+
+*Man-in-the-middle-attacks
+-Person in the middle of the conversation pretends to be both endpoints
+
+
+**************************************

@@ -1,0 +1,28 @@
+**************************** Malware hide-and-go-seek
+
+
+**************************** Your drivers are powerful
+
+
+
+**************************** Shimming
+*Filling in the space between two onject 
+-A middleman
+
+*Windows included it's own shim
+-Compatibility with previous versions
+
+
+**************************** Refactoring
+*Metamorphic malware
+
+*make it appear different each time
+
+*Can intelligently redesign itself
+
+*Difficuly to match with signature
+
+
+****************************
+****************************
+****************************

@@ -1,0 +1,51 @@
+********************************************* URL Hijacking
+*Make Money
+*Sell the badly speleed domain the actual owner
+*redirect to a competitor
+*Phishing site
+*Infect with a drive by download
+
+
+********************************************* Types of URL hijacking
+*Typosquatting/brandjacking
+*Outright spelling
+*A typing error
+*Different domain level
+
+
+********************************************* Clickjacking
+*You're clicking a button
+*Normal webpage underneath
+
+********************************************* Clickjacking your phone
+
+
+********************************************* Browser cookies and session ID
+*Cookies
+
+*Used for tracking personalization, session management
+
+*Could be considered be a privacy risk
+*Session Ids are often uses in cookies
+
+********************************************* Session hijacking(Sidejacking)
+
+********************************************* Header manipulation
+*Information gathering
+-Wireshark, kismet
+
+*Exploits
+-Cross-site scripting
+
+*Modify headers
+-Tamper, Firesheep, scapy
+
+*Modify cookies
+-Cookies Manager
+
+********************************************* Prevent session hijacking
+*Encrypt end-to-end
+*********************************************
+*********************************************
+*********************************************
+*********************************************

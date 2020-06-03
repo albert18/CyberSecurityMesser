@@ -1,0 +1,25 @@
+*************************** Rogue Access points
+*Significant potential backdoor
+
+*Very easy to plug in a wireless AP
+
+*Schedule a periodic survey
+
+*Consider using 802.1.x (Network Access Control)
+
+
+*************************** Wireless evil twins
+*Buy a wilress access point
+
+*Configure it exactly the same way as an existing network
+
+*Overpower the existing access points
+
+*Wifi hotspotys are easy to fool
+
+*Encrypt your communication
+
+***************************
+***************************
+***************************
+***************************

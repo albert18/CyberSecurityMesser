@@ -1,0 +1,16 @@
+******************************** WPS
+*Wifi protected setup
+*Allow easy setup
+*Different way to connect
+    -PIN
+    -Push button
+    -USB
+
+******************************** WPS
+
+WPS pin could in written on the device
+
+********************************
+********************************
+********************************
+********************************

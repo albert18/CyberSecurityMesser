@@ -1,0 +1,76 @@
+************************************************ Cryptographic Attacks
+*You've encrypt data and sent it to another person
+
+*The bad guy doesn't have the combination the(Key)
+
+*Finding ways to undo security
+
+---KPA(Known plaintext attack)
+*Attack has the encrypted data and some of the plaintext
+*WW2 Enigma cipher
+
+--Password file
+*hash
+
+--Rainbow tables
+*An optimized, prebuilt set of hashes
+    -Doesn't need to contain every hash
+    -The calculation have already been done
+*Remarkable speed increase
+    -Especially with longer password lengths
+
+*Need different tables for different hashing methods
+    -Windows is a different than MySql
+
+*Rainbow table wont' work with salted hashes
+    -Additional random value added to the original hash
+
+--Dictionary Attack
+*People use common words as passwords
+*If you're using brute force, you should start with the easy ones
+*Many common wordlists available on the net
+*This will catch the low hanging fruit
+
+--Brute force
+*The password is the Key
+    -Secret phrase
+    -Stored hash
+
+*Brute force attack 
+    -Keep trying to login process
+    -very slow
+    -Most accounts will lockout
+
+*Brute force the hash - online
+    -Obtain the list of users and hashes
+    -Calculate a password hash, compare it to a stored hash
+    -large computional resource requirement
+
+*Birthday Attack
+    -Hash collision
+    -Attack will generate multiple version of plaintext to match the hashes
+
+*Collision
+    *Hash digest are supposed to be unique
+        -Different inout data should never create the same hash
+
+    *MD5 hash
+        -Message Difest Algorithm 5
+        -First published in april 19982
+        -Collision identified in 1996
+    
+    * December 2008:Researchers created CA certificate that appeared legitimate when MD5 is checked.
+        -Built others certificates that appeared to be legit and issued by RapidSSL
+
+
+*Downgrade Attack
+
+*Weak Implementation
+    -Weak encryption
+    -802.11 WEP
+    -DES - Date Encryption Standard
+        -Relatively small 56-bit key
+        -Modern systems can brute force this pretty quickly
+
+*Replay Attack
+ *Some Cryptographic Algorithms

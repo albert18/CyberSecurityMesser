@@ -1,0 +1,8 @@
+****************************************** Wireless Disassociation Attacks
+*Surfing along on your wireless network
+*And then it happen again
+*You may not be able to stop it
+*Wireless disassociation
+
+--------------------- 802.11 management frames
+

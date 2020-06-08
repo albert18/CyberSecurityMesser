@@ -1,1 +1,40 @@
 *********************************** Threat Actors
+*Entity responsible for an event that has an impact on the safety of another entity
+*Broad scope of actors
+*Intelligence can come from everywhere
+
+*******Script Kiddies
+-Run pre-made scripts without any knowledge
+-Can be internal or external
+-Not very sophisticated
+-No Formula funding
+-Motivated by the hunt
+
+******* Hacktivist
+-Hacker with purpose
+-Can be remarkably sophisticated
+-Funding is limited
+
+******* Organized Crime
+-Professional criminal
+-Very sophisticated
+-Crime that Organized
+
+******* Nation states / APT
+-Governments
+-Highest sophisticated
+-Constant attack, massive resources
+
+******* Insiders
+-More than just password on sticky note
+-sophisticated many not be advances, but the insider has instituional knowledge
+
+******* Competitors
+-Many different motivation
+-High Level os sophistication
+-Many different intents
+
+*******
+*******
+*******
+*******

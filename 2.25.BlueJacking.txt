@@ -1,0 +1,15 @@
+Bluejacking and Bluesnarfing
+
+*************************************************** Bluejacking 
+
+*Sending if uncolicited messages to another device via bluetooth
+*Typical functional distance is about 10 meters
+*Bluejack with ad address book object
+*Third-Party software may also be used(bloooverm bluesniff)
+
+
+*************************************************** Bluesnarfing
+
+*Access a bluetooth-enabled
+*Serious security issue
+

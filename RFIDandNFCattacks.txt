@@ -1,0 +1,30 @@
+RFID and NFC Attacks
+
+********************************************** RFID(Radio-frequency identification)
+*It's everywhere(Access Badge, Inventory/assembly tracking, Pet/Animal Identification, anything that need to be tracked)
+
+*Radar Technology
+-Radio enery transmitted to the tag
+-Rf Power the tag, ID is transmitted back
+-Bidiretional communication
+-Some tag formats can be active/powered
+
+*Attacks
+-data capture
+-Spoof the reader
+-Denial of Service
+-Decrypt communication
+
+********************************************** NFC (Near field communication)
+
+*Two-way wireless communication
+*Payment systems
+*Bootstrap for other wireless
+*Access token, Identity "card"
+
+
+*Security Concern
+-Remote capture
+-frequency jamming
+-Relay/replay attack
+-Loss of RFC device control

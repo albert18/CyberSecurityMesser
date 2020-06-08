@@ -1,0 +1,45 @@
+************************************** Penetration Testing 
+-Pentest
+-Similar to vulnerability scanning
+-Often a compliance mandate
+
+***********Verify a threat exists
+-Stay up-to-date
+
+*********** Passive reconnaisance
+-Learn as much as you can with open source
+-Social Media
+-Corporate web site
+-Onlin forums, Reddit
+-Social Engineering
+-Dumpster diving
+-Business organization
+
+*********** Active reconnaisance
+-Trying the doors
+-Ping, scans, port scan
+-DNS queries
+-OS scans, OS fingering
+-Service scans, Version scans
+
+*********** Exploiting Vulnerabilities
+-Trying to break in the system(Be careful using in production hours)
+-You may need to try many different vulnerability types
+
+*********** The Process
+-Initial Exploitation
+-Persistence
+-The pivot
+
+*********** Black box, White box and Grey box
+-How much do you know about the test?
+-Black box - Blind Test
+-White box - full disclosure
+-Grey box - combination of black and white box 
+
+***********
+***********
+***********
+***********
+***********
+

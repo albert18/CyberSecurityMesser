@@ -1,0 +1,38 @@
+************************************** VPN Concentrators
+-Virtual Private Network 
+    - Encrypted(Private) date traversing a public network
+
+-Concentrator
+    -Encryption/Decryption access device
+    -Often integrated into a firewall
+
+-Many deployment option
+    -Specialized cryptographic hardware
+    -Software-baed options available
+
+-Used with client software
+
+******************* Remote access VPN
+-OnDemand access from a remote device
+
+******************* SSL VPN 
+-Uses common SSL/TLS protocol
+    -Almost NO firewall
+
+-No big VPN client
+    -Usually remote access
+
+-Autheticate users
+    -No requirement for digital certificates or shared password
+
+-Can be run from a browser or from a usually light VPN client
+    -Across many operating systems
+
+******************* Full Tunnel
+
+
+
+*******************
+*******************
+*******************
+*******************

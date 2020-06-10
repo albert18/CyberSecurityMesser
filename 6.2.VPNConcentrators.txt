@@ -30,9 +30,22 @@
 
 ******************* Full Tunnel
 
+******************* Site-to-site VPN
+
+******************* IPSEC(Internet Protocol Security)
+-Security for OSI Layer 3
+-Confidentiality and integrity
+-Very standardized
+-Two Core IPsecs Protocols
+
+******************* Transport mode and Tunner mode
 
 
-*******************
-*******************
+******************* Authentication header (AH)
+
+
+******************* Encapsulation Security Payload (ESP)
+-Encrypts the packet
+
 *******************
 *******************

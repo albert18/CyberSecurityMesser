@@ -1,0 +1,40 @@
+************************************************************************************ Firewall
+
+*********** Network-based firewall
+-Filter traffic by port number
+    -OSI layer 4 (TCP/UDP) - some firewalls can filter through OSI layer 7
+    
+-Can encrypt traffic into/out of the network
+    -Protect your traffic between sites
+
+-Can Proxy traffic
+
+-Most firewalls can be layer 3 devices
+    -usually sits on the ingress/egress of the network
+
+*********** Stateless firewall
+-Does not keep track of traffic flow
+
+
+*********** Statefull firewall
+-Stateful firewall remember the "State" of the session
+    -Everything within is valid flow is allowed
+
+*********** Application-aware security devices
+-The OSI application Layer
+-Can be called different names
+-Requires some advanced decodes
+-Network-based Firewall
+-Intrusion prevention system
+
+***********  Firewall rules
+-Access control list (ACLs)
+    -Allow or disallow traffic based on tuples
+
+-A logical path
+
+*********** 
+*********** 
+***********
+*********** 
+***********

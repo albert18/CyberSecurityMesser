@@ -31,8 +31,15 @@ Heuristics
 
 **************** IPS rules
 
-****************
-****************
+**************** False positives
+-A report that isn't true
+
+-IDS/IPS information
+
+-Workstation antivirus
+
+**************** False negatives
+
 ****************
 ****************
 ****************

@@ -1,0 +1,33 @@
+**************************************** Network Intrusion Detection and Prevention
+-Watch network traffic
+-Detection vs Prevention
+    -Detection - Alarm or alert
+    -Prevention - Stop it before it gets into the network
+
+
+**************** Passive monitoring
+-Examing a copy of the traffic
+    -Port mirror(span), network trap
+-No way to block(prevent) traffic
+
+**************** Out-of-band response
+
+**************** Inline monitoring
+
+**************** In-band response
+
+**************** Identification Technologies
+-Signature-based
+    -Look for a perfect match
+
+-Anomaly-based
+    -Build a baseline of what's "Normal"
+
+-Behavior-based
+    -Observe and report
+
+Heuristics
+    -Use artificial intelligence to identify
+
+****************
+****************

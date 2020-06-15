@@ -1,0 +1,27 @@
+************************ Network Access Control
+********Edge vs access control
+*Control at Edge
+-Your internet link
+-Managed primarily through firewall rules
+-Firewall rules rarely change
+
+*Access Control
+-Conrol from wherever you are
+-Access can be based on many rules
+-Access can be easily revoked or changed
+
+************************ Posture Agreement
+*You can't trust everyone's computer
+*Before connecting to the network perfrom a health check
+
+************************ Health check/posture assessment
+*Persistent agents
+*Dissolvable agents
+*Agentless NAC
+
+************************ Failing your assessment
+
+************************
+************************
+************************
+************************ 

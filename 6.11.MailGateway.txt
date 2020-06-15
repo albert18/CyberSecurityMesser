@@ -1,0 +1,27 @@
+************************ Mail Gateways
+*Unsolicited email
+
+************************ Email filtering
+*Inbound and Outbound email
+*Unsolicited email advertisements
+*control of phising
+*DLP
+*Antivirus
+
+************************ Identifying spam
+*Whitelist
+*SMTP
+*rDNS - Reverse DNS
+*Tarpitting
+*Recipient filtering
+
+************************ Email encryption
+*Mail can be easily intercepted
+*Send and recieve sensitive information
+*Encryption can be required on the gateway
+*Email Clients support
+
+************************
+************************
+************************
+************************ 

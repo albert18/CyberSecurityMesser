@@ -1,0 +1,31 @@
+************************ Data loss prevention (DLP)
+*Where's your data.
+*Stop the data before the bad guys get it.
+
+************************ Data loss prevention (DLP)
+*On your computer
+*On your network
+*On your server
+
+************************ USB blocking
+*DLP on a workstation
+
+************************ Cloud-based DLP
+*Located between users and the internet
+*Manage access to URLS
+*Block viruses and malware
+
+************************ DLP and Email
+*Email continues to be the most critical risk vector
+*Check every email inbound and outbound
+*inbound
+*outbound
+
+************************ 
+************************
+************************
+************************
+************************
+************************
+************************
+************************ 

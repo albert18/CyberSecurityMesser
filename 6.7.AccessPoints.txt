@@ -17,8 +17,55 @@
 
 ******************************** Power level controls
 *Usually a wirelss configuration
-*
+*how low is low
+*Consider the reciever
 
+******************************** Band selection and bandwidths
+*Throughput
+*Frequency
+*Distance
+    -Antenna
+*Channels
+
+Type of bands
+2.4. ghz - 802.11
+5 ghz -  802.11
+
+******************************** Omnidirectional antennas
+*Most common
+*Signal is evenly distributed on all sides
+*Good choice for most environments
+*No Ability to focus the signal
+
+******************************** Antenna placement
+*Channel 6,11
+
+******************************** Directional antennas
+*Focus the signal
+*Send and receive in a single direction
+*Antenna perfomance is measured in DB
+
+------Yagi Antenna
+------Parobolic Antenna
+
+******************************** Wireless LAN controllers
+*Centralized management of WAPS
+*Deploy new access points
+*Performance and security monitoring
+*Configure and deploy changes to all sites
+*Report on access point use
+*Usually a proprietary
+
+
+******************************** Managing wireless configuration
+*LWAPP
+*Thick/fat access points
+*Thin access points
+
+********************************
+********************************
+********************************
+********************************
 ********************************
 ********************************
 ********************************

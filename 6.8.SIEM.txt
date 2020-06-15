@@ -1,0 +1,38 @@
+*************************** SIEM
+*Security Information and Event Management
+*Security Alerts
+*Log aggression and long-term storage
+*Data correlation
+*Forensic analysis
+
+*************************** Time synchronization
+*Switchesm routesm Firewall, servers, workstations
+*synchronizing the clocks becomes critical
+*Flexible
+*Automatic update
+*Accurate
+
+*************************** Syslog
+*Standard for message logging
+*Usually a central logging reciever
+*Worm drive technology
+
+***************************Event de-duplication
+*Event Storms - rain, pour
+*Filter out the noise
+*Flapping down/up/down
+*Configuration suppression
+
+***************************Automated alerting and triggers
+*Constant information flow 
+*Track important statistics
+*Send alert when problem are found
+*Create triggers to automate responses
+
+*************************** SIEM LOGS
+*************************** Security Reports
+*************************** SIEM Dashboard
+***************************
+***************************
+***************************
+***************************

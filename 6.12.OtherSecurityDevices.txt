@@ -16,8 +16,13 @@
 -Your browser doesnt trust a website
 -The CA has ostensibly performed some checks
 
-************************
-************************
-************************
+************************ SSL proxy
+
+************************ Hardware Security Module (HSM)
+
+************************ Media Gateway
+-Convert between PSTN (Public switched telephone network)
+-Security is a significant concern
+
 ************************
 ************************ 

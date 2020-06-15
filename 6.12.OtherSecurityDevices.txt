@@ -1,6 +1,21 @@
-************************ 
-************************
-************************
+************************ SSL accesslator
+*You have a serve farm full of web servers
+*Asymmetric encryption is hard
+*SLL handshake uses Asymmetric encryption
+*Offload the handshake
+*Symmetric conversation continues
+*SSL/TLS decryption
+
+
+************************ SSL/TLS decryption
+*SSL/TLS relies trust
+*Common use for outgoing SSL
+
+************************ Trust me, I'm SSL
+-Browser contain a list of trusted CAs
+-Your browser doesnt trust a website
+-The CA has ostensibly performed some checks
+
 ************************
 ************************
 ************************

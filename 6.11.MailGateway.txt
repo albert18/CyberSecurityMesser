@@ -21,7 +21,9 @@
 *Encryption can be required on the gateway
 *Email Clients support
 
-************************
+
+
+
 ************************
 ************************
 ************************ 

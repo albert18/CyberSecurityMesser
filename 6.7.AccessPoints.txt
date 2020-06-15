@@ -8,8 +8,17 @@
 *Change the SSID to something not-so-obvious
 *Disable SSID broadcasting
 
-********************************
-********************************
+******************************** MAC filtering
+*Media Access Control
+-The "hardware" address 
+
+*Limit access through the physical hardware address
+*Easy to find working MAC addresses through wireless LAN analysis
+
+******************************** Power level controls
+*Usually a wirelss configuration
+*
+
 ********************************
 ********************************
 ********************************

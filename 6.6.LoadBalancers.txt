@@ -3,8 +3,12 @@
 *Large-scale implementations
 *Fault tolerance
 
+************************* Scheduling
+*Round-robin
+*Weighted round-robin
+*Dynamic round-robin
+
 ************************* 
-*************************
 *************************
 *************************
 *************************

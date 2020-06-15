@@ -26,5 +26,16 @@
 *Duplicate MAC address checking - stop the spoofers
 *We're talking about physical interface - not TCP or UDP port 
 
-***************************** 
+***************************** Loop prevention
+*Connect two switches to each other
+*Spanning Tree protocol - IEEE standard 802.1
+
+***************************** Flood guard
+*Configure a maximum number of source of MAC addresses on the interface
+*
+
+*****************************
+*****************************
+*****************************
+*****************************
 *****************************

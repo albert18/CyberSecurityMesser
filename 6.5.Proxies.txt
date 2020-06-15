@@ -6,9 +6,21 @@ Proxy Server
 *Application may need to know how to use proxy 
 *Some proxies are invisible(Transparent)
 
-**************************** 
+**************************** Application Proxies
+*NAT
+*Most proxies in use are application proxies
+*Proxy may only know one application(HTTP)
 
-****************************
+**************************** Forward proxy
+*Internal proxy
+
+**************************** Reverse proxy
+*Opposite of forward proxy
+
+**************************** Open proxy
+*A third-party, uncontrolled proxy
+
+
 ****************************
 ****************************
 ****************************

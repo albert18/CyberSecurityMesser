@@ -8,7 +8,11 @@
 *Weighted round-robin
 *Dynamic round-robin
 
-************************* 
+************************* Active/passive load balancing
+*Some servers are active
+*If an server fails, the passive server takes it place.
+
+
 *************************
 *************************
 *************************

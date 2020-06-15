@@ -10,8 +10,21 @@
 *Evalutate destination IP address
 *Deny or permit
 
+***************************** Anti-spoofing
+*Main-in-the-middle, DDos, etc.
+*Filter reserved IP addresses
+*Enable Reserve path forwarding (RPF)
+
+***************************** Switches
+*Bridging done in hardware
+*An OSI layer 2 device
+*Switch port security
+
+***************************** Network Access Control (NAC)
+*IEEE 802.1x port based
+*Administrative enable/disable
+*Duplicate MAC address checking - stop the spoofers
+*We're talking about physical interface - not TCP or UDP port 
+
 ***************************** 
-*****************************
-*****************************
-*****************************
 *****************************

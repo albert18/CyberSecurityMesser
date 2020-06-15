@@ -4,8 +4,13 @@
 *Layer 2
 *Layer 3
 
-*****************************
-*****************************
+***************************** Access control list (ACLs)
+*Allow to allow or deny traffic
+*Filter incoming or outogoing
+*Evalutate destination IP address
+*Deny or permit
+
+***************************** 
 *****************************
 *****************************
 *****************************

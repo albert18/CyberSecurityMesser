@@ -1,0 +1,15 @@
+******************************** Wireless Access Point
+*Not a wireless router
+*WAP is a bridge
+
+
+******************************** SSID Management
+*Service Set Identifer
+*Change the SSID to something not-so-obvious
+*Disable SSID broadcasting
+
+********************************
+********************************
+********************************
+********************************
+********************************

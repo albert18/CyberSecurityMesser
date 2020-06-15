@@ -1,0 +1,15 @@
+**************************** Proxies
+Proxy Server
+*Sits between the users and the external network
+*Receives the user request and sends the request on theor behalf
+* Useful for caching information, access control, URL filtering
+*Application may need to know how to use proxy 
+*Some proxies are invisible(Transparent)
+
+**************************** 
+
+****************************
+****************************
+****************************
+****************************
+****************************

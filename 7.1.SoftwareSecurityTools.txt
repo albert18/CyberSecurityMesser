@@ -1,0 +1,70 @@
+********************************************** Passive vs active tools
+*Passive Security
+    -You're network ninja
+    -Watch the packets go by
+    -The'res lot to learn
+    -Top talkser, servers, client, application, operating system, services
+
+*Active Security
+    -Send traffic to a device, watch the result
+    -Query login page
+    -Try a known vulnerability
+    -Check account access
+
+********************************************** Protocol analyzers
+-Solve complex application issues
+-Gather packets on the network
+-View traffic patterns
+-Large scale pattern
+
+********************************************** Network scanners
+*Active- scan for IP addresses and open port
+*Pick a range IP addresses
+*Visually map the network
+*Rogue system detection
+
+********************************************** Wireless scanners and crackers
+*Wireless Monitoring
+    -Packet capturing
+
+*Wireless attacks
+*Cracking
+-Aircrack-ng suite
+
+********************************************** Password crackers
+*Passwords are stored as hashes
+*Some are stored without much complexity
+*Get the hashes
+*Many tools
+
+********************************************** vulnerability scanners
+*Did you miss a patch?
+*Minimally invasive, but still active
+*Gather as much information as possible
+*Microsoft baseline security analyzer
+
+********************************************** Configuration compliance scanners
+*Do you know devices meet your minumum security configurations?
+*Check for various configurations
+*Auditing may be ongoing
+
+********************************************** Exploitation Framework
+*So many opportunities for exploits
+*How can you build an exploit
+*Many different Framework
+
+********************************************** Data sanitization tools
+*Time to upgrade that hard drive
+*Overwrite the data once, and it's gone
+*Sanitize entire hard drives
+    -Darik's boot and Nuke(DBAN)
+*Sanitize individual files or folder
+*Don't forget about the caches
+
+********************************************** Steganography tools
+-Greek for concealed writing
+-Message is invisible
+
+**********************************************
+**********************************************
+**********************************************

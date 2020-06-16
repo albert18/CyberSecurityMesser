@@ -65,6 +65,27 @@
 -Greek for concealed writing
 -Message is invisible
 
+********************************************** Honeypots
+-Attract bad guys
+    -a trap them there
+-The bad guys are probably machine
+-Honeypots
+    -Create a virtual world to explore
+-Many differents options
+-Constant battle
+
+********************************************** Backup Utilities
+-Protect from unexpected downtime
+-Real-time file sync
+    -Rsync
+-Regular partial Backup
+-Full backup
+-Complete coverage
+
+********************************************** Banner grabbing
+
+
+**********************************************
 **********************************************
 **********************************************
 **********************************************

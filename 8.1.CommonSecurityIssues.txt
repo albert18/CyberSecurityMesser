@@ -50,12 +50,39 @@
     -People make mistakes
 -Policy Violations
 -Insider threats
+-Social engineering
+-Social Media
+-Personal emails
 
-************************
-************************
-************************ 
-************************
-************************
+************************ UnAuthorized software
+*Licensing
+*Conflicts
+-Support
+-You dont know where has been
+
+************************ Baseline deviation
+-Everything should be well documented
+    -Hardware, software, network traffic patterns, data storage
+-Any changes to the norm should be identified
+-Common with VPNs
+
+************************ Licensing compliance violations
+-Availability
+-So many software licenses
+-Integrity
+
+************************ Asset management
+-Identity and track computing assets
+    -Usually an automated process
+
+-Respond faster security problem
+-Keep an eye on the most valuable assets
+-Track Licenses
+-Verify that all device are up to date
+
+************************ Authentication Issues
+-Determine if someone is really who they are
+-Number of factors
 ************************ 
 ************************
 ************************

@@ -38,7 +38,13 @@
 -Content filters
 -Access points
 
-************************ 
+************************ Weak security configurations
+-Digital security works great
+    -Until it doesnt work great any longer
+-Too old(DES) Data encryption standard
+-encryption vulnerabilities
+-Hash Collision
+
 ************************ 
 ************************
 ************************

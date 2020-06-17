@@ -11,11 +11,30 @@
 ********************************* File interrity check
 -Operating system check
 
+********************************* Host-based firewall
+-Protect againt other on the network
+-Protect wherever you go
+-Restrict by application network port number
+
+********************************* Application whitelisting
+-Decision are made in the operating system
+-Appplication hash
+-Certificate
+-Path
+-Network Zone
+
+********************************* Removable media control
+-Usb drives, portable hard drives
+-Malware infections
+-Exfiltration
+
+*********************************Advanced malware tools
+-Specialized removal and recovery tools
+-Malware is pervasive
+-best recovery is to delete and restore from a good backup
+-Research as much as possible
+
 ********************************* 
-*********************************
-*********************************
-*********************************
-*********************************
 *********************************
 *********************************
 *********************************

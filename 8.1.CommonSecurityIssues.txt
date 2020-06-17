@@ -8,9 +8,29 @@
 -Many different sources
 -Use a security  
 
+************************ Permission issue
+-A simple oversight
+
+************************ Access Violations
+-Segmentation fault
+-Your operating system is looking out for you
+-Might be a program error
+-Could be security issue
+
+************************ Certificate issues
+-Trust
+    -Certificate
+-Application must perform the proper certificate checks
+
 ************************ 
 ************************
 ************************
+************************ 
 ************************
+************************
+************************ 
+************************
+************************
+************************ 
 ************************
 ************************

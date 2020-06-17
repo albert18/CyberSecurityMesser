@@ -34,8 +34,27 @@
 -best recovery is to delete and restore from a good backup
 -Research as much as possible
 
-********************************* 
-*********************************
+********************************* Patch management tools
+
+********************************* UTM/ All-in-one securitu appliance
+
+********************************* UTM Logs
+
+********************************* Data loss prevention (DLP)
+-Stop the data before the bad guys get it
+-So many sources, so many destionations
+
+********************************* Data execution prevention (DEP)
+-No executable bit
+-Designate sections of memory
+-The OS must support
+
+********************************* Web application firewall(WAF)
+-Not like a NORMAL firewall
+-SQL Injection
+-Allow or deny based on expected input
+-A mojor focus of payment card industry data security standard(PCI DSS)
+
 *********************************
 *********************************
 *********************************

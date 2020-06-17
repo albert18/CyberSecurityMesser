@@ -38,8 +38,19 @@
 -save the data, use in another application
 -Can be overwhelm data
 
-******** 
-********
+******** Nmap
+-Network mapper
+-Port scan
+-Operating system can
+-Service scan
+-Additional scripts
+
+********netcat
+-Read or Write to the network
+-Many different function
+-Become a backdoor
+-Other alternatives and Oses ncat
+
 ********
 ********
 ********

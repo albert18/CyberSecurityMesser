@@ -1,0 +1,22 @@
+********************************* Host-baed IDS/IPS
+-Intrusion Dectection system/ Intrusion Prevention system
+-Started as a separate application
+-Protect based on signature
+-Protect based on activity
+
+********************************* Antivirus log
+-The virus are out there
+-Antivirus application will alert a log
+
+********************************* File interrity check
+-Operating system check
+
+********************************* 
+*********************************
+*********************************
+*********************************
+*********************************
+*********************************
+*********************************
+*********************************
+*********************************

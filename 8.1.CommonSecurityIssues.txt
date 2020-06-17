@@ -1,0 +1,16 @@
+************************ Uncrypted credentials
+-Authentication is a critical process
+-Some protocols arent encrypted
+-Verify with a packet
+
+************************ Logs and event anomalies
+-Gather as much information as possible
+-Many different sources
+-Use a security  
+
+************************ 
+************************
+************************
+************************
+************************
+************************

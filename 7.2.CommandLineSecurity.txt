@@ -1,13 +1,44 @@
 ************************************ Command Line Security Tools
 
 ******** Ping command
--Test reachability
+-Test reachability(ping erertech.com)
 -One of your primary troubleshooting Tools
 -Written by Mike Muuuss in 1983
 
+******** nestat
+-Network statistics
+-netstat -a
+    -Show all active connections
+-netstat -b
+    -Show binaries
+-netstat -n
+    -Do not resolve names
+
+******** traceroutes
+-Determine the route a packet takes to a destination
+-Takes advantage of ICMP time to live exceede error message
+-Not all devices will reply ICMP time exceeded messages
+
+********nslookup and dig
+-Lookup information from DNS servers
+-nslookup
+-dig
+
+******** Address Resolution Protocol
+-Determiing a MAC address
+-arp -a
+    -View local ARP table
+
+********ipconfig or ifconfig
+
+******** tcpdump
+-Capture packets from the command line
+-Available in most Unix/Linux operating systems
+-Apply filter, view in real time
+-save the data, use in another application
+-Can be overwhelm data
+
 ******** 
-********
-********
 ********
 ********
 ********

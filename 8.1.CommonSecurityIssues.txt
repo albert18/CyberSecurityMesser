@@ -45,7 +45,12 @@
 -encryption vulnerabilities
 -Hash Collision
 
-************************ 
+************************ Personal Issues
+-The weak link
+    -People make mistakes
+-Policy Violations
+-Insider threats
+
 ************************
 ************************
 ************************ 

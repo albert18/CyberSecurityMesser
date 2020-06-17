@@ -22,9 +22,23 @@
     -Certificate
 -Application must perform the proper certificate checks
 
+************************ Data exfiltration
+-Data is your most valuable asset
+-You've built a high-speed network
+
+
+************************ Misconfigured devices
+-Another example of leaving the door open
+-Default username and password
+-Software software
+-Debug & Maintenace code
+-Firewall 
+    -Rules provide too much access
+    -Can be difficult to audit
+-Content filters
+-Access points
+
 ************************ 
-************************
-************************
 ************************ 
 ************************
 ************************

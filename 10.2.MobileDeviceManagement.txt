@@ -35,4 +35,21 @@
 
 ****************************** Password and PIN
 
+****************************** Biometrics
+
+****************************** Context-aware Authentication
+
+****************************** Containerization
+-Difficult to separate personal from business
+-Separate enterprise mobile apps and data
+-Easy to manage offboarding
+
+****************************** Full device encryption
+-Scramble all of the data on the mobile device
+-Encryption isnt trivial
+-DONT LOSE YOUR PASSWORD!!!
+
 ****************************** 
+******************************
+******************************
+******************************

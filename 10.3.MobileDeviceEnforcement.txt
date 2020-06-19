@@ -1,0 +1,35 @@
+*************************** Third party app stores
+-Vulnerabilities, data leakage
+-Not all appropriate for business use
+
+*************************** Rooting/jailbreaking
+-Installing custom firmware
+-Uncontrolled access
+
+*************************** Carrier unlocking
+
+*************************** Firmware OTA updates
+-Updates are provided over the air (OTA)
+-Security patches or entire
+
+*************************** SMS/MMS
+-Short message service/Multimedia messaging service
+
+*************************** External Media
+-Store data on external
+-Transfer data from flash
+
+*************************** USB OTG(On-To-Go)
+
+*************************** Recording Microphone
+*************************** Geotagging/GPS tagging
+*************************** Wifi Direct/ad hoc
+*************************** Hotspot/tethering
+*************************** Payment Methods
+-NFC(send small amount of data) - Android pay, google pay
+
+***************************
+***************************
+***************************
+***************************
+

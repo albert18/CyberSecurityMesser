@@ -1,0 +1,23 @@
+**************************** BYOD
+-Employee bringing their phone
+-Difficult to secure
+
+**************************** COPE(Corporate owned, persoanlly enabled)
+
+**************************** Corporate owned
+-Device are not personal use
+-Company owns the device
+
+**************************** VDI/VMI (Virtual desktop Infrastructure/Virtual Mobile Infrastructure)
+-Data is stored
+-Physical device loss
+-Centralized app development
+-Application are managed
+
+****************************
+****************************
+****************************
+****************************
+****************************
+****************************
+****************************

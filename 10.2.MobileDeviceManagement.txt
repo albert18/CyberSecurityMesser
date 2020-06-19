@@ -1,0 +1,38 @@
+****************************** Mobile Device Management (MDM)
+-Manage company-owned and user-owned
+-Centralized management of the mobile devices
+
+****************************** Application managament
+-Managing mobile apps are a challege
+-Not all are secure
+-Manage application use through whitelist
+
+******************************Content Managements
+-Mobile Content Management (MCM)
+-File sharing and viewing
+-Data sent from the mobile device
+
+****************************** Remote wipe
+-Remove all data from your mobile device
+-Connect and wipe from the web
+-Need to plan for this
+-Always backup
+
+****************************** Geolocation
+-Precise traking details
+-Can be used for good
+-most phone has an options to disable
+-may be managed by the MDM
+
+****************************** Geofencing
+-Some MDM allows for geofencing
+-Cameras
+-Authentication
+
+****************************** Screen Lock
+
+****************************** Push Notification services
+
+****************************** Password and PIN
+
+****************************** 

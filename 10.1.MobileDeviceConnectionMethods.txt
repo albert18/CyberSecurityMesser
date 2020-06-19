@@ -1,11 +1,41 @@
 ***************************** 
-*****************************
-*****************************
-*****************************
-*****************************
-*****************************
-*****************************
-*****************************
+-Celluar Network
+-Separate land into cell
+-Security concern
+
+***************************** Wifi
+
+***************************** Satellite communication - SATCOM
+-Remote Location, Natural disaster
+-Literally talking to space
+-Voice and data communication
+-Handheld devices can be security risk
+
+***************************** Near field communication (NFC)
+-Two-way wireless communication
+-Payment systems
+-Bootstrap for the other wireless
+-Identity token
+
+--Concerns
+    -Remote capture
+    -Frequency jamming
+    -relay/replay attack
+    -loss of RFC device control
+
+***************************** ANT/ANT+
+-Wireless sensor network protocol
+-A separate wireless service
+-Denial of service
+-Optional encryption
+
+***************************** IR (Infrared)
+-Included on many smartphones
+-file transfer
+
+***************************** USB (Universal serial Bus)
+
+***************************** 
 *****************************
 *****************************
 *****************************

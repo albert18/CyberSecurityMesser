@@ -1,0 +1,32 @@
+************************ Compliance
+-Compliance
+-Healthy catalog standards
+-Penalties
+-Scope
+
+************************ Regulatory
+-Sarbanes-Oxley act (SOX)
+-Health Insurance Portability and Accountability Act(HIPAA)
+-The Gramm-Leach
+
+************************ Non-Regulatory
+-No rule of laptop_windows
+-Regulation may be in the works
+-Create value for yourself
+-Sharing of identified malicious IP addresses
+
+************************ Framework
+-Structures and organization
+    -Work best for IT?
+-Process Management
+-Best Practices
+-Lots of training
+
+************************Industry-specific frameworks
+-COBIT
+-ITIL
+
+************************
+************************
+************************
+************************

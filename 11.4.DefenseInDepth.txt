@@ -1,0 +1,29 @@
+*********************** Layering the defense
+-Physical controls
+-Technical controls
+-Administrative controls
+
+*********************** Defense in depth
+-Firewall
+-DMZ
+-Hashing and salting passwords
+-Authentication
+-Intrusion prevention system
+-VPN access
+-Card/Badge access
+-Anti-virus and anti-malware software
+-Security guard
+
+***********************
+***********************
+***********************
+***********************
+***********************
+***********************
+***********************
+***********************
+***********************
+***********************
+***********************
+***********************
+***********************

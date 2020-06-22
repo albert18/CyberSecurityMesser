@@ -87,13 +87,16 @@ LDAP is the protocol used to query and update x.500 directory
 
 ******************************* Network Address Allocation
 -Securing DHCP
+-Rogue DCHP servers
     
 ******************************* Network address allocation
 -DHCP client DOS
 =Switch configure with limit
 
 ******************************* Subscription Services
-
+-Automated subscriptions
+-Constant Updates
+-Check encryption and integrity
 
 *******************************
 *******************************

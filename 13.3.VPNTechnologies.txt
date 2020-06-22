@@ -1,0 +1,20 @@
+****************************** Site-to-Site VPNS
+-Encryption traffic between sites
+-Use existing internet connection
+
+****************************** Host-to-Site VPNS
+-Remote access VPN
+-Requires software on the user device
+
+****************************** Host-to-Host VPNs
+-User to user encryption
+-Software-based
+
+******************************
+******************************
+******************************
+******************************
+******************************
+******************************
+******************************
+******************************

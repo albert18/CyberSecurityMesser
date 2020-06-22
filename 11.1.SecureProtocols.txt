@@ -1,0 +1,99 @@
+******************************* Voice and Video
+-SRTP
+    -Secure real-time transport protocol/secure RTP
+
+-Add security features to RTP
+-Encryption
+    -Uses AES to encrypt the voide/video flow
+-Authentication, integrity and replay protection
+
+******************************* Time synchronization
+-Classic NTP has no security features
+    -Exploited as amplifiers in DDos attacks
+    -NTP has been around prior to 1985
+
+-NTPsec
+    -Secure network time protocol
+    -Began development in June of 2015
+
+-Cleaned up the code base
+    -Fixed a number of vulnerabilities
+
+******************************* Email
+-S/MIME
+    -Secure/Multipurpose internet mail extensions
+    -Public key encryption and digital signing of mail context
+    -Require a PKI or similar organization of keys
+
+-Secure POP and secure IMAP
+    -Use of SARTTLS extension to encrypt POP3 With SSL or use IMAP with SSL
+
+-SSL/TLS
+    -if the mail is browser based, always encrypt with SSL
+
+******************************* WEB
+-SSL/TLS
+    -Secure sockets layer
+    -Transport layer security
+
+-HTTPS
+-Pubic Key
+
+******************************* File transfer
+-FTPS
+    -FTP over SSL(GTP=SSL)
+    -File Transfer protocol secure
+    -This is not SFTP
+
+-SFTP
+    -SSH file transfer protocol
+    -Provides files system functionality
+    -Resuming interrupted transfers, directory listings, remove file removal
+
+
+******************************* LDAP (Lightweight Directory access protocol)
+-Protocol for reading and writing directories over an IP network
+-X.500 specication was written by the internatioal telecommunication union
+-DAP ran on the OSI protocol stack 
+    -LDAP  is lightweight, and used TCP/IP
+LDAP is the protocol used to query and update x.500 directory
+    -Used in windows active directory, apple opendirectory, openLDAP, Etc.
+
+----Securing
+-LDAPS(SSL
+
+******************************* Remove Access
+-SSH (Secure shell)
+
+******************************* Domain name resolution
+-DNS has no security in the original design
+    -Relatively east to poison a DNS
+
+-DNSSEC
+    -Domain name system security extension
+
+-Validate DNS responses
+    -Origin Authentication
+    -Data integrity
+
+-Public key cryptography
+    -DNS records are signed with trusted third party
+    -Signed DNS record and published in DNS
+
+******************************* Routing and Swtiching
+-Communicate with SSH
+-SNMPv3 - Simple network management protocol version 3
+-HTTPS
+
+******************************* Network Address Allocation
+-Securing DHCP
+    
+******************************* Network address allocation
+-DHCP client DOS
+=Switch configure with limit
+
+******************************* Subscription Services
+
+
+*******************************
+*******************************

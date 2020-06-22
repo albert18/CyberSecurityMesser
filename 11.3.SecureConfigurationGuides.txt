@@ -1,0 +1,36 @@
+******************************** Secure Configuration
+-No system is Secure
+-Hardening guides in specific to the softeware or platform
+
+******************************** Web server Hardening
+-Access a server with browser
+-Huge potential for access issues
+-Secure Configuration
+    -Information leakeage
+    -Log files
+    -Configure SSL
+
+******************************** Operating System Hardening
+-Many varied
+    -Windows,Linux, IOS etc.
+-Updates
+-User accounts
+-Network access and security
+-Monitor and secure
+
+******************************** Application server
+-Programming languagesm runtime libraries, etc.
+-Very specific functionality
+-File permission and access control
+-Operating system updates
+
+******************************** Network Infrastucture devices
+-Switches, routers, firewall, IPS, ETC
+-Purpose-built devices
+    -Embedded
+-Configuration Authentication
+-Check with the manufacturer
+
+********************************
+********************************
+********************************

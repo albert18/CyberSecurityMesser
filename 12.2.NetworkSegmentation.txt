@@ -1,0 +1,27 @@
+****************************************** Segmentation the network
+-Performance
+-Security
+-Physical, logical, or virtual segmentation
+-Compliance
+
+****************************************** Physical Segmentation
+-Devices
+-Must be connected to provide communication
+-Web server in one rack
+
+****************************************** Logical segmentation with VLANS
+-Virtual Local Area network
+    -Separated Logical instead Physically
+
+****************************************** Virtualization
+-Get rid og physical devices
+-Servers, switches etc
+
+****************************************** Air gaps
+-Total separated, no possible to communicate data
+-Network separation
+-Some technologies can jump the gap
+
+******************************************
+******************************************
+******************************************

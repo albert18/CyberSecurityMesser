@@ -1,0 +1,36 @@
+****************************** DMZ
+-DEMILITARIZED ZONE
+
+****************************** Extranet
+-A private network for partners
+-Usually requires additional authentication
+
+****************************** Intranet
+-Private network
+-No external access
+
+****************************** Wireless networking
+-Convenience of wireless
+-Internal use
+-Users authenticate to the wireless network
+
+****************************** Guest network
+
+****************************** Ad hoc
+-Wirelss without an access point
+-Common on mobile devices
+-Difficult ro control on unmanaged videos
+
+****************************** Honeypots and honeynets
+-Attract the bad guys
+-The bad guys are probably a machine
+-HoneyPot
+-HonetNets
+
+****************************** NAT(Network address translation)
+
+****************************** NAT and security
+
+******************************
+******************************
+******************************

@@ -1,0 +1,22 @@
+************************** Sensors and Collection
+-Gather information from network devices
+-Sensors
+-Collectors
+
+************************** Filter and firewalls
+-Packet filters
+-Firewall
+
+************************** Proxy Servers
+-An intermediate server
+-Userful features
+
+************************** Forward Proxy
+-Protect users from the internet
+
+**************************
+**************************
+**************************
+**************************
+**************************
+**************************

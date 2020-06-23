@@ -14,9 +14,30 @@
 ************************** Forward Proxy
 -Protect users from the internet
 
+************************** VPN Concentrators
+-VPN appliaces are usually located on the edge of the network
+
+************************** SSL Accelarators
+-SSL handshale requires and cryptographic overhead
+-Offload the SSL process to a hardware Accelarators
+
+************************** Load Balancers
+-Manage the load across multiple devices
+-Servers can be added and removed
+-Load balancer performs constant health check
+
+************************** DDos mitigation
+-Resist a distributed denial of service attack
+-Cloud-based
+-On-site Tools
+
+************************** Aggregation switches 
 **************************
+************************** 
 **************************
+************************** 
 **************************
+************************** 
 **************************
-**************************
+************************** 
 **************************

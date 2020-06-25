@@ -1,0 +1,45 @@
+***********************************  Operating system types
+-There's little overlap in most operating systems
+-Network
+-Server
+-Workstation
+
+*********************************** Operating system types
+-Appliance
+-Kiosk
+-Mobile OS
+
+*********************************** Patch management
+-Incredibly important
+    -System stability
+    -Security fixes
+
+-Service packs
+-Monthly updates
+-Emergency out-of-band updates
+
+*********************************** Update Options
+-Windows update
+-Windows Server update services 
+-MAc OS - software update, app store
+-Linux
+
+*********************************** The patching process
+-Not always seamless
+-May introduce other problems
+-Pick and choose
+-Often centrally managed
+
+*********************************** Disabling unnecessary services
+-Every service has the potention for trouble
+-This may require research
+
+***********************************
+***********************************
+***********************************
+***********************************
+***********************************
+***********************************
+***********************************
+***********************************
+***********************************

@@ -34,12 +34,39 @@
 -Every service has the potention for trouble
 -This may require research
 
-***********************************
-***********************************
-***********************************
-***********************************
-***********************************
-***********************************
+*********************************** Least functionality
+-Limit the operating system to only what's needed
+-May be different depending on the use
+-Entensive configurations
+
+*********************************** Secure configurations
+-Fine tuning of the operaitng system
+-Many of these will apply regardless of the system use
+-Example secure configuration policies
+
+*********************************** Evaluation Assurance Level
+-Common criteria for information
+-Evaluation assurance level(EAL)
+-Trusted operating sytem
+
+*********************************** Application whitelisting/blacklisting
+-Any application
+-Security policy can control app execution
+-whitelisting
+    -Nothing run unless it's approved
+-blacklisting
+    -Opposite of whitelisting
+
+*********************************** Example of application whitelisting
+-Decision are made in the operating system
+-Application hash
+-Certificate
+-Path
+-Network zone
+
+*********************************** Disabling unnecessary accounts
+-Guest, root, mail, etc.
+
 ***********************************
 ***********************************
 ***********************************

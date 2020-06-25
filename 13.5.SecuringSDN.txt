@@ -1,4 +1,9 @@
-**************************
+************************** Securing SDN (SOFTWARE DEFINED NETWORKING)
+-Centrally managed
+    -Global view, single pane of glass
+
+
+
 **************************
 **************************
 **************************

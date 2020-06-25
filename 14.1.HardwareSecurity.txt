@@ -1,10 +1,41 @@
-***********************************
-***********************************
-***********************************
-***********************************
-***********************************
-***********************************
-***********************************
+*********************************** FED - Full Disk Encryption 
+-Encrypt an entire drive
+-Protect all of your data
+-Lose your laptop
+-Data is always protected(Self-Encrypting drive)
+
+*********************************** Trusted platform Module (TPM)
+-A specification for cryptographic functions
+-cryptographic processor
+-Persistent Memory
+-Versatile Memory
+-Password Protected
+
+*********************************** Hardware Security Module
+-High-end cryptographic hardware
+-key backup
+-cryptographic accelerators
+-Used in large environments
+
+*********************************** Hardware root of lust
+-Security is based on trust
+-The trust has to start somewhere
+-Difficult to change or avoid
+
+*********************************** UEFI BIOS
+-Unified Entensible Firmware Interface
+-A defined standard
+
+*********************************** Secure Boot
+-Malicious software can own your system
+-Secure boot(pard of the UEFI specification)
+-Digitally sign known-good software
+
+*********************************** Remote attestion
+-Nothing on this computer has changed
+-Easy when it's just your computer
+-Remote Attestion
+
 ***********************************
 ***********************************
 ***********************************

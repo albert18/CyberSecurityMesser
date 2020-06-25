@@ -36,9 +36,15 @@
 -Easy when it's just your computer
 -Remote Attestion
 
-***********************************
-***********************************
-***********************************
+*********************************** Supply Chain
+
+*********************************** EMI/EMP
+-Electromagnetic interference/ Electromagnetic Pulse
+-EMI Leakage
+-Modify the security by injecting EMI
+-Shielding EMP
+
+*********************************** 
 ***********************************
 ***********************************
 ***********************************

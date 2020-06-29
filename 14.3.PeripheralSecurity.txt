@@ -1,12 +1,27 @@
 *************************************** Wireless Keyboard and mouse
 -2.4 Ghz frequencies
 -Keylogger
+-Some keyboard support AES encryption
 
-***************************************
-***************************************
-***************************************
-***************************************
-***************************************
+*************************************** Displays
+-Electromagnetic radiation
+-Fireware hacks
+
+*************************************** Wifi-enabled microSD cards
+-802.11 Wi-fi file transfer
+SD card authentication vulnerabilities
+API access to the SD card
+
+*************************************** Printers/Multi function devices
+-Multi-function Devices
+-Reconnaissance
+-UnAuthorized access
+-Gather Information
+
+*************************************** External Storage drive
+
+*************************************** Digital Camera could security perm_contact_calendar
+
 ***************************************
 ***************************************
 ***************************************

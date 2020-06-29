@@ -1,0 +1,17 @@
+************************************** Building Application
+************************************** Waterfall
+-Sequential Design process
+-Requirements: document the request, Analysis, Design, Coding and Testing
+
+************************************** Agile
+-Ready, shoot, aim, repeat
+-Everyone works together
+-Get Some code out there
+-Customer Colloboration
+-Quick Response Change
+
+**************************************
+**************************************
+**************************************
+**************************************
+**************************************

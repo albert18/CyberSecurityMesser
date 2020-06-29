@@ -1,0 +1,29 @@
+************************************************** SCADA/ICS
+-Supervisory Control and data Acquisition system
+-PC manages equipment
+-Distributed control system
+-Requires entensive segmentation
+
+************************************************** Smart Devices / IoT (Internet of Things)
+-Wearable Technology
+-Home Automation
+
+************************************************** HVAC
+-Heating, Ventilating, and Air conditioning
+-Complex science
+-PC manages equipment
+
+************************************************** Soc (System on a Chip)
+-Multiple components
+-Small form-factor
+-Security consideration are important
+
+
+**************************************************
+**************************************************
+**************************************************
+**************************************************
+**************************************************
+**************************************************
+**************************************************
+**************************************************

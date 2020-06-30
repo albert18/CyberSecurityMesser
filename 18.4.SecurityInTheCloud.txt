@@ -1,8 +1,28 @@
-*********************************
-*********************************
-*********************************
-*********************************
-*********************************
+********************************* On-Premise, hosted, and cloud
+-On-premise
+-Hosted
+    -Data center?
+-cloud
+
+********************************* Cloud Storage
+
+********************************* VDI (Virtual Desktop Infrastructure)
+-Virtualize the users dekstop
+-All of the computing power is in the data center
+-Enhanced Security
+
+********************************* Cloud access Security broker(CASB)
+-Clients are at work, data is in the cloud
+-Visibility
+-Compliance
+-Threat prevention
+-Data Security
+
+********************************* Security as a Service (SECaaS)
+-Instead of managing your own security solution, move it to the cloud
+-Continuously monitoring
+-Anti-Viris/Anti-malware signatures are constantly updated
+
 *********************************
 *********************************
 *********************************

@@ -4,13 +4,33 @@
 -Continuous Monitoring
 -Configuration validation
 
+*************************************** Templates
+-Cloud orchestration relies on templates
+-Application instance requres web server and database server
+-The template is just a start
+
+*************************************** Master image
+-Instead of building the server each time
+-You'll still need to make changfes image updated
+
+*************************************** Non-Persistence
+-The cloud is always motion
+-Snapshots can capture the current configuration and data
+-Revert to known state
+-Rollback to known configuration
+-Live boot media
+
+*************************************** Elasticity and scalebility
+-Elasticity
+    -Provide resources when demand requires it
+-Host Availability
+-Virtualization integrates a layer 
+-Servers can be added to moved to another server
+
 ***************************************
 ***************************************
 ***************************************
 ***************************************
 ***************************************
 ***************************************
-***************************************
-***************************************
-***************************************
-***************************************
+

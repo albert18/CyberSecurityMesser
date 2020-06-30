@@ -12,8 +12,38 @@
 
 ************************************** Stored Procedure
 
-**************************************
-**************************************
+************************************** Code signing
+-Application is deployed
+-So Many security questions
+
+************************************** Enhanced Encryption
+-If you can see the source code, you can look for security holes
+-Data at rest should be secure
+-Sending data to the network
+
+************************************** Obfuscation/camoflage
+
+************************************** Code Obfuscation
+
+************************************** Code reuse/dead code
+-Code reuse
+-Dead code
+-Old code has security Vulnerabilities
+
+************************************** Validation points
+-Serve-side validation
+-Client-side validation
+-Use Both
+
+************************************** Memory Management
+-Never trust data input
+-Buffer overflows are a huge security risk
+-Some built-in function are insecure
+
+************************************** Third-Part libraries and SDKs
+-Third-party libraries and software development kits
+-Security risk
+
 **************************************
 **************************************
 **************************************

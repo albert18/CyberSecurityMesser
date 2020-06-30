@@ -1,0 +1,75 @@
+************************************************ Proper Lighting
+-More light means more security
+-Specialize Design
+
+************************************************ Signs
+-Clear and Specific Instructions
+-Consider personal safety(Fire exits)
+-Information
+
+************************************************ Fencing
+-Build Perimeter
+-Transparent or opaque
+-Robust
+-Prevent climbing
+
+************************************************ Rack monitoring and security
+-Monitoring Systems
+-Security
+
+************************************************ Guards and access lists
+-Security Guards
+-ID badge
+-Access list
+
+************************************************ Alarm
+-Circuit-based
+-Motion Detection
+-Duress
+
+************************************************ Safe
+-Protection againts the element
+-Difficult to steal
+
+************************************************ Locking Cabinets
+-Rack can in installed together
+
+************************************************ Protection Distribution
+-Protected Distribution System (PDS)
+-Protect your cables and fibers
+-Prevent cable and fiber tap
+-Prevent cable fiber cuts
+
+************************************************ Air gap
+-Physical Separation between networks
+-Most Environment are shared 
+-Specialized network requires air gap
+
+************************************************ Mantraps
+-All dood normally unlocked
+-All doors normally locked
+-One door open / other locked
+-One at a time, controlled groups
+
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************
+************************************************

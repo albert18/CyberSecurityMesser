@@ -1,7 +1,29 @@
-***************************************
-***************************************
-***************************************
-***************************************
+*************************************** Distributive allocation
+-The bad guys are looking for your data
+    -Most people keep it in the data center
+
+-Web servers, database, middleware
+-Don't keep everything one place
+
+*************************************** Redundancy and fauly tolerance
+-Maintain uptime
+-No hardware failure
+-No system failure
+-Redundant hardware components
+-RAID
+-UPS - Uninterruptible power supplies
+-Clustering
+-Load balancing
+
+*************************************** RAID
+-RAID 0(No tolerance)
+-RAID 1(Mirroring)
+-RAID 5(Striping with parity)
+-Multi-raid, combining all raid
+
+*************************************** High Availability
+
+
 ***************************************
 ***************************************
 ***************************************

@@ -1,3 +1,33 @@
+************************************** DevOps
+-Development and Operation
+    -Bring together the two sides of the house
+-Create and deploy
+-Emphasis on automation and monitoring
+-Shrink deployment cycless
+
+************************************** Security Automation
+-Automation is relatively expensive
+-Funtional Secure Test
+-Test againts know vulnerabilities
+-Penetration Test
+-Test the application
+
+************************************** Continious Integration
+-Code is constastly written
+-So many problems
+-Secure checkout
+-Large scale security
+
+************************************** Immutable systems
+-To update an application
+
+************************************** Infrastructure as code (IAC)
+-Cloud Computing
+-It you can automate it, you can Quickly and safe to deploy
+-Turn the Infrastructure devices into code
+-Clearly defined Infrastructure
+
+**************************************
 **************************************
 **************************************
 **************************************

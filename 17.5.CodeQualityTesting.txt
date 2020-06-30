@@ -1,0 +1,25 @@
+************************************** Static Code Analyzers
+-Static Application Security Testing (SAST)
+-Many security vulnerabilties found easily
+
+************************************** Dynamic analysis (fuzzing)
+-Send random input to an application
+-Looking for something out of the ordinary
+
+************************************** Fuzzing engines and frameworks
+-Many different fuzzing options
+-Every time and processir resource heavy
+
+************************************** Stress Testing
+-Stress Testing Tool
+-Inadvertent result can occur at load
+-Extensive automation options
+
+**************************************
+**************************************
+**************************************
+**************************************
+**************************************
+**************************************
+**************************************
+**************************************

@@ -1,7 +1,26 @@
-*********************************
-*********************************
-*********************************
-*********************************
+********************************* Software as a service (Saas)
+-On-demand software
+-Central management of data and applications
+-A complete application offering
+
+
+********************************* Infrastructure as a service (Iaas)
+-Sometimes called hardware as service
+-Your still responsible
+-Your data is out there
+-Web server providers
+
+********************************* Platform as a service (PaaS)
+-No servers, no software, no maintenance team, no hvac
+-You don't have direct control
+
+********************************* Cloud deployment models
+-Private
+    -Your virtualized local data center
+-Public
+-Hybrid
+-Community
+
 *********************************
 *********************************
 *********************************

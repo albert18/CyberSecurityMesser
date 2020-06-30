@@ -51,19 +51,75 @@
 -One door open / other locked
 -One at a time, controlled groups
 
-************************************************
-************************************************
-************************************************
-************************************************
-************************************************
-************************************************
-************************************************
-************************************************
-************************************************
-************************************************
-************************************************
-************************************************
-************************************************
+************************************************ Faraday cage
+-Blocks electromagnetic field
+-Mesh of conductive material
+-Not a comprehensive solution
+-Can restrict access to mobile networks
+
+************************************************ Door access controls
+-Lock & Key
+-Dead bolt
+-Electronic(Keyless)
+-Token-based
+-Smart card and pin
+
+************************************************ Biometrics
+-Biometrics Authentication
+-Usually stores a mathematical
+-Difficult to change
+-Used in very specific situations
+
+************************************************ Barricades / Bollards
+-Prevent access
+-Channel people through a specific access point
+-Identify safety concerns
+
+************************************************ Tokens and cards
+-Smart Card
+-USB token
+-Hardware or software tokens
+-Your Phone
+
+************************************************ HVAC
+-Heating and Ventiliation, and Air Conditioning
+-Complex Science
+-Data Center should be separate
+
+************************************************ Hot and cold aisles
+
+************************************************ Fire suppression
+-Detection
+-Electronics require unique responses to fire 
+-Detection
+-Suppress with water
+-Suppress with Chemicals
+
+************************************************ Cable Locks
+-Temporary Security
+-Cable work almost anywhere
+-Most devices have a standard connector
+
+************************************************ Screen filters
+-Privacy filters
+-Control your input
+-Use privacy filter
+
+************************************************ Video Surveillance
+-CCTV (Closed circuit television)
+-Camera properties are important
+
+************************************************ Logs
+-Everything is logged
+-Correlate Physical location with digital access
+-Need a formal process to collect and archieve log information
+
+************************************************ Key management
+-Physical keys or digital keys
+-Keys generation
+-Key Breaches
+-Create policies with best-practices
+
 ************************************************
 ************************************************
 ************************************************

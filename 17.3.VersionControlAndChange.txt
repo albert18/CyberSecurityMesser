@@ -1,8 +1,16 @@
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
+************************************** Constant of change
+-Changes to production
+
+************************************** Version Control
+-Track changes
+-Commonly used in software development
+-Useful security
+-security changes
+
+************************************** Change management
+-Change Control
+-Nothing changes without the process
+-Change management and security
+-Install patches
+
 **************************************

@@ -1,0 +1,43 @@
+********************************************** Access Control Models
+-Authorization
+-Users receive rights based on access control model
+
+********************************************** Mandatory Access Control (MAC)
+-Operating system limits the operating on an object
+-Every object gets a label
+-Predefined rules
+
+********************************************** Discretionary Access Control (DAC)
+-Used in most operating system
+-You create spreadsheet
+-Very flexible
+
+********************************************** Role-based access control (RBAC)
+-You have a role in your organization
+-Administrators provide access based on the role of the user
+
+********************************************** Attribute-baed access control (ABAC)
+-Users can have complex relatioships to application to and data 
+-ABAC can consider many parameters
+-Combine and evaluate multiple parameters
+
+********************************************** Rule-based access control
+-Generic term for the following rules
+-Firewall
+-Access is determined
+
+********************************************** File System Security
+-Stored files and access them
+-Accessing information
+-Encryption can be built-in
+
+********************************************** Database Security
+-Database have their own access control
+-Encryption maybe an option
+-Data integrity
+-Application can provide a secure front-end
+
+**********************************************
+**********************************************
+**********************************************
+**********************************************

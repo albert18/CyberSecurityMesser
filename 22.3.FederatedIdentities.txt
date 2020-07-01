@@ -8,9 +8,14 @@
 -After user Authenticates, the application sends a token to the client
 -The token is provided with each request to the server
 
-******************************** T
-********************************
-********************************
+******************************** Federation
+-Provide network access to others
+-Third-parties can establish
+
+******************************** Security Assertion Markup Language(SAML)
+-Open standard for authentication
+
+******************************** OAuth
 ********************************
 ********************************
 ********************************

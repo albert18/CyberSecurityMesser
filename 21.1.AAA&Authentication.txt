@@ -1,0 +1,54 @@
+******************************* AAA Framework
+-Identification
+-Authentication
+-Authorization
+-Accounting
+
+******************************* Multi-factor authentication
+-More than one factor
+-Can be expensive
+
+******************************* Something you are
+-Biometric authentication
+-Usually stores a mathematical
+-Difficult to change
+
+******************************* Something you have
+-Smart card
+-USB token
+-Hardware or Software tokens
+-Your phone
+
+******************************* Something you know
+-Password
+-PIN
+-Pattern
+
+******************************* Somewhere you are
+-Provide a factor based on your location
+-IP address(IPv4)
+-Mobile device location services
+-Something you do
+-Typing technique
+
+******************************* Federation
+-Provide network access to others
+-Third-parties can establish a federated network
+
+******************************* Single sign-on (SSO)
+-Authenticate one time
+-Save time 
+-Kerberos authentication and Authorization
+
+******************************* Transitive trust
+-Trust relationships need to be established early
+-One-way trust
+-Two-way trust
+-Non-transitive trust
+-transitive trust
+
+
+*******************************
+*******************************
+*******************************
+*******************************

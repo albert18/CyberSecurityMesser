@@ -1,0 +1,45 @@
+********************** Least Privilege
+-Right and Permmissions should be set the bare minimum
+-All yser account must be limited
+-Don't allow user to run
+
+********************** On-Boarding
+-Bring a new person into the organization
+-IT Agreement need to be signed
+-Create accounts
+-Provide requred IT Hardware
+
+********************** Off-boarding
+-Deactivate instead of delete
+
+********************** Perform routine audits
+-Routing Audit
+-Is everything following the policy
+-Certain actions can be automatically identified
+
+********************** Auditing
+-Permission auditing
+-Usage Auditing
+-Time-of-day restriction
+
+********************** Standard naming convention
+-Unique username
+-Consistent
+-Persistent
+-Memorable
+
+********************** Account Maintenance
+-Account Creation
+-Periodic updates
+=Deprovioning
+
+********************** Group-based access control
+-Set Privileges
+-Multiple groups
+
+********************** Location-based policies
+-User ccess is based on location
+
+
+**********************
+**********************

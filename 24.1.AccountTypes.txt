@@ -1,0 +1,23 @@
+********************** User Account
+-an account in the computer
+-no privileged access to the 
+
+********************** Shared and generic accounts
+-Shared Account
+-Very difficult to create an audit trail
+-Password managemnt becomes difficult
+
+********************** Service accounts
+-Used exclusively by services running on a computer
+-Access can be defined for a specific service
+-Commonly use usesrnames and password
+
+********************** Privileged account
+-Elavated access to one more systems(Root)
+-Need to be highly secured
+    -2FA, Strong password
+    
+**********************
+**********************
+**********************
+**********************

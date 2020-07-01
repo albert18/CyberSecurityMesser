@@ -1,1 +1,47 @@
+************************************************ Proximity Card
+-Close range card
+-Passive device
+
+************************************************ Smart Card
+-Integrated Circuit Card
+-Common on Credit card
+-Must have physical card to provide digital access
+-PIN or Fingerprint
+
+************************************************ Biometric factors
+-Fingerprint Scanner
+-Retinal Scanner
+-Iris Scanner
+
+************************************************ Biometric acceptance rates
+-False acceptance rate (FAR)
+-False rejection rate (FRR)
+-Crossover error rate (CER)
+ 
+************************************************ Token Generators
+-Pseudo-random token generator
+-Carry around a physical
+
+************************************************ HOTP
+-One time passwords
+-HMAC-based One-Time password algorithm
+-Token-based authentication
+
+************************************************ TOTP
+-Time-based One-Time Password algorithm
+-Secret ket is configured ahead of time
+-Timestamp usually increment every 30 seconds
+
+************************************************ Certificate-based Authentication
+-Smart card
+-PIV (Personal Identity Verification) Card
+-CAC (Common Access Card)
+-IEEE 802.1X
+    -Gain access to the networks using a Certificate
+    -On device storage or separate physical device
+
+************************************************ 
+************************************************
+************************************************
+************************************************
 ************************************************

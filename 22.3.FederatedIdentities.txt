@@ -1,6 +1,14 @@
-********************************
-********************************
-********************************
+******************************** Server-based authentication
+-Http/Web browser Communication is stateless
+-Traditionally, the server has kept track of logins
+-Add overhead to the server
+
+******************************** Token-based Authentication
+-No sesseion informatio is stored on the server
+-After user Authenticates, the application sends a token to the client
+-The token is provided with each request to the server
+
+******************************** T
 ********************************
 ********************************
 ********************************

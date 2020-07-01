@@ -1,0 +1,22 @@
+******************************** Gaining access
+******************************** RADIUS (Remote Authentication Dial-in User Service)
+-One of the more common AAA protocols
+-Centralize Authentication for users
+-Available to any server operating system
+
+******************************** TACACS
+-Terminal Access Controller Access-Control System
+-XTACACS (Extended TACACS)
+-TACACS+
+
+******************************** LDAP (Lightweight Directory Access Protocol)
+-Protocols for reacing and writing directories over an IP network
+
+******************************** X.500 Distingushed Names
+********************************
+********************************
+********************************
+********************************
+********************************
+********************************
+********************************

@@ -13,10 +13,27 @@
 -Protocols for reacing and writing directories over an IP network
 
 ******************************** X.500 Distingushed Names
-********************************
-********************************
-********************************
-********************************
+
+******************************** Microsoft NTLM
+-Windows challenge/response
+-LAN Manager (LANMAN)
+-NT LAN Manager v2 (NTLM)
+
+******************************** Microsoft NTLM vulnerabilities
+-Some Windows password database contain LM hash version of the passwords
+-NTLM vulnerable to a credentials forwarding attack
+-Migrate to Kerberos
+
+******************************** Kerberos
+-Network authentication protocol
+-Standard since the 1980s
+-Microsoft starting using Kerberos in Windows 2000
+
+******************************** SSO with Kerberos
+-Authentication one time
+-No constant username
+-Only works with Kerberos
+
 ********************************
 ********************************
 ********************************

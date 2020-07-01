@@ -1,7 +1,25 @@
-********************************
-********************************
-********************************
-********************************
+******************************** PPP Authentication
+-Point-to-point protocol
+    -Analog dialup, ISDN
+-And Derivatives
+    -PPTP(Point-to-point Tunneling protocol)
+-Need to Authenticate through these non-Ethernet networks
+
+******************************** PAP(Password Authentication Protocol)
+-Basic Authentication method(Legacy operating)
+-PAP is in the clear
+    -Weak Authentication
+    -Non-Encrypted password exchange
+
+******************************** CHAP
+-Challenge-Handshake Authentication protocol
+-Three-way handshake
+-Challege-response
+
+******************************** MS-CHAP
+-Microsoft Implementation of CHAP
+-Security issues 
+
 ********************************
 ********************************
 ********************************

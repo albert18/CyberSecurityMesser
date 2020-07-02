@@ -1,6 +1,20 @@
-**************************************
-**************************************
-**************************************
+************************************** Standard operating procedure
+-Important processes to maintain data and system security
+-Day-to-day processes
+-Well documented
+
+************************************** Interoperability agreements
+-Web hosting, payroll services
+-Outsource services
+-Legal agreements
+
+************************************** Common agreement
+-Service Level Agreement (SLA)
+-Business Partners Agreement (BPA)
+-Interconnection Security Agreement (ISA)
+-Memorandum of Understanding (MOU)
+-Memorandum of Agreement (MOA)
+
 **************************************
 **************************************
 **************************************

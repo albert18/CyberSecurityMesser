@@ -1,5 +1,26 @@
-**********************
-**********************
+********************** Credential Management
+-All that stands between the outside world and all of the data
+
+********************** Configuring settings
+-Windows Group Policy Management
+-Different thatn NTFS or Share permissions
+-Linked to Active Directory
+
+********************** Group Policy Control
+-Administrative Policies
+-Security Policies
+
+********************** Password Complexity and length
+-Make your password strong
+    -Characters?, password at least 8 characters
+
+********************** Password Expiration and recovery
+-Change 30 days, 60 days
+
+********************** Account lockout and disablement
+-Disable account rather than delete
+-Too many password may cause lockout
+
 **********************
 **********************
 **********************

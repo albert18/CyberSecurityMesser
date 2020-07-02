@@ -1,6 +1,19 @@
-**************************************
-**************************************
-**************************************
+************************************** Role-based security awareness training
+-Before providing access, train your usesrs
+-Specialized training
+-Also applies to third-parties
+-Detailed documentation
+
+************************************** Roles
+-Data owner
+-System administrator
+-System Owner
+
+************************************** User Roles
+-User
+-Priviledge user
+-Executive user
+
 **************************************
 **************************************
 **************************************

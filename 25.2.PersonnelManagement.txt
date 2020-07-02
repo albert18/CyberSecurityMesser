@@ -1,17 +1,30 @@
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
-**************************************
+************************************** Business policies
+-Mandatory vacations
+-Job rotation
+
+************************************** Business policies
+-Separation duties
+    -Split knowledge
+    -Dual Control
+-Clean desk policy
+
+************************************** Background checks
+-Background checks
+-Adverse Actions
+
+************************************** Personnel security procedures
+-NDA(non-disclosure agreement)
+-Onboarding
+-Continuing Education
+
+************************************** Acceptable use policies (AUP)
+-What is acceptable use of company assets
+-Covers many topic
+-Use by an organization to limit legal liability
+
+************************************** Exit Interviews
+-Employee is leaving
+-Information gathered
+-Very formal process
+
 **************************************

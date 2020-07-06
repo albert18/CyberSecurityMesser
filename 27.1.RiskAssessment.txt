@@ -20,8 +20,28 @@
 -Critical business functions
 -Impacted
 -How long will be the impact
--
 
+******************************* Testing for risk
+-Many servers contain sensitive data
+-Running Vulnerabilitys and penetration
+-Formal authorization is a best practice
+
+******************************* Risk response techniques
+-Risk-avoidance
+-Transference
+-Acceptance
+-Mitigation
+
+******************************* Change management
+-Upgrade software, change firewall configuration
+-One of the most common risks in the enterprise
+-Often overlooked or ignored
+-have clear policies
+-Sometimes extremely difficult to change
+
+*******************************
+*******************************
+*******************************
 *******************************
 *******************************
 *******************************

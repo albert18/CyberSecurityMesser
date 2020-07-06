@@ -1,0 +1,30 @@
+******************************** Security Incidents
+-User clicks an email attachment and executes malware
+-DDos attack
+-Confidential information is stolen
+
+******************************** Example of incident categories
+-External/removable media
+-Attrition - Brutem force attack
+- Web attack
+-Email attack
+-Improper Usage
+-Loss and theft of equipment
+- Other
+
+******************************** Roles and responsibilities
+-Incident response team
+-I.T. security management
+-Compliance officers
+-Technial staff
+-User community
+
+********************************
+********************************
+********************************
+********************************
+********************************
+********************************
+********************************
+********************************
+********************************

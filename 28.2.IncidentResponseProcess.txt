@@ -1,8 +1,61 @@
-********************************
-********************************
-********************************
-********************************
-********************************
+******************************** NIST SP800-61
+-National Institute of Standards and Technology
+    -NIST Special Publication 800-61
+    -Computer Security Incident Handling guide
+-The incident response lifecycle:
+    -Preparation
+    -Detection and Analysis
+    -Containment, Eradication, and Recovery
+    -Post-incident Activity
+
+******************************** Preparing for an incident
+-Communication methods
+-Incident handling hardware and software
+-Incident analysic resources
+-Incident mitigation software
+-Policies incident in handling
+
+******************************** The challenge of detection
+-Different detection sources
+-Large amount of "Volume"
+-Always Complex
+
+******************************** Incident precursors
+-Incident might occur in the future
+-Web server log
+-Exploit annoucement
+-Direct Threats
+
+******************************** Incident indicators
+-An attack is underway
+-Buffer overflow attempt
+-Anti-virus software identifies malware
+-host-based monitor Detection
+-Network traffic flows deviate from the normal
+
+******************************** Isolation and Containment
+-Sandboxes
+-Isolation can be sometimes be problematic
+
+******************************** Recovery after in incident
+-Get things back to normal
+-Eradicate the bug 
+-Recovery System
+
+******************************** Reconstitution
+-Phased approach
+-Recovery may take months
+-The plan should be efficient
+
+******************************** Lesson Learned
+-Learn and Improve
+-Post-incident meeting
+-Don't wait too long
+
+******************************** 
+-Document everything
+
+******************************** 
 ********************************
 ********************************
 ********************************

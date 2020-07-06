@@ -1,0 +1,44 @@
+************************************ Recovery
+-Mean time to restore(MTTR)
+    -Mean time to repair
+-Mean time to failure(MTTF)
+-Mean Time between failures(MTBF)
+-Recovery time Objective(RTO)
+-Recovery point Objective(RPO)
+
+************************************ Calculating uptime and availability
+-Expressed as a percentage over time
+-Availability
+
+************************************ Mission-essential functions
+
+************************************ Removing single points of failure
+-Single event can ruin your day
+-Network configuration
+-Facility/Utilities
+-People/Location
+
+************************************ Redundacy
+
+************************************ Impact
+-Life
+    -Make sure everyone is safe
+-Property
+-Safety
+-Finance
+-Reputation
+
+************************************ Privacy compliance
+-compliance requires a public Privacy statement
+-Privacy threshold analysis (PTA)
+-Privacy impact assessment(PIA)
+
+************************************
+************************************
+************************************
+************************************
+************************************
+************************************
+************************************
+************************************
+************************************

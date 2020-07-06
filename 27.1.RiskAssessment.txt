@@ -1,0 +1,22 @@
+******************************* Threat Assessment
+-Environmetal threats
+-Man-made threats
+
+******************************* Quantitative rish calculation
+-Likelihood
+    -Annualize rate occurence (ARO)
+-SLE (Single Loss Expectancy)
+-ALE (Annual Loss Expectancy)
+    -ARO x SLE
+
+******************************* Evaluating risk
+-Risk register
+
+
+*******************************
+*******************************
+*******************************
+*******************************
+*******************************
+*******************************
+*******************************

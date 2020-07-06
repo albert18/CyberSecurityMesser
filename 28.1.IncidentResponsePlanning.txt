@@ -19,9 +19,25 @@
 -Technial staff
 -User community
 
-********************************
-********************************
-********************************
+******************************** Incident notification
+-Get your contect list together
+-Corporate/Organization
+-Internal non-IT
+-External contacts
+
+******************************** Cyber-incendent response team(CIRT)
+-Receives, review, and responds
+-Determine what types of event requires a CIRT response
+    -Virus infection? Ransomware? DDoS?
+-The CIRT may or may not be part of the organization structure
+-Focuses on incident handling
+
+******************************** Exercise
+-Test yourselves before an actual event
+-Use well-defined rules of engagement
+-Very specific scenario
+-Evaluate response
+
 ********************************
 ********************************
 ********************************

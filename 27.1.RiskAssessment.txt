@@ -11,10 +11,17 @@
 
 ******************************* Evaluating risk
 -Risk register
+-Supply chain Assessment
 
+******************************* Quantitative Risk Assessment
+-Identity significant risk factors
 
-*******************************
-*******************************
+******************************* Business Impact analysis
+-Critical business functions
+-Impacted
+-How long will be the impact
+-
+
 *******************************
 *******************************
 *******************************

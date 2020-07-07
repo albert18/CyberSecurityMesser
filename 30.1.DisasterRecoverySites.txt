@@ -1,0 +1,28 @@
+************************************ Cold Site
+-No hardware
+    -Empty Building
+-No Data
+-No people
+
+************************************ Warm site
+-Somewhere between cold and hot
+-Big room with rack space
+-Hardware is ready and waiting
+
+************************************ Hot Site
+-An exact replica
+    -Duplicate everything
+-Stocked and hardware
+-Application and software are constantly updated
+-Flip a switch and everything moves
+
+************************************
+************************************
+************************************
+************************************
+************************************
+************************************
+************************************
+************************************
+************************************
+************************************

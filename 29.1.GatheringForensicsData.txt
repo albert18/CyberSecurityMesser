@@ -1,18 +1,55 @@
 ********************************************** Forensic Procedure
--
+-Collect and protect information relating to an intrusion
+-RFC 3227 Guidelines
 
+********************************************** Order of violatility
+-How long does data stick around
 
+********************************************** Chain Custody
+-Control of Custody
+-Everyone who contacts the evidence
+-Label and catalog everything
 
-**********************************************
-**********************************************
-**********************************************
-**********************************************
-**********************************************
-**********************************************
-**********************************************
-**********************************************
-**********************************************
-**********************************************
+********************************************** Legal Hold
+-A legal technique to preserve relevant information
+-Hold Notification
+-Separate repository for electronically stored information
+
+********************************************** Capture system image
+-Copy the contents of a disk
+-Software imaging tools
+-Get the backup tapes
+
+********************************************** Network traffic and logs
+-Traffic logs
+-Intrusion Detection
+-Raw network traffic data
+
+********************************************** Capture Video
+-Moving record of the event
+-Captures the status of the screen and other volatile information
+-Don't forget security cameras and your phone.
+-The video content must also be archived
+
+********************************************** Recording time offsets
+-Time zone determines
+-Different file systems stored timestamps differently
+-Record the time offset from the operating system
+
+********************************************** Take hashes
+-MD5 hashes
+    -128 bits
+-CRC Cyclical Redundancy Check
+-Create an MD5 hash for an image
+
+********************************************** Screenshots
+-Capture the state of the screen
+-External capture
+-Interal capture
+
+********************************************** Witnesses
+-Interview and document
+
 **********************************************
 **********************************************
 **********************************************

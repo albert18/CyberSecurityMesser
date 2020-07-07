@@ -1,7 +1,22 @@
-************************************
-************************************
-************************************
-************************************
+************************************ Order of restoration
+-Not all application have the same priority
+-This list should be defined
+-Order might change
+
+************************************ Backup strategies
+-backup technologies
+-Database backups
+-Email database backups
+-Snapshots
+-System backups
+
+************************************ File backups
+-The archive attribute
+-Full
+-Incremental
+-Differential
+
+************************************ Backup types
 ************************************
 ************************************
 ************************************

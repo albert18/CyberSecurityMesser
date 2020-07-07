@@ -1,8 +1,28 @@
-***************************************
-***************************************
-***************************************
-***************************************
-***************************************
+*************************************** Tabletop exercises
+-Performing a full-scale disaster drill can be costly
+-Logistics
+-tabletop exercise
+
+*************************************** The scope of a tabletop exercise
+-Decide on complexity
+-Determine the scope of the disaster
+-Involve everyone
+-Don't assu,e that every pieve of information is going to be available in a disaster
+
+*************************************** After-action report (AAR)
+-Methodology
+-Exercise the scopes and objectives
+-What work and doesnt work
+
+*************************************** Failover
+-Recovery site is prepped
+-disasster is called 
+-problem is addressed
+
+*************************************** Alternate business practices
+-We rely on our computer systems
+-Must be documented
+
 ***************************************
 ***************************************
 ***************************************

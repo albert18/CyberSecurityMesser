@@ -1,0 +1,28 @@
+*************************************** Selecting offsite recovery options
+
+*************************************** Off-site backups
+-Vaulting
+    -Send your backup media outside storage facility
+    -E-vault
+-Organization - owned site or 3rd party
+-Backups require extensive protection
+-Many compliance mandates
+
+*************************************** Distance
+-A balance act
+-The recovery site should outside the scope
+-Travel for support staff
+
+*************************************** Location Selection
+-Legal implications
+-Data sovereighnty
+
+***************************************
+***************************************
+***************************************
+***************************************
+***************************************
+***************************************
+***************************************
+***************************************
+***************************************

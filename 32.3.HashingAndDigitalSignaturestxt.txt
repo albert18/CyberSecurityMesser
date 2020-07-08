@@ -1,9 +1,34 @@
-*****************************
-*****************************
-*****************************
-*****************************
-*****************************
-*****************************
+***************************** Hashes
+-Represent data as short string of text
+-One way trip
+-Verify a downloaded documents is the same as the original 
+-Can be a digital signature
+-Will not have a collision
+
+***************************** A hash example
+-SHA256 hash
+    -256 bits / 64 hexadecimal characters
+
+***************************** Collision
+-Hash functions
+-Hash should be unique
+-MD5 has a collision problem
+
+***************************** Practical hashing
+-Verify a downloaded file
+-Password Storage
+
+***************************** Digital signature
+-Proves the message was not changed
+-Prove the source of the message
+-Make sure the signature isnt fake
+-Sign with the private key
+-Verify with the public key
+
+***************************** Verifying a digital signature
+
+
+
 *****************************
 *****************************
 *****************************

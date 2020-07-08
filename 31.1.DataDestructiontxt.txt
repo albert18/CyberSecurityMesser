@@ -1,8 +1,28 @@
-***************************************
-***************************************
-***************************************
-***************************************
-***************************************
-***************************************
+*************************************** Data Destruction and media sanitazation
+-Disposal becones a legal issue
+-You don't want critical information in the trash
+-Reuse the storage media
+
+*************************************** Protect your rubbish
+-Secure your garbage
+-Shred your documents
+-Burn Documents
+-Pulp the paper
+
+*************************************** Physical Destruction
+-Shredder/Pulverizer
+-Drill/ Hammer
+-Electromagnetic
+-Incineration
+
+*************************************** Certificate of Destruction
+-Destruction is often done by a 3rd party
+-Need confirmation
+
+*************************************** Sanitizing media
+-Purge data
+-Wipe data
+
+*************************************** Data Security
 ***************************************
 ***************************************

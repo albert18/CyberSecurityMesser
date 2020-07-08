@@ -1,5 +1,15 @@
-***************************************
-***************************************
+*************************************** Labeling sensitive data
+-Not all data has same the level of sensitivity 
+-Different level requires
+-Public/Unclassified
+-Private/classified/restricted/internal use only
+-Confidential
+
+*************************************** Sensitive data types
+-Prorietary
+-PII - Personally Identifiable information
+-PHI - Protected Healther Information
+
 ***************************************
 ***************************************
 ***************************************

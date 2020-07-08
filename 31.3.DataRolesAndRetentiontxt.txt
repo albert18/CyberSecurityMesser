@@ -1,5 +1,16 @@
-***************************************
-***************************************
+*************************************** Data Roles
+-High-Level data relationships
+-Data Owner
+-Data steward
+    -Responsinle for data accurancy, privacy and security
+-Data Custodian
+-Privacy officer
+
+*************************************** Data Retention
+-Keep files that change frequently for version control
+-Recover from the virus infection
+-Consider legal requirement for data retention
+
 ***************************************
 ***************************************
 ***************************************

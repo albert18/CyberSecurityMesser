@@ -1,0 +1,31 @@
+******************************************* Cryptography
+-Confidentiality
+-Authentication and access control
+-Integrity
+
+******************************************* Cryptography Terms
+-Plaintext
+-Ciphertext
+-Cipher
+-Cryptanalysis
+
+******************************************* Cryptographic Keys
+-Keys
+-Some encryption method use one key
+
+******************************************* Confusion
+-encryption is based on confusion and diffusion
+-Confusion
+    -The encrypted data
+
+******************************************* Diffusion
+
+
+
+*******************************************
+*******************************************
+*******************************************
+*******************************************
+*******************************************
+*******************************************
+*******************************************

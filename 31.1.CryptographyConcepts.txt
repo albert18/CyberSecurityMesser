@@ -20,11 +20,22 @@
 
 ******************************************* Diffusion
 
+******************************************* Security through obscurity
+-Security should exists
+-Substitution Cipher
+-SSID broadcast suppression, MAC Filtering
+
+******************************************* Random Numbers
+-Cryptography relies on randomness
+-Random Number generation
+-Pseudo-randomness doesnt rely on the natural world
+
+******************************************* App Development and Cryptography
+-API library does all the heavy lifting
+-Developers don't need to be Cryptographers
+-Windows software library is the Cryptographic service provider (CSP)
 
 
-*******************************************
-*******************************************
-*******************************************
 *******************************************
 *******************************************
 *******************************************

@@ -1,11 +1,26 @@
-******************************************* 
+******************************************* Symmetric Encryption
+-Single, Shared key
+-Secret key algorithm
+-Doesn't scale very well
+-Very fast to use
 
+******************************************* Asymmetric Encryption
+-Public key Cryptography
+-Private key
+-Public Key
+=The Private key is the only key that can decrypt data Encrypted with the public key
 
-*******************************************
-*******************************************
-*******************************************
-*******************************************
-*******************************************
+******************************************* The KEY Pair
+-Asymmetric Encryption
+-Key Generation
+
+******************************************* Asymmetric Encryption
+
+******************************************* Symmetric key from Asymmetric keys
+
+******************************************* Elliptic curve Cryptography (ECC)
+-Instead of numbers, use curves!
+
 *******************************************
 *******************************************
 *******************************************

@@ -3,8 +3,15 @@
 -Random or psedo-Random number
 -Use a nonce during the login process
 
-***************************** 
-*****************************
+***************************** Initialize Vectors
+-Type of nonce
+-Used in encryption ciphers
+
+***************************** Salt
+-A nonce most commonly associated with password randomization
+-Password storage should always be salted
+-If the password database is breached, you cant correlate with passwords.
+
 *****************************
 *****************************
 *****************************

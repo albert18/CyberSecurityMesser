@@ -1,5 +1,14 @@
-*****************************
-*****************************
+***************************** The strenth of enhanced_encryption
+-Strong cryptopgraphy vs weak cryptopgraphy
+-Practically everything can be brute forced
+-Strong algorithms have been around for while
+    -AES
+-Weak algorithms    
+    -WEP, DES
+
+***************************** Give weak keys a workout
+
+
 *****************************
 *****************************
 *****************************

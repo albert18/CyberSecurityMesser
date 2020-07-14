@@ -1,6 +1,16 @@
-************************
-************************
-************************
+************************ Block Cipher Modes of operation
+-Encrypt one fixed-length
+-Mode of operation
+-Block size is a fixed size
+
+************************ ECB (Electronic Codebook)
+-The simplest Encryption mode
+-Each block is Encrypted with the same key
+
+************************ CBC (Cipher Block Chaining)
+-A popular mode of operation
+-Each plaintext block is XORED with previous ciphertext block
+
 ************************
 ************************
 ************************

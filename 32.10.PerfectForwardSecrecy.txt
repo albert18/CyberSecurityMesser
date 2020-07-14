@@ -1,0 +1,13 @@
+*************************************** Traditional web server encryption
+-SSL/TLS
+-The servers private key can rebuild everything
+
+*************************************** Perfect forward secrecy (PFS)
+-Change the method of key exchange
+-Elliptic curve 
+-PFS requires more computing power
+-The browser must support PFS
+
+***************************************
+***************************************
+***************************************

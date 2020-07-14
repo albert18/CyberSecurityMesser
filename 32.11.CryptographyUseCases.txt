@@ -1,0 +1,23 @@
+********************* Finding the balance
+-Low power devices
+    -Mobile devices, portable systems
+    -Smaller symmetric key sizes
+
+-Low Latency
+-High Resiliency
+
+********************* Use cases
+-Confidentiality
+-Integrity
+-Obfuscation
+
+********************* Use cases
+-Authentication
+-Non-Repudation
+-Resources vs security constraints
+
+
+
+*********************
+*********************
+*********************

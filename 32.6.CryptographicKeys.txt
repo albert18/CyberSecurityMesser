@@ -1,8 +1,23 @@
-******************************
-******************************
-******************************
-******************************
-******************************
+****************************** Cryptographic keys
+-The key determines the output
+-Keep your key private
+
+****************************** Key Strength
+-Larger key tend to be more secure
+-Symmetric encryption
+-Asymmetric encryption
+
+****************************** Key exchange
+-Logistical challenge
+-Out-of-band key exchange
+-In-band key exchange
+
+****************************** Real-time encryption/decryption
+-Share a Symmetric session key using Asymmetric encryption
+-There's a need for fast security
+-Implement session keys carefully
+
+****************************** 
 ******************************
 ******************************
 ******************************

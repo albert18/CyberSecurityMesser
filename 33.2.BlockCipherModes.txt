@@ -11,7 +11,14 @@
 -A popular mode of operation
 -Each plaintext block is XORED with previous ciphertext block
 
-************************
-************************
+************************ CTR Counter
+-Block Cipher mode or counter mode
+-Plaintext can be any size, since its part of the XOR
+
+************************ GCM  (Galois/Counter Mode)
+-Encryption with Authentication
+-Minimum latency, minimum
+-Commonly used in packetized data(SSL/TLS, Network traffic security)
+
 ************************
 ************************

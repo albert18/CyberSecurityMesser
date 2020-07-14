@@ -1,0 +1,32 @@
+************************************** DES
+-Data Encryption Standard
+-Developed between 1972 and 1977
+-64 bit clock cipher
+    -56 bit key
+-Easily brute force
+
+************************************** 3DES
+-Triple DES
+-Three Different keys is the strongest 3DES Encryption
+
+
+************************************** RC4
+-Rivest Cipher 4
+-Part of the ill-fated WEP standard
+-RC4 has 'biased output'
+
+************************************** AES (Advanced Encryption Standard)
+-US Federal Governement Standard
+-128-bit block cipher
+-Used in WPA2
+
+************************************** Blowfish and Twofish
+-Blowfish
+    -64 bit block cipher, variable length key (1 to 448 bits)
+
+-Twofish
+    -Successor to Blowfish
+    -128-bit block size, key sizes up to 256
+
+**************************************
+**************************************

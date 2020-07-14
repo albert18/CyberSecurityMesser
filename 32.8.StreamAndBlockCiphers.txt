@@ -1,5 +1,13 @@
-******************************
-******************************
+****************************** Stream Ciphers
+-Encryption is done one bit or byte at a time
+-Used with symmetric Encryption
+-The starting state should never be the same twice
+
+****************************** Block Ciphers
+-Encrypt fixed-length groups
+    -often 64 bits or 128 bit block
+-symmetric Encryption
+
 ******************************
 ******************************
 ******************************

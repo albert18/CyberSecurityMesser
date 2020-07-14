@@ -1,0 +1,22 @@
+****************************************** Data in-transit
+-Date transmitted over the network
+-Not much protection as it travels
+-Network-based protection
+-Provice transportation encryption(SSL)
+
+****************************************** Data at-rest
+-Date is on storage device
+    -Hard drive, SSD, etc
+
+-encrypt data
+    -Whole disk encryption
+    -Database encryption
+    -File or folder-level encryption
+-Apply permission
+
+******************************************  Data in-use
+-The data is in memory
+    -System ram, cpu
+-the data is almost always descrypted
+
+****************************************** 

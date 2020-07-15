@@ -14,8 +14,19 @@
     -Up to 512 bit digests
     -SHA-1 is now retired for most government use
 
-****************************
-****************************
+**************************** HMAC
+-Hash-based Message Authentication Code
+    -Code a hash with a secret key
+    -HMAC-MD5, HMAC-SHA1
+
+-Verify data integrity and Authenticity
+-Used in network encryption protocols
+
+**************************** RIPEMD
+-A family of message digest algorithm
+-Race
+-Original RIPEMD was found to have collion issues 2004
+
 ****************************
 ****************************
 ****************************

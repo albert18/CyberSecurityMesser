@@ -1,0 +1,12 @@
+************************** Give a weak key a workout
+-A weak key is a weak key
+-Brute force attack would require reversing
+
+************************** Key stretching libraries
+-already build for application
+-bcrypt software
+-Password-Based Key Derivation
+
+**************************
+**************************
+**************************

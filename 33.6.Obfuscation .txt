@@ -1,0 +1,23 @@
+************************** Obfuscation 
+-The process of making something unclear
+-But it's not impossible to understand
+-Make Source Code difficult to read
+
+************************** XOR Exclusive or Cipher
+-Outputs true when inputs differ
+-Used extensively in cryptography
+
+************************** Substitition Ciphers
+-Simple Substitition
+-Caesar Cipher
+-Hack these Ciphers with frequency analysis or brute force
+  
+************************** ROT13
+-ROT13 - Rotate by 13 places
+    -Substitute one letter with another
+    -'URYYB' is "Hello"
+-Commonly found in online forums
+-
+
+
+************************** 

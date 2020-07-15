@@ -1,0 +1,43 @@
+********************************* Public Key Infrastructure (PKI)
+-Policies, procedures, hardware software, people
+-Digital certificates, create, distribute, manage, stroke
+
+********************************* Key management lifecycle
+-Key generation
+-certificates generation
+-Distribution
+-Storage
+-Revocation
+-Expiration
+
+********************************* Digital certificates
+-Public key certificates
+-Digital signature adds trust
+-Certificate creation can be build into the OS
+
+********************************* Certificate Extension
+-Standard Extension
+
+********************************* Commerical certificates authorities
+-Built-in to your browser
+-Purchase your web site Certificate
+-Create a key pair, send the public key to the CA to be signed (CSR)
+
+********************************* Private Certificate authorities
+-You are your own CA
+    -Build it in-house
+
+********************************* PKI trust relationships
+-Single CA
+-Hierarchical
+
+********************************* Key Revocation
+-Certificate Revocation List (CRL)
+-April 2014 - CVE-2014-0160
+
+********************************* Revocation details to the browser
+-OCSP (Online Certificate Status protocol)
+-Messages usually sent to an OCSP respondent to HTTP
+
+*********************************
+

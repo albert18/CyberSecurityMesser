@@ -1,0 +1,24 @@
+**************************** MD5 Message digest algorithm
+-Designed by ronald rivest
+-First published April 1992
+    -Replaced MD4
+-1996 Vulnerabilities found
+
+**************************** Secure Hash algorithm (SHA)
+-Developed by the national security agency(NSA)
+-SHA-1
+    -Widely used
+    -160 bit digest
+-SHA-2
+    -The preferred SHA variant
+    -Up to 512 bit digests
+    -SHA-1 is now retired for most government use
+
+****************************
+****************************
+****************************
+****************************
+****************************
+****************************
+****************************
+****************************

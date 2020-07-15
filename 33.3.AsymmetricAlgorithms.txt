@@ -5,10 +5,25 @@
 -Used for perfect forward secrecy
 -Use asymmetric cryptography
 
-***********************************
-***********************************
-***********************************
-***********************************
+*********************************** RSA (Ron Rivest, Adi Shamir, and Leonard Adelman)
+-The first practical public-key cryptography system
+-Based on the product of two large prime numbers
+-Now released into public domain
+
+*********************************** DSA (Digital signature algorithm)
+-Standard for digital signatures
+-Federal information processing standard
+
+
+*********************************** Elliptic curve cryptography (ECC)
+-Used for encryption, digital signatures
+-Asymmetric encryption
+-Instead of numbers, use curves
+
+*********************************** PGP (Pretty Good Privacy) and GCP
+-Popular asymmetric encryption
+
+
 ***********************************
 ***********************************
 ***********************************

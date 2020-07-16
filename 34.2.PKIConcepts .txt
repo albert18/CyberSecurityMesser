@@ -1,6 +1,36 @@
+************************* Online and Offline casino
+-A compromised certificate authority
+-Distribute the load
+
+************************* OCSP stapling
+-Online certificate status protocol
+-CA is responsible for the responding to all client OCSP
+-"Stapled" into SSL/TLS handshake
+
+************************* Pinning
+-You're communicationg over TLS/SSL to a server
+-"Pint" the expeced certificate or public ket to an application
+
+************************* PKI trust relationships
+-Single CA
+-Hierarchical
+-Mesh
+-Web of trust
+-Mutual Authentication
+
+************************* Key Escrow
+-Someone else holds your descryption keys
+
 *************************
-*************************
-*************************
-*************************
+-Need clear process and procedures
+-Must trust 3rd party
+-Carefully controlled conditions
+
+************************* Certificate Chaining
+-Chain Trust
+-Chain starts with SSL Certificate
+-Any certificate between the SSL certificate and the root certificate is a chain certificate
+-Web server need to configured
+
 *************************
 *************************

@@ -1,0 +1,45 @@
+************************************ Root Certificate
+-Identifies the root CA
+-This is very important Certificate
+
+************************************ Web Server SSL Certificate
+-Domain validation Certificate (DV)
+-Extended validation Certificate (EV)
+
+************************************ Web server SSL Certificate
+-Subject Alternative Name (SAN)
+-Wildcard domain
+
+************************************ Self-signed Certificates
+-Internal Certificate don't need to be signed by a public CA
+-Build your own CA
+-Install the CA Certificate/trusted chain on all devices
+
+************************************ Machine and computer Certificate
+-You have to manage many devices
+-How can you truly authenticate a device
+
+
+************************************ User certificates
+-Associatge a certificates with a User
+    -Powerful electronic ID card
+-Uses additional authentication factor
+    -Limit access without the Certificate
+-Integrate onto smart cards
+
+************************************ Email Certificate
+-Use cryptography in email platform
+-Encrypting emails
+-Digital signatures
+
+************************************ Code signing Certificate
+-Developers can provide a level of trust
+-The users operationg system
+-Is it from a trusted entity
+
+************************************
+************************************
+************************************
+************************************
+************************************
+************************************

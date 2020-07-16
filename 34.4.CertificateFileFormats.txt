@@ -1,0 +1,33 @@
+*********************************** Certificate file formats
+-X.509 digital Certificate
+-There are many Certificate file formats
+
+*********************************** DER (Distinguished Encoding Rules)
+-Format designed to transfer
+-Binary format
+
+*********************************** PEM (Privacy enhanced mail)
+-very common format
+-ASCII format
+
+*********************************** PKCS #12
+-Public key cryptography standards #12
+-personal information exchange syntax standard
+-Container format for many Certificate
+-Extended from Mircrosoft .pfx format
+
+*********************************** CER (Certificate)
+-Primary a window X.509 file extension 
+-usually contains public key
+
+*********************************** PKCS #7
+-Public Key cryptography standards #7
+-Cryptographic Message Systax Standard
+-Stored in ASCII format
+-Contains Certificate and chain Certificate
+-Wide platform support
+
+***********************************
+***********************************
+***********************************
+***********************************

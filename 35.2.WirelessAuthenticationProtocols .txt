@@ -1,6 +1,18 @@
-*****************************
-*****************************
-*****************************
+***************************** EAP 
+-Entensible Authentication Protocol
+-An Authentication frameworks
+
+***************************** EAP Type
+-EAP-Fast
+-EAP-TLS (EAP Transport Layer Security)
+-EAP-TTS (EAP Tunneled transport layer security)
+
+***************************** PEAP
+-Protected Extensible Authentication protocol
+-Created by Cisco, Microsoft
+-Encapsulates EAP in a TLS tunnel
+-Commonly implemente
+
 *****************************
 *****************************
 *****************************

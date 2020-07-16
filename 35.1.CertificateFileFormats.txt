@@ -6,8 +6,15 @@
 -Dont use WEP
 
 
-***********************************
-***********************************
+*********************************** Temporal KEY Integrity protocol
+-Mixed the keyboard_capslock
+-Implements a 64 bit
+
+*********************************** WPA2 and CCMP
+-WPA2 Certification began in 2004
+-CCMP block cipher mode
+-CCMP Security
+
 ***********************************
 ***********************************
 ***********************************

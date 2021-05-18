@@ -1,0 +1,16 @@
+***************Risk Identification/assessment
+
+Nessus(Tool)
+
+
+*************** Penetration Testing(Pen Testing) - Check vulnerabilities assessment
+
+*************** Threat assessment - define the threat 
+1. Adversial - hacker, malware, someone doing naughty in your infrastructure
+2. Accidental - type something to get wrong
+3. Structural - Power supply, monitor or camera. Equipment or software failure.
+4. Environmental - fire, earthquake, etc.
+
+
+*************** Risk Response
+Mitigation - is effort to reduce impact of risk.

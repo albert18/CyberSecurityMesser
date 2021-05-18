@@ -1,0 +1,20 @@
+Security control - an action, apply to infrastructure, remediate problem.
+
+Apply monitor and adjust
+
+************Different category security control
+
+Administrative Control(management control) -  Control actions toward IT security
+
+Technical Control - Computer stuff, firewall, authentication
+
+Physical Control - gates, key, man trap and etc.
+
+
+************ Security Control Functions
+-Deterrent -deters the actor from attemplting the threat
+-Preventative - Deters the actor from performing the threat
+-Detective - recognized an actors threat
+-Corrective - mitigates the impact of a manifested threat.
+-Compensating - provides alternative fixed to any of the above functions
+

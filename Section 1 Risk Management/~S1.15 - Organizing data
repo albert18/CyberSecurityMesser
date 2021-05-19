@@ -11,6 +11,13 @@ Protected Health information(PHI) - HIPAA
 -Steward/custodian
 -Privacy Officer - ensures data adheres to privacy policies
 
+
+NOTE:
+The owner is legally responsible for the data, has complete control of the data element, and decides access rules. 
+A privacy officer, as custodian, has the technical control over the information asset but is not legally responsible for the data. 
+System administrators are also custodians of the data  and their primary job is to manage the physical access to the data and equipment on which the data resides. 
+Users and privileged users receive rights (read, write, etc) to data based on the owner’s determination.
+
 **********Data Users
 **User Roles
 

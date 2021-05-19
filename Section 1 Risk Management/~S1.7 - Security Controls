@@ -11,6 +11,17 @@ Technical Control - Computer stuff, firewall, authentication
 Physical Control - gates, key, man trap and etc.
 
 
+
+Manufacturer and vendor guides can provide which of the following?
+
+Setup Suggestion
+
+Manufacturers and vendors provide guides for basic setup information and some security 
+controls options that are configurable for the device. To get the additional network configuration, 
+other security control options, and recent security information, you will need to visit Web sites, blogs, and user groups.
+
+
+
 ************ Security Control Functions
 -Deterrent -deters the actor from attemplting the threat
 -Preventative - Deters the actor from performing the threat
@@ -18,3 +29,6 @@ Physical Control - gates, key, man trap and etc.
 -Corrective - mitigates the impact of a manifested threat.
 -Compensating - provides alternative fixed to any of the above functions
 
+
+
+*************************Which one of the following is a category of security control?  Administrative (managerial)

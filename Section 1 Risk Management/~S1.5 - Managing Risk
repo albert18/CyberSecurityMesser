@@ -5,6 +5,10 @@ Nessus(Tool)
 
 *************** Penetration Testing(Pen Testing) - Check vulnerabilities assessment
 
+Penetration (pen) testing is correct. Nessus is a self-diagnosing tool and the other options are types of threat.
+
+
+
 *************** Threat assessment - define the threat 
 1. Adversial - hacker, malware, someone doing naughty in your infrastructure
 2. Accidental - type something to get wrong

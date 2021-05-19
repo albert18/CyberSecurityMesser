@@ -1,4 +1,6 @@
-*CIA
+***********CIA -The CIA triad involves keeping data secret (confidentiality), 
+securing data and systems from unauthorized changes (integrity), and ensuring systems and data are accessible when needed (availability).
+
 Confidentiality
 Integrity
 Availability

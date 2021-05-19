@@ -1,0 +1,21 @@
+Public Data
+Confidential Data
+Private - (PII) Private identifiable information
+
+Proprietary - Like private but a corporate level
+
+Protected Health information(PHI) - HIPAA
+
+**********Data Roles
+-Owner - legally responsible for the data
+-Steward/custodian
+-Privacy Officer - ensures data adheres to privacy policies
+
+**********Data Users
+**User Roles
+
+-Users
+-Priviledged users
+-Executive users
+-System Administrator
+-Data owner/System Owner

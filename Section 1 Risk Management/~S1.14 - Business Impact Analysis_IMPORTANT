@@ -1,0 +1,27 @@
+3 Primary Step
+
+1. Determine Mission process
+2. Identify Critial Systems
+3. Single point of failure
+4. Identify resource requirements
+5. Identify recovery priorities
+
+
+**********Impact
+Property - lose equipment
+
+People - safety, loss of life
+
+Finance - 
+
+Reputation - 
+
+
+Privacy Impact Assessment(PIA) - What would impact of privacy we were protecting got out.
+
+Privacy Threshold Assessment(PTA) - doing Assessment on data, where is data? Where is storing the data.
+
+Recovery time Objective (RTO) - minimum time necessary to restore the Critial system operation.
+
+Recovery point Objective (RPO) - Maximum data that can be lost without substantial impact.
+

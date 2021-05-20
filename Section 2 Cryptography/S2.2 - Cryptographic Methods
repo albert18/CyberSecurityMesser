@@ -1,0 +1,20 @@
+Symemntric Encryption - you need the same key(How you going to send the key) - IS PRIMARY WAY WE ENCRYPT DATA.
+
+Session Key - 
+
+In-Band
+Out-of-Band
+
+Ephemeral Key - Temporary,Provides perfect forward secrecy
+
+***********Asymmetric Encryption - is used to send a secure session key.
+doesnt Have a key
+(Use key pair)
+    1    Public Key
+    2    Private Key
+
+Down Side - can only encrypt the other but they other way around.
+
+
+
+***********Cryptosystem - very define piece cryto, can programming use to get things done.

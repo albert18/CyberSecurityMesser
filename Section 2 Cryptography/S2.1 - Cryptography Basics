@@ -1,1 +1,37 @@
-Cryptography
+*********Cryptography - is the science/Study - taking data and making it hide in someway and bringing the data back
+
+*********Obfuscation - is to take something to make sense and to hide so it does not make sense to the outside. -LESS VISIBLE/CONFUSION
+
+*********Encryption and De-encryption
+
+*********Ceaser Cipher -
+
+Substitution
+
+ROT2
+ROT3
+
+We Attack at Dawn
+
+Cryptanalysis - 
+
+Vigeneri Cipher - give 
+
+1. Algorithm
+2. Key for encryption
+
+FACE - 
+
+-Need Algorithm that work with binary data
+-Each character takes 8 binary digit
+
+Exclusic OR
+
+
+***********Data at rest - something stored on the media, storage media
+
+***********Data in transit - moving thru internet to be encrypted
+
+***********data in process - big data process, sitting in RAM, CPU - Where are we going to encrypting and decrypting the data
+
+

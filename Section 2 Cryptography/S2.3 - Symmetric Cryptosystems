@@ -1,0 +1,16 @@
+Symmetric Cryptosystem 
+
+Symemntric Key Algorithm - use same key with Encrypting and De-Crypting
+
+Block - 
+
+**************Data Encryption Standart(DES) - Block Cipher, 64 bits, Initial Permutation, Key size 56 bits, 16 rounds.
+
+Subkey - 48 bits
+
+Feistel Function
+
+Short Key - 
+
+Blowfish - 
+Triple DES - Block Cipher, 64 bits block size, 16 rounds 168 bit

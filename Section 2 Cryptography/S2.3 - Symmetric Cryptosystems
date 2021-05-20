@@ -12,5 +12,23 @@ Feistel Function
 
 Short Key - 
 
-Blowfish - 
-Triple DES - Block Cipher, 64 bits block size, 16 rounds 168 bit
+*********Blowfish - 64-bit Block Size, 16 rounds, 32-448 bits
+
+*********Triple DES - Block Cipher, 64 bits block size, 16 rounds 168 bit
+
+
+Advanced Encryption Standard (AES) - it is essence, powerful Symmetric
+-- Block Cipher, 128-bit Block Size, Key Size: 128, 192, or 256-bits, Rounds 10,12 or 14
+
+
+Streaming Cipher - A stream cipher is a symmetric key cipher where plaintext digits are combined with a pseudorandom cipher digit stream (keystream). 
+In a stream cipher, each plaintext digit is encrypted one at a time with the corresponding digit of the keystream, to give a digit of the
+
+RC4 - streaming of Encryption(Streaming Cipher, 1 bit at a time, 1 round, Key Size: 40-2048 Bits)
+
+
+QUICK REVIEW
+
+Triple DES (3DES) is the DES key size tripled
+
+AES is a U.S. government encryption standard supported by the NIST

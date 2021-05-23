@@ -11,7 +11,7 @@ Subkey - 48 bits
 
 Feistel Function
 
-Short Key - 
+Short Key - 56 bits is actual short
 
 *********Blowfish - 64-bit Block Size, 16 rounds, 32-448 bits
 

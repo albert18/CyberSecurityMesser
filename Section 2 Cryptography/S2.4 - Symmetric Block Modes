@@ -1,0 +1,8 @@
+Electronic Code Book - we do not use with Symmetric
+
+Block Mode - encrypt and helps encrypt the next one.
+    - Cipher Block Chaining(CBC) - 
+    - Cipher Feedback(CFB) -
+    - Output Feedback(OFB) - 
+    - Counter(CTR) -
+    

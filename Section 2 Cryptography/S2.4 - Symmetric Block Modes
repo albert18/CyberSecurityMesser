@@ -1,8 +1,9 @@
-Electronic Code Book - we do not use with Symmetric
+Electronic Code Book - we do not use with Symmetric(IMPORTANT NO BODY USE ECB ANYMORE)
+    - Block modes will always output the same result with the same input.
 
-Block Mode - encrypt and helps encrypt the next one.
+Block Mode - encrypt and helps encrypt the next one.(use an initilization vector, which ensures the output block is uniquely different)
     - Cipher Block Chaining(CBC) - 
     - Cipher Feedback(CFB) -
     - Output Feedback(OFB) - 
     - Counter(CTR) -
-    
+

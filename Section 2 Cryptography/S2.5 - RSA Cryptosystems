@@ -1,0 +1,16 @@
+ Public keys are paired with a private key (ie Key Pair)
+ When using RSA Asymmetric Cryptosystems
+ 
+ ECC can create a smaller key than RSA provides the same security with increased performance
+
+
+
+
+
+
+Asymmetric Encryption - Key pair(Public Key, Private key)
+
+RSA - Asymmetric algorithm 
+
+(ECC) Elliptic Curve Cryptography - It can provides us a small key, same robust Asymmetric Encryption
+

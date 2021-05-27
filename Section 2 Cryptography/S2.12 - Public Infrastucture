@@ -1,0 +1,13 @@
+PKI(Public Key Infrastructure) - 
+
+
+PKCS 7 - is a way to store Certificate as individual files.
+
+PKCS 12 - stores Certificate and private key as a package
+
+X.509 - 
+
+
+CRL(Certificate revocation list) - is a path,
+
+OCSP(Online Certificate Status Protocol) - is more modern version of Certificate revocation list

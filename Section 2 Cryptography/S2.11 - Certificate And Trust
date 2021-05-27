@@ -1,3 +1,15 @@
 Digital Signature - is just a hash
 
 Digital Certificate - like a word document/ send public key, Third party Digital Signature(You dont send public bt itself)
+
+
+Way to get trust
+-Create your own Certificate(Unsigned Certificate) - 
+
+-WEB OF TRUST - 
+
+-PKI(Public Key Infrastructure) - The way we do the internet
+
+
+Certificate Authority (CA) - Organization that provides Certificate
+

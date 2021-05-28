@@ -10,4 +10,8 @@ X.509 -
 
 CRL(Certificate revocation list) - is a path,
 
+CRL is correct. CRL, which can take up to 24 hours to react to a bad certificate, 
+is starting to fade because OCSP can identify issues in close to real-time.
+
+
 OCSP(Online Certificate Status Protocol) - is more modern version of Certificate revocation list

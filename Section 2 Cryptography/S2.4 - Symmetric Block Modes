@@ -1,6 +1,15 @@
 Electronic Code Book - we do not use with Symmetric(IMPORTANT NO BODY USE ECB ANYMORE)
     - Block modes will always output the same result with the same input.
 
+
+Note: 
+ECB leaves a pattern in the ciphertext. Each encryption block is identical when generated from an identical plaintext.
+ All the other methods will create a different output from an identical input source due to incremental count or the
+  addition of a nonce number.
+
+
+
+
 Block Mode - encrypt and helps encrypt the next one.(use an initilization vector, which ensures the output block is uniquely different)
     - Cipher Block Chaining(CBC) - 
     - Cipher Feedback(CFB) -

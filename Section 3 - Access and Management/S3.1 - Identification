@@ -1,0 +1,13 @@
+Identification - who you are
+
+Authorization - What right you have 
+
+Authentication - proving right, password, smart car
+
+*****Authentication Factors
+    Something you know(Password, PIN Code, Captcha)
+    Something you have(Smartcard(Chip), driver license, RSA key)
+    Something About you(I.E. Biometric, facial recognition)
+
+    Something you do()
+    Somewhere you are(i.e. credit card world)

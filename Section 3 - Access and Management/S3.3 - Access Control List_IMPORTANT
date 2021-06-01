@@ -1,0 +1,21 @@
+3 Types of Access Control your going to see in the EXAM
+
+-Mandatory Access Control
+    MAC
+    Labels
+    ex: clearance(Security Clearance, Top-Security Clearance)
+
+-Discreationary Access Control
+    DAC
+    Owner of the data defines access
+    Roles
+
+-Role-based Access Control
+    RBAC
+    Access to resources is defined by a set a values
+    Group
+
+
+Access Control List
+
+Implicit Deny -

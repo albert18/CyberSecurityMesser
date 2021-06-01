@@ -1,0 +1,15 @@
+Linux has 3 permission
+R - Read(Open File, View Content)
+W - Wite(Edit a file, add or delete file)
+X - Execute(Run a file, different directory)
+
+chmod = shoft for change mode(Change permission)
+
+G = Group
+
+chown - require sudo user
+
+(passwd) - changes user password
+
+
+sudo - stand for "SuperUser Do"

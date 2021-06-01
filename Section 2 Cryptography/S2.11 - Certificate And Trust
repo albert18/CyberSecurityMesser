@@ -13,3 +13,7 @@ Way to get trust
 
 Certificate Authority (CA) - Organization that provides Certificate
 
+
+
+NOTE: Hash is correct. To create a digital signature for a document, you hash the document using your private key.
+ Others can verify your digital signature with your public key.

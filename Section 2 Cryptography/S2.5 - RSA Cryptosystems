@@ -7,6 +7,16 @@
 
 
 
+NOTE:RSA is an asymmetric encryption, meaning it encrypts with a different key than it decrypts.
+ Symmetric encryption uses the same key to encrypt and decrypt. Diffie-Hellman is an algorithm, not an encryption type.
+  Block mode describes how data is encrypted.
+
+
+
+
+
+
+
 
 Asymmetric Encryption - Key pair(Public Key, Private key)
 

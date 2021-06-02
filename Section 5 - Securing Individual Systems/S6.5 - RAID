@@ -1,0 +1,16 @@
+Raid Array 
+    Provide Integrity
+    Provide Access
+
+Raid Level
+    RAID0 - Increase the speed of the data, NO DATA INTERGRITY
+    RAID1 - Mirroring, HAS INTERGRITY, no performance change
+    RAID2 - Dedicated parity drive
+    RAID5 - Minimum 5 drive needed,
+    RAID6 - Minimum 4 drive needed, 
+
+
+RAID 01 - basically mirror of stripe.
+
+
+Parity - 

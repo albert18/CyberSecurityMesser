@@ -8,6 +8,21 @@ A third party that sneek between two party
 Wired-Man-in-the-middle(Gather data, username, password)
     Spoofing - port stealing
 
+ARP Poison - 
+
+Typosquatting - URL Hijacking
+
+    Domain Hijacking
+
+Manipulating the M1M data - 
+
+Replay attack - once you get information, you can keep logging in again and again
+
+Downgrade attack - most attack on webpages
 
 
-ETTERCAP
+
+
+
+****************************************************************************************************************************************
+ETTERCAP - a program to sneek

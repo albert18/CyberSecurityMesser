@@ -1,3 +1,5 @@
+
+
 Password Authentication Protocol(PAP) - oldest authentication is Security+
    -Not we don't use it anymore
    -Send it information in Clear(hahahaha)
@@ -26,3 +28,6 @@ Security Assertion Markup Language(SAML) - used for web application
 
 *****Lightweight Directory Access Protocol(LDAP) - not authentication, but mostly structured language allows to query and update what needs to do. (USE TCP/UDP 389 ) 
 
+
+NOTE:
+Key distribution center is correct. PAP and CHAP are both authentication methods, and a gateway is the system that routes traffic from inside to outside a network.

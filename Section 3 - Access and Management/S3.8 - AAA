@@ -13,3 +13,8 @@ AAA - Authentication, Authorization and Accounting
 
 
 BOTH Radius & TACACS - do auditing for log files(Keep Track)
+
+
+NOTE:
+The system trying to authenticate is correct. The system that checks the authentication is the RADIUS server. The system that acts as the gateway is the RADIUS client, and the last has nothing to do with RADIUS set-up or functionality.
+

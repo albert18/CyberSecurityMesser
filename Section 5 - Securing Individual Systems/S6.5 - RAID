@@ -11,6 +11,15 @@ Raid Level
 
 
 RAID 01 - basically mirror of stripe.
+RAID 10 - Strip of Mirros, that stripe get mirror in each data
 
+Proprietary RAID - 
 
 Parity - 
+
+
+Synology hybrid drive
+
+
+NOTE: different level of raid, 
+    increase disk access or improve tolerance/Raid

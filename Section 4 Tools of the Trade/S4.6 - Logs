@@ -1,0 +1,33 @@
+Non-Network Events - Event that happen on a host even though it's not connectec to network.
+    Operating System
+        Host starting
+        Host Shutdown
+        Reboot
+        Services starting, stoppoing and failing
+        Operating system updates
+
+    Application Events
+        Application installation
+        Application starts, stop, or create
+
+    Security
+        Logongs
+        Logon successess and failures
+            Date, Time, Process/Soource, Account, event number, Event Description
+    
+    Logs
+        Network events
+            OS system or system level
+            Applicatio Level
+
+    
+Decentralized Log
+    Use a central repository
+
+
+MAAS(Monitoring As A Service)
+
+
+
+Network Event -  events theat deals with the communication between the host and something on the network.
+

@@ -1,3 +1,9 @@
+Protocol  Analyzer have 2 function; sniffing and analyzing the data. 
+
+Wireshark allos us to filer the data by services and Protocols.    
+
+---------------------------------------------------------------------------------------------------------
+
 Wireshark - a free tool(Protocol Analyzer)
 
 Sniffer - a software that actully grabing all the data

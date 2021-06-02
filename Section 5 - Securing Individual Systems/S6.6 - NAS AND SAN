@@ -12,4 +12,9 @@ i.e. - Freenas
 SAN - Storage Area Network
 
 
-Fibre Channel(FC) -
+Fibre Channel(FC) - Host bud adaptor(HBA)
+
+
+iSCSI - allow connect device on top of your Network.
+
+iSCSI Iniator

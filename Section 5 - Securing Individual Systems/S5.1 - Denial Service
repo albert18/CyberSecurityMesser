@@ -1,0 +1,12 @@
+Denial of Serice attack - TO DENY SERVICE
+    DOS attack types
+        Volume Attack - Ping flood, UDP Flood(Doesnt really do anything wrong)
+        Protocol Attack - Do naughty things, Syn Flood/TCP SYN attack - Still huge problem
+        Application Attack - Slow Loris Attack, {Stop talking/Communicating to server}
+
+    Amplification Attack - smurf attack
+
+Distributed denial of service attack (DDOS) - 
+    BotNet
+
+    Zombie computers

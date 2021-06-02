@@ -4,8 +4,15 @@ high availability
 
 
 
-Clustering - instead of 1 computer, doing multiple computer.
+Clustering - instead of 1 computer, doing multiple computer.(is a good method to protect not only data but system resources, but expensive)
     Really expensive
     You need to update
-    
+
+
+
+Load Balancing - distribute work loads across multiple machines.
+
+
+Virtualizer a SERVER - is a cist effective way to secure data.
+
 

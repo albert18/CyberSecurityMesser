@@ -7,3 +7,10 @@ Federated System - It's a trust
 
 Security Assertion Markup Language(SAML) - used for web application
     Identity Provider
+
+
+
+
+
+Windows Active Directory is correct. SAML is used mainly for web applications, 
+SAMBA is the protocol that allows Linux machines to use Active Directory, and VPN is used to access a network from far away.

@@ -1,3 +1,13 @@
 (SNMP)Simple Network Management Protocol -  a tool that allow us administered and manage network devices.
 
 
+UDP 161
+TLS 10161 
+
+--Managed Device 
+
+GET
+RESPONSE
+
+TRAP - 
+WALK - 

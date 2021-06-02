@@ -4,5 +4,17 @@ Disabling Un-necessary Services - You can disable services in LINUX, Windows if 
 
 Disabling Un-necessary ACCOUNTS - 
 
+Patch Management -
+    Monitor
+        Monitor the patches coming out
+
+    Test
+        Test in SANDBOX environment first
+        
+    Evaluate
+
+    Deploy Patch
+
+    Document
 
 

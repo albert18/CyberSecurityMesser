@@ -12,3 +12,12 @@ Analyzer -
 
 
 TCP Dump(Run on Linux only) - it sniff of packing coming in/out
+
+*********************************************************************************************************************************************************
+A broadcast storm is when a NIC (or a port on a switch) sends out large amounts of broadcast traffic, thereby crippling network resources. 
+
+RFI interruption refers to radio frequency interference: when an external radio source affects an electronic circuit.
+
+ Wireshark is a network protocol analyzer. 
+
+ Loopback is the routing of signals back to the source to test transmission and transportation infrastructure.

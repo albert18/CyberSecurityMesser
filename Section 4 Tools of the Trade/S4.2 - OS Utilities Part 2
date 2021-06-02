@@ -16,4 +16,11 @@ Linux
 *********************************************************
 - netcat -  netcat (often abbreviated to nc) is a computer networking utility for reading from and writing to network connections using TCP or UDP.
     Tool for aggresive use
-    
+
+
+netcat is a utility to read and write to a network connection using TCP or UDP. 
+It will open a port to listening mode. 
+
+
+ping is used to test connectivity or trip time of a message sent.
+ ipconfig is used to show current TCP/IP network configuration values. dig is a DNS utility.

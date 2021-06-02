@@ -11,3 +11,11 @@ Zenmap - Nmap is now one of the core tools used by network administrators to map
 
 ******************************
 Wireshark Sb Network Inventory
+
+
+
+
+Network scans can be extremely resource intensive. Scan may be run on any schedule or time, 
+but when considering what is being scanned and the breadth of the scan, a network analyst might choose to set them up after work hours.
+ There is never a need to disable server applications or turn off equipment unless that is part of the scan check. 
+ All network scanning tools can detect running protocols (on specific open ports).

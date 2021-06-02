@@ -22,3 +22,11 @@
 ARP(Address Resolution Protocol) - The Address Resolution Protocol is a communication protocol used for discovering the link layer address, 
                                     such as a MAC address, associated with a given internet layer address, typically an IPv4 address. 
                                     This mapping is a critical function in the Internet protocol suite.           
+
+
+
+
+arp is used for MAC to IP address resolution. 
+ping is used to test connectivity or trip time of a message sent.
+netstat shows TCP/UDP port connections. 
+tracert collects the information of the trip, outputs it to a remote system, and displays the various router addresses.

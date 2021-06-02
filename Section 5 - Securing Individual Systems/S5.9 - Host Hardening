@@ -10,11 +10,27 @@ Patch Management -
 
     Test
         Test in SANDBOX environment first
-        
+
     Evaluate
 
     Deploy Patch
 
     Document
 
+ANTI-Malware - 
+    Training Users
 
+    Procedures
+        Best Practice
+
+    Intrusion Detection Systems(IDS)
+
+    Third Party anti-malware tools - i.e. malware byte
+
+
+
+FIREWALL - 
+    White list - good program
+    Black list - bad program
+    Set a rule for security policy
+    

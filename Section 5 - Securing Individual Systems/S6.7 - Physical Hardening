@@ -1,1 +1,17 @@
-Data Execution Prevention(DEP) - 
+Data Execution Prevention(DEP) - Turn off and turn on 
+
+
+
+Disabling port - in BIOS, you can disable USB port
+
+
+
+NOTE:
+
+Policies can control how system hardware acts or reacts to an action.
+
+Disbling ports can done in the BIOS
+
+Turn legacy non-active ports to avoid vulnerable entry point
+
+

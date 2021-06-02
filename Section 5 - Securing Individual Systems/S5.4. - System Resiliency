@@ -1,0 +1,15 @@
+System Resiliency - 
+    Scalability - scale up server if demand needs it.
+    Elasticity - scale up, but REMOVE if you dont need them.
+    Redundancy - Distribute allocation(Multiple server in location
+    Non-persistence - NOT PERMANENT
+
+Snapshot
+
+
+
+Known State - a whole spec of machine to remove old file
+
+
+
+Rollback - go back to old hardware

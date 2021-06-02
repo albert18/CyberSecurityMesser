@@ -1,0 +1,24 @@
+- ping 
+    ping www.google.com -4
+
+- ping -t www.google.com  -- (Keeping running - in Linux you don't have too)
+
+
+*********************************************************
+- (netstat -n) - netstat is a command-line network utility that displays network connections for Transmission Control Protocol, 
+                routing tables, and a number of network interface and network protocol statistics
+
+- (netstat -a)
+
+*********************************************************
+
+-  tracert - In computing, traceroute and tracert are computer network diagnostic commands for displaying possible routes 
+            and measuring transit delays of packets across an Internet Protocol network
+
+            tracert www.google.com
+
+
+*********************************************************
+ARP(Address Resolution Protocol) - The Address Resolution Protocol is a communication protocol used for discovering the link layer address, 
+                                    such as a MAC address, associated with a given internet layer address, typically an IPv4 address. 
+                                    This mapping is a critical function in the Internet protocol suite.           

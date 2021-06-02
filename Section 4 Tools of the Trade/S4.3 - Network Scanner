@@ -1,0 +1,13 @@
+nmap (most use in Linux) - Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. 
+                            Nmap provides a number of features for probing computer networks, 
+                            including host discovery and service and operating system detection.
+
+******************************
+
+Zenmap - Nmap is now one of the core tools used by network administrators to map their networks. 
+        The program can be used to find live hosts on a network, perform port scanning, ping sweeps, OS detection, and version detection.v
+
+
+
+******************************
+Wireshark Sb Network Inventory

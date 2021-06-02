@@ -1,1 +1,16 @@
+ipconfig - who am I 
+
+linux - ip addr
+
+*********************************************************
+nslookup - look for your dns server
+    i.e. - nslookup www.google.com
+
+
+*********************************************************
+Linux
+- dig www.google.com
+
+
+
 *********************************************************

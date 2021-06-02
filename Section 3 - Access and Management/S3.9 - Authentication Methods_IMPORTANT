@@ -1,0 +1,28 @@
+Password Authentication Protocol(PAP) - oldest authentication is Security+
+   -Not we don't use it anymore
+   -Send it information in Clear(hahahaha)
+
+
+Challenge-Hangshake Authentication Protocol(CHAP) - First authentication to use in PC World(uses a hash valu to authenticate) 
+
+
+NT LAN Manager - More use in advance Windows - has Challenge Message
+
+
+Kerberos -
+   Key Distribution Center(KDC) -
+
+Ticket Granting Ticket(TGT) - 
+
+Session Key - 
+
+
+
+
+Security Assertion Markup Language(SAML) - used for web application
+
+
+
+
+*****Lightweight Directory Access Protocol(LDAP) - not authentication, but mostly structured language allows to query and update what needs to do. (USE TCP/UDP 389 ) 
+

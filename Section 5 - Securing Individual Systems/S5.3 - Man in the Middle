@@ -20,7 +20,8 @@ Replay attack - once you get information, you can keep logging in again and agai
 
 Downgrade attack - most attack on webpages
 
-
+Session Hijacking - 2 people already talking, get in the middle of the conversation and inject information(hard to use)
+    simple version - FIRESHEEP
 
 
 

@@ -1,4 +1,14 @@
-------------------------------------------- https://www.tutorialspoint.com/nmap-cheat-sheet
+Config - 10.0.2.15
+
+apt-get update && apt-get -y upgrade ****************** Update to date
+------------------------------------------- NMAP
+Nmap is a free and open-source network scanner created by Gordon Lyon. 
+Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
+ Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection.
+
+https://www.tutorialspoint.com/nmap-cheat-sheet
+
+
 nmap -sn subnet/24
 
 nmap -PS subnet
@@ -8,12 +18,26 @@ nmap -sU subnet
 nmap -sSUV
 
 nmap 
-------------------------------------------- 
+-------------------------------------------  NCAT
 Ncat -  is a general-purpose command-line tool for reading, writing, redirecting, and encrypting data across a network. It aims to be your network Swiss Army knife,
  handling a wide variety of security testing and administration tasks. Ncat is suitable for interactive use or as a network-connected back end for other tools.
 
+NCAT commands sample
+    nc -v erertech.com 80
+    GET index.html HTTP/1.1
 
+------------------------------------------- tcpdump
+tcpdump is a data-network packet analyzer computer program that runs under a command line interface. 
+It allows the user to display TCP/IP and other packets being transmitted or received over a network to which the computer is attached. 
 
+------------------------------------------- NESTAT
+The network statistics ( netstat ) command is a networking tool used for troubleshooting and configuration, that can also 
+serve as a monitoring tool for connections over the network. Both incoming and outgoing connections, routing tables, port listening, and usage statistics are common uses for this command
+
+-------------------------------------------
+------------------------------------------- Bash Scripting
+-------------------------------------------
+-------------------------------------------
 -------------------------------------------
 -------------------------------------------
 -------------------------------------------

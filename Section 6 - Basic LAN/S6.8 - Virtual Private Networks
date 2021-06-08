@@ -8,3 +8,39 @@ VPN Tunnel
 Remote Access VPN
 
 Site to Site VPN
+
+
+VPn Setup Steps
+    protocol set up Tunnel
+    Authenticaopn
+
+
+(PPTP) Point-to-Point Tunneling protocol    
+        Olders VPN protocol
+        Users PPP for tunnerl
+        Password only
+        TCP port 1723
+        Too easy hack
+
+(L2TP) Layer 2 tunneling protocol   
+        Cisco proprietary
+        Similiar to PPTP
+        L2TP Tunnel
+        IPSec encyption(So fast)
+        UDP ports 500, 4500
+
+
+IPSEC
+        Users IPSEC for tunneling encryption
+        UDP ports 500, 4500
+
+Secure Socket Layer (SSL) Transport Layer Security (TLS)
+    TCP port 443
+    often works with a web browser
+    TUN/TAP(Virtual network driver) tunnel
+    TLS encryption
+
+OPENVPN
+    a program with unique tunnel
+    Encryption based on TLS/TLS protocol
+    TCP port 1194 but changed easily

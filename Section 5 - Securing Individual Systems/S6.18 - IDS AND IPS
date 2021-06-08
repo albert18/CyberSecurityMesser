@@ -1,0 +1,9 @@
+IDS - Intrusion Detection Systems
+    Inside the network
+    Watches within the traffic network
+    Send alert
+
+IPS  - Intrusion prevention System
+    Active IDS
+    Usually close to the edge of network
+

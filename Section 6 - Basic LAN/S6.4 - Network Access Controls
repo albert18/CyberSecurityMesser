@@ -3,3 +3,26 @@ Wireless network -
 VPN server - 
 
 Point to Point protocol - 
+
+PAP - password authentication protocol - simple password in a clear.
+
+Chap -Changelle Handshake authentication protocol -  hashing
+
+EAP - Extensible authentication protocol - a framework thats design to run inside transfer protocol and handling authentication.
+        EAP - MD5 - takes password to hash it
+        EAP - PSK - pre-determined symmetric keys, Similar to WPA and WPA 2
+        EAP - TLS - can handle an entire TLS, need server and client certificate
+        EAP - TTLS - only server has certificate
+
+--------------------------------------------------------------------- 
+802.1X
+
+Radius
+Leap - not good anymore
+
+EAP-Fast
+
+PEAP - is microsoft version of LEAP
+
+
+---------------------------------------------------------------------

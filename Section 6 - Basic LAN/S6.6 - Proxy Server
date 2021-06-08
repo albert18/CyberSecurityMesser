@@ -1,8 +1,8 @@
-Forward Proxy Server - Client are aware of proxy
+Forward Proxy Server - (Hide the CLIENT)Client are aware of proxy
             Web Proxy - goes in configuration
             FTP Proxy - 
             Transparent Proxy - 
 
 
 
-Reverse Proxy Server - 
+Reverse Proxy Server - (Hide the Server)

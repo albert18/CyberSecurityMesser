@@ -1,0 +1,38 @@
+
+IPsec wokrs at the IP layer
+
+IPsec has a tunnel & Transport mode
+
+Authentication headers(AH) provide Integrity.
+
+---------------------------------------------------------------------------------
+
+
+Authenticate Headers - Provides Integrity
+
+
+
+Encapsulation Security Payload(ESP) - Process of encrypting(AES) 
+
+------------------
+
+Transport Mode
+
+
+
+ISAKMP - create Security association between two host.
+        Use negotiation ISAKMP
+            Initial Authentication 
+                -Certificates
+                -Preshared keyboard_capslock
+                -Key exchange
+
+
+VPNs - 
+
+Radius/TACACs+ - 
+
+
+
+Encrypting unsecured protocal - 
+

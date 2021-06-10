@@ -1,0 +1,24 @@
+Network intrusion Detection(NIDs) - 
+    Active/inline
+    Detection   
+        Behavioral/anomaly
+        Signature
+        Rule-based
+        Heuristic 
+
+Port Mirroring - 
+
+Network intrusion Prevention(NIPS) - 
+
+
+Colleration Engine - to deal with the task
+
+
+-------------------------------------------------------------------------------
+
+NIPS - type of detection methods included; Behavioral, signature-based, rule-based and Heuristic.
+
+Port Mirroring and Network Taps are tools used with NIDs and NIPS.
+
+NIDs is most often set up as out-of-band, NIPS is typically in-band.
+

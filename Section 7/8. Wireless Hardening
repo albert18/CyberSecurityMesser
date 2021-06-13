@@ -1,0 +1,29 @@
+Hardening 802.11
+    Survey Installation issues
+    Maintaining existing wireless networks
+    Monitor wireless networks
+    Define how to defend wireless clients
+
+
+Survery Installation - Survey tools, an expensive tool or could be free
+     Site Survey tool
+        Find SSIDs
+        Find Mac Addresses
+        Band, Channel, and Signals
+
+        Heatmap - a software called kissmet
+
+Maintenance - 
+    Good Documentation
+        SSID
+        MAC addresses associate to
+            WAPS
+            AP Locations
+            Heatmap
+    AP Isolation - Good Practice
+    Scanning - just surveying your network.
+    wireless intrusion detection systems(WIDS)- 
+
+
+
+

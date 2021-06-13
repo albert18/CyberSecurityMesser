@@ -1,6 +1,28 @@
+Quick Review
+    Wifi Protected Setup(WPS) - was developed for push button configuration.
+
+    The key or pin used in WPS is very weak
+
+    More modem routers have tools in place to protect the WPS from attacks
+
+----------------------------------------------------------------------------------------------------
+
+
+
 Wifi Protected Setup(WPS) - 
     It has push button in the router and it will sync
 
 WPS weakness
     8 digit key is actually only 7 digits, 2/7
-    Ket exchange is the first processed in 4-bit and 3-bit
+    Key exchange is the first processed in 4-bit and 3-bit
+
+
+WPS Prevention
+    Get rid of older routers
+    Firmware updates
+    Upgrade to a newer router
+
+
+Reaver(Tool in KALI) - 
+
+

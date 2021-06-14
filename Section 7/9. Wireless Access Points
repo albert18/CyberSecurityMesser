@@ -19,6 +19,10 @@ Band Selection
         2.4 ghz - you have specific channel, 
         5 ghz -  
 
+NOTE: The 2.4 GHz band provides coverage at a longer range but transmits data at slower speeds. The 5 GHz band provides less coverage but transmits data 
+at faster speeds. ... However, higher frequencies allow data to be transmitted faster than lower frequencies, so the 5 GHz band allows you to upload and 
+download files faster.
+
 
 
 ******************************************************************************************************************
@@ -29,4 +33,4 @@ Quick Review
 
     - Omni, dipole, directional and patch are all antenna types, each type has a specific signal pattern.
 
-    
+

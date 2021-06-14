@@ -6,3 +6,10 @@ Industrial Control System(ICS) -
 
 
 Supervisory Control and Data Acquisition (SCADA) - 
+
+
+****Secuting Static host ****
+    Change default password
+    turn off unneccary services
+
+Defense in depth - Network Segmentation

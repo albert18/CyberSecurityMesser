@@ -1,9 +1,32 @@
 Wireless Access Point - 
 
-
 Think Client - Stand Alone Access Point
 
 Thin Client - has to be handle in controller base
 
 DBI = Signal Strength(Think of like a boost)
 
+-----Antenna Types-----
+Omni direction - Look like a basketball, all direction 
+Dipole - Antennas
+Directional - a long beam
+Parabolic - long distance
+
+Patch - 
+
+Band Selection
+    -It has 2 802.11
+        2.4 ghz - you have specific channel, 
+        5 ghz -  
+
+
+
+******************************************************************************************************************
+Quick Review
+    - Wireless access points can be a thich client or a thin client
+
+    - Thin client are confgured through a controller and make it easier to configure multiple units
+
+    - Omni, dipole, directional and patch are all antenna types, each type has a specific signal pattern.
+
+    

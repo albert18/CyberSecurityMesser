@@ -10,5 +10,7 @@ Virtualization Concepts
 Virtualization it easy duplication
 
 
-
+**2 Types of Hyper-visors
+    -That run of the host operating system
+    -That also boot up itself
 

@@ -1,0 +1,16 @@
+Network Separation - 
+
+Snapshots & Backup - 
+
+
+Virtual Threats - 
+
+VM Sprawl - is bad
+VM escape - avoid
+
+Virtualiazation Hardening 
+    Remove remant data
+    Make good Policies
+    Define user privileges
+    Patch Everything!
+    Cloud Access Security Broker(CASB)-  

@@ -1,0 +1,15 @@
+Penetration Essential Training
+-------------------------------- 7 Cyber kill Chain
+Reconnaissance - Finding the target
+Weaponization - Vulnerability target
+Delivery - Email Attachment, Flash Drive
+Exploitation - Exploit Vulnerability 
+Installation - Install payload into memory or disk
+Command and Control - 
+Actions - unlikely it's in best interest.
+
+--------------------------------
+--------------------------------
+--------------------------------
+--------------------------------
+--------------------------------

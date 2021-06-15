@@ -1,0 +1,37 @@
+*************
+Google Bots - Index to find your website in the search engine.
+
+************* Getting Social
+Social Engineer, Scam Artist
+
+Dumpster diving - going to garbage to steal your information.
+
+Shoulder Surfing - will look behind you
+
+Influence someone to give information, Data Leakage
+
+Eavesdropping -
+
+Persuassion
+
+Phishing - 
+Spear Phishing
+
+Impersonation - 
+
+Pharming
+
+************* pipl.com
+Searching public records
+
+************* Tracking Online Reputation
+tapClicks.com
+
+
+************* Footprinting websites and email
+************* ICMP scan
+************* Tracert the route and provides the path and transit times
+************* NSlookupm
+************* DIG
+*************
+*************

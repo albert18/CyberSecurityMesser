@@ -1,0 +1,15 @@
+OSI seven-Layer Model
+7 - application - That allow us to make us aware
+6 - Presentation - Conver format that application that can read
+5 - Session - Connectivity
+4 - Transport - dis-assembly packet/maku sure to into system 
+3 - Network - Routers
+2. Data Link - Network card, Switches
+1. Physical - what cable do i use?
+
+
+TCP Model
+4-application
+3-Transport
+2.Internet
+1.Network

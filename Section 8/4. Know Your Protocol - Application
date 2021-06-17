@@ -1,0 +1,45 @@
+Hypertext Transfer Protocol(HTTP) - port 80
+
+Hypertext Transfer Protocol Secure(HTTPS) - 443
+
+Telnet - port 23
+
+SSH - port 22
+
+File Transfer - 20 or 21
+
+FTP/SSH - 22
+
+FTPS - 20 or 21 Secure
+
+SFTP - 22
+
+Secure Copy - port 22
+
+Trivial file transfer Protocol - TFTP - 69
+
+Netbios - 137, 138, 139
+
+SMB - 445
+
+SMTP - 25
+
+IMAP - 110
+
+DNS - 53
+
+DHCP - 67/68
+
+SNMP - 161/162
+
+LDAP - 389
+
+RDP - 3389
+
+
+
+
+
+
+
+

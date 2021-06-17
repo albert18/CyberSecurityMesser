@@ -1,0 +1,41 @@
+Waterfall - 
+    Requirements
+    Design
+    Implementation
+    Verification
+    Maintenance
+
+*******************************8
+Agile
+    Dev
+    Sprint Planning
+    Test
+    Demo
+
+    Spring - Planning
+    Scrum - Quick call
+
+
+DevOps - Development and Operation
+    Plan - requirements
+    Create - developement, write code
+    Verify - testing, sandbox
+    Package - Some time of managerial approval
+    Release - provitional, time frame
+    Configure - configuration
+    Monitor - watch, are we having problem memory tools
+
+Secure Development Operations
+    Fuzzer tools, static testers, intrusion detection
+    Always look for Vulrabilties
+    Change management/Version Control
+        Approval of changes
+        Documentation
+        Continuos Integration 
+    Baselining
+        Security Objective
+            Encryption
+            Input Validation
+    Consider Immutable systems
+
+

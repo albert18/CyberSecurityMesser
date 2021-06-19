@@ -3,7 +3,7 @@
     cPanel -
 
     Website Attack
-        Cross-site scripting
-        XML injections
+        Cross-site scripting(XSS) - 
+        XML injections - 
 
     

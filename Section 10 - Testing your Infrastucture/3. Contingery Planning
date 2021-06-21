@@ -1,0 +1,38 @@
+Contingency planning attempts to mitigate adverse incidents to preserve Business
+Continuity.
+
+
+Disaster Recovery
+
+Business Continuity
+
+Evacuation Plan
+    Cold Site - it takes to weeks to bring online(Cheapest)
+    Warm Site - It takes days to bring it online, has operation equipment
+    Hot Site - Take hours to bring online, very expensive
+
+Internet Requirement
+
+Housing & entertainment
+
+Legal Issues
+
+Order of Restoration
+    Power
+    Wired LAN
+    ISP link
+    Active directory/DNS/ DHCP servers  
+    Accounting Servers/ Sales
+    Video Production workstations
+    Wireless
+    Periherals
+
+Annual Execise
+    Failover
+
+Alternative Processing Sites - 
+
+Alternatice Business Practice - 
+
+After action report -
+

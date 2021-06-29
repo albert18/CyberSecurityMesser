@@ -108,9 +108,22 @@ Cloud DLP System
 Securing BIOS(Basic Input Output System)
 UEFI(Unified Extensible Firmware Interface) - Same as Bios but updated
 
+    Flashing the BIOS
+    Use A BIOS Password
+    COnfigure Bios
+    Disblae port you dont need
+    Enable the secure boot
 
+Securing Storage Devicess
+    Encrypt Files
 
-
+    Removable media Controls
+    Network Attach Storage(NAS)
+        RAID
+    Storage Area Network(SAN)
+    
+Disk Encryption 
+    
 
 
 

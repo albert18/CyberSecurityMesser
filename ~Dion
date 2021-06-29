@@ -77,6 +77,29 @@ Software Firewall
         OSX - MAC Firewall
         IPtable - Linux Firewall
 
+Intrusion Detection System - Monitor system or network analyzed data passing 
+    HIDS - Hose-based IDS(Software)
+    NIDS - Network-based IDS(Hardware)
+
+        Signature-based
+        Policy-based
+        Anomaly-based
+
+True Positive
+True Negative
+False Positive
+False Negative
+
+IDS can only log and alert
+
+IPS - can also stop malicious activity from being executed.  
+
+Pop-up Blockers-
+Content Filter-
+
+Data Loss Prevention(DLP) - Monitor data of a system while in use, to detech
+attempts to steal the data
+
 
 
 

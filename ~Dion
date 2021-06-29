@@ -123,29 +123,54 @@ Securing Storage Devicess
     Storage Area Network(SAN)
     
 Disk Encryption 
-    
+    Hardware or Software Base
 
+    (Hardware)Self-Encryption Drive(SED)
 
+    Bitlocker
 
+    Trusted Platform Module(TPM) - Chip residing on the motherboard that
+    contains Encryption key.
 
+    **Advanced Encryption Standard - Symmetric key Encryption that support 
+    128-bit and 256-bit keys.
 
+    Hardware Security Module (HSM)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Endpoint Analysis
+    Anti-Virus(AV) - remove and detect malware
+    HIDS/HIPS - Monitor computer system
+    EPP - software agent and monitoring system that performs multiple security task
+    EDR - software agent that collects system data and logs
+    UEBA - can preven automatedd identification of activity
 
 ---------------------------------------------------------- Section 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------- Section 5
 
 

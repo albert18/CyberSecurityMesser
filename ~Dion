@@ -197,6 +197,14 @@ Hardening Mobile Devices
     Use strong password
     Don't allow BYOD
 
+---------------------------------------------------------- Section 6
+Unnecessary application
+    Least Functionality
+    SCCM - System Center Configuration Management
+
+Restricting applications
+    Application whitelist
+    Application Blacklist
     
 
 
@@ -213,49 +221,6 @@ Hardening Mobile Devices
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----------------------------------------------------------- Section 5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
 ----------------------------------------------------------
 ----------------------------------------------------------

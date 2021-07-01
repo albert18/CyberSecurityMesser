@@ -286,7 +286,39 @@ Securing VM
     
 ----------------------------------------------------------  Section 9
 Application Security
+
+Web Browser Security - security patches,updating
+        Implement Policies
+        Train your user
+        Use proxy & Content Filter
+        Prevent Malicious Code
+
+Cookies
+    Tracking Cookies 
+    Session Cookie
+    Locally Shared Object(LSO)
+    Add-ons
+    Advanced Security Options
+
+Securing Application
+    User password protecting in the documents
+    Macro settings
+    *User Account Control* - prevent unauthorized access and avoids user
+    error in the form of accidental changes.
+
+    ---------------------------------------------------------- Section 10
     
+
+
+
+    
+
+
+
+
+
+
+
 
 
 

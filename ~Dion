@@ -222,25 +222,57 @@ Patch Management
     Auditing
 
 Group Policy
-    
+    Microsoft Group Policy Object(GPO)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+File Systems and Harddrive
+    NTFS or FAT32 - for Windows
+    EXT4 - Linux
+    APFS - MAC 
 
 ---------------------------------------------------------- Section 7
+Supply Chain Assessment
+    Trusted Computing Environment
+    Due Diligence
+    Trusted Foundry - united states department of defense/ Military
+    Hardware Source Authenticity
+
+Root of Trust(ROT)
+    Digital Certificate
+    Trusted Platform Module(TPM) - allows to ability to boot up with security
+    Hardware Security Module(HSM) - generating and storing cryptographic keys
+    Anti-Tamper -
+        Anti-tamper mechanisms
+
+Trusted Firmware    
+    Firmware exploit
+        Unified Extensible Firmware Interface(UEFI)
+        Secure boot 
+        Measured boot
+        eFuse
+        Trusted Firmware Update
+        Self-Encrypting Drives
+
+Secure Processing
+    Processor Security Extension
+    Trusted Execution
+    Secure Enclave
+    Atomic Execution
+    Bus Encryption(HDCP Unauthorize)
+
+---------------------------------------------------------- Section 8
+Virtualization
+
+
+
+
+
+
+
+
+---------------------------------------------------------- 
+----------------------------------------------------------
+
+---------------------------------------------------------- 
 ----------------------------------------------------------
 ---------------------------------------------------------- 
 ----------------------------------------------------------

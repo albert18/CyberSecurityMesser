@@ -229,7 +229,7 @@ File Systems and Harddrive
     EXT4 - Linux
     APFS - MAC 
 
----------------------------------------------------------- Section 7
+---------------------------------------------------------- Section 7 Need to get better
 Supply Chain Assessment
     Trusted Computing Environment
     Due Diligence
@@ -261,6 +261,33 @@ Secure Processing
 
 ---------------------------------------------------------- Section 8
 Virtualization
+    VM
+        System Virtual Machine
+        Processor Virtual Machine
+
+Hypervisor(Manages the distribution of the physical resources of a Host
+            machine(server) to the virtual machines being run(guests))
+    Type 1 - Bare Metal Hypervisor(strip down)
+    Type 2 - Virtual box for sample
+    Application Containerization - i.e. Docker
+
+Threat Virtual Machine
+    Elasticity - scale up, scale down
+    Data Remnants - 
+    Privilege Elevation -
+
+Virtual machine escape vulnerabilities are the most severe issue that 
+may exist in a virtualized environment. 
+In this attack, the attacker has access to a single virtual host and 
+then leverages that access to intrude on the resources assigned 
+to different virtual machines.
+
+Securing VM
+    
+----------------------------------------------------------  Section 9
+
+
+
 
 
 
@@ -271,7 +298,8 @@ Virtualization
 
 ---------------------------------------------------------- 
 ----------------------------------------------------------
-
+---------------------------------------------------------- 
+----------------------------------------------------------
 ---------------------------------------------------------- 
 ----------------------------------------------------------
 ---------------------------------------------------------- 

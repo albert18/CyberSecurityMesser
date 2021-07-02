@@ -380,9 +380,20 @@ Cross-Site Scripting(XSS) - Malicious scripting commands
 Cross-site Request Forgery(XSRF/CSRF)
 
 SQL Injection - 
-    
 
+XML vulnerabilities - 
+XML External Entity (XXE) - an attack that embeds a request for a local
+                            resource.
 
+Race Condition - software vulnerability
+
+Design vulnerabilities
+    Insecure Components
+        Code Reuse
+        Third Party Library
+        SDK
+    Insuffeucient Logging and monitoring
+    Weak and Default
 
 
 

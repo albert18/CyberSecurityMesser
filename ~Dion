@@ -372,7 +372,17 @@ Testing Methods -
 
     ASLR - Address Space Layput Randomization
     
+Cross-Site Scripting(XSS) - Malicious scripting commands
+    Stored/Presistent
+    Reflecte
+    DOM- Documnet object model
+
+Cross-site Request Forgery(XSRF/CSRF)
+
+SQL Injection - 
     
+
+
 
 
 

@@ -306,8 +306,74 @@ Securing Application
     *User Account Control* - prevent unauthorized access and avoids user
     error in the form of accidental changes.
 
-    ---------------------------------------------------------- Section 10
+---------------------------------------------------------- Section 10
+SDLC(Software Development Life Cycle) - is an organized process of developing
+a secure application throughout the life of the project.
+
+SLDC Phases
+
+Waterfall - Good for complex project and great for high security but takes time.
+    Planning and Analysis
+    Software/System design
+    Implementation
+    Testing
+    Integration
+    Deployment
+    Maintenance
+
+Agile - performed in time-boxed or small increment to allow productivity to changes
+    Sprint
+        Plan 
+        design
+        Develop
+        Test
+        Deployment
+        Launch
+
+DevOps - 
+
+SLDC Principles
+    Confidentiality
+    Integrity
+    Availability
+
+    Least Proviledge
+    Defense in depth
+    Never Trust User Input
+    Minimize Attack Defaults
+    Fail Securely
+    Fix Securely Issues
+    Rely on trusted sources
+
+Testing Methods -
+    System testing
+        Black-box Testing
+        White-box Testing
+        Gray Box Testing    
+
+    Static Analysis - Source code of an application is reviewed manually
+    or with automatic tools without running the code.
+
+    Dynamic - Analysis and testing of program occurs while it is being
+            executed or run.
+
+    Fuzzing/Testing - find failures
+
+        Backdoors
+        Directory Traversal
+        Remote Code Execution(RCE)
     
+    Zero Day
+
+    Buffer Overlfow - occurs when a process stores data outside the memory range
+        allocated by the developer.
+
+    Stack
+
+    ASLR - Address Space Layput Randomization
+    
+    
+
 
 
 

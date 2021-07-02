@@ -396,6 +396,50 @@ Design vulnerabilities
     Weak and Default
 
 ---------------------------------------------------------- Section 11
+OSI Model - LAN & WAN
+    Physical
+    Data Link Layer
+    Network Layer
+    Transport Layer
+    Session Layer
+    Presentation
+    Application Layer
+
+Switches
+    MAC Flooding
+    MAC Spoofing
+    Physical Tampering
+
+Routers
+    Access Control List
+
+Network Zone
+    DMZ - De-Militarized Zone
+    Sub-Zones
+    Instranets
+
+Jumpbox - a harderned server the provides access to other hosts within the DMZ. 
+    Internet-facing host
+    
+Network Access Control(NAC)
+    Persistent Agents
+    Non-Persistent Agents
+
+VLANS
+
+Subnetting - Act of creaing Subnetwork logically through the manipulation of IP addresses
+
+Network Address Translation(NAT) - Process of changing an IP address
+    Port Address Translation(PAT)
+
+Telephony
+    War Dialing
+    
+
+
+
+
+
 
 
 

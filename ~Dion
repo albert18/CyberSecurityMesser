@@ -453,8 +453,15 @@ Firewall
 
 Proxy Server
     IP Proxy
+    Caching Proxy - Disabling Proxy(PAC file)
+    Internet Content Filter
+    Web Security Gateway
 
-
+Honeypots and Honeynets
+    
+Data Loss Prevention    
+    Information Leak Protection(ILP)
+    Extrusion Prevention Systems(EPS)
     
 
 

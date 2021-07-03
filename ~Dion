@@ -464,18 +464,17 @@ Data Loss Prevention
     Extrusion Prevention Systems(EPS)
     
 NIDS and NIPS
-    Network Intrusion Detection System(NIDS) - Attempt to detect, log and alert malicious
-    Network Intrusion Prevention Systems(NIPS) - attempts to remove, detain or redirect malicious traffics.
+    Intrusion Detection System(IDS) - Attempt to detect, log and alert malicious
+    Intrusion Prevention Systems(IPS) - attempts to remove, detain or redirect malicious traffics.
 
-    
-
-
-
-
-
-
+Unified Threat Management   
 
 ---------------------------------------------------------- Section 13
+
+
+
+
+
 ---------------------------------------------------------- Section 14
 ---------------------------------------------------------- Section 15
 ---------------------------------------------------------- 

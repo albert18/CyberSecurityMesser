@@ -438,8 +438,24 @@ Telephony
 
 ---------------------------------------------------------- Section 12
 Perimeter Security
-    
+Firewall    
+    Software 
+    Hardware
+    Embedded
+    Packet Filtering
+        Stateless
+        Stateful
+    NAT Filtering
+    Application-Layer gateway
+    Circuit Layer gateway
+    MAC Filtering
+    Web Application Firewall(WAF)
 
+Proxy Server
+    IP Proxy
+
+
+    
 
 
 

@@ -463,6 +463,13 @@ Data Loss Prevention
     Information Leak Protection(ILP)
     Extrusion Prevention Systems(EPS)
     
+NIDS and NIPS
+    Network Intrusion Detection System(NIDS) - Attempt to detect, log and alert malicious
+    Network Intrusion Prevention Systems(NIPS) - attempts to remove, detain or redirect malicious traffics.
+
+    
+
+
 
 
 

@@ -470,6 +470,23 @@ NIDS and NIPS
 Unified Threat Management   
 
 ---------------------------------------------------------- Section 13
+Virtual Desktop Infrastructure(VDI) - Allows a cloud probvider to offer
+full desktop operating system to an end user from a centralized server.
+    Secure Enclaves
+    Secure Volume
+
+Cloud Types
+    Public
+    Private 
+    Hybrid
+    Community Cloud
+
+As A Service
+    Software as a Server(SAAS) - e.i. MS office
+    Infrastructure as a Server(IAAS) - if you want to build your own 
+    Platform as a Server(PAAS) - 3rd party vendor provide hardware and software
+    
+
 
 
 

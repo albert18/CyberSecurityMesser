@@ -485,6 +485,42 @@ As A Service
     Software as a Server(SAAS) - e.i. MS office
     Infrastructure as a Server(IAAS) - if you want to build your own 
     Platform as a Server(PAAS) - 3rd party vendor provide hardware and software
+    Security as a Service(SECaas) - provides security
+
+Cloud Security
+    Collocated Data
+
+Defending Server
+    File server
+    Email Server
+    Web Server
+    FTP Server
+    Domain Controller
+        Active Directory
+    
+Cloud-Based Infrastructure
+    Virtual Private Cloud(VPC)
+
+CASB(Cloud Access Security Broker)
+    Enterprise Management software designed to mediate access to cloud
+    services by users all types of devices.
+
+    Benefits: Single Sign-on,Malware Detection, Monitor, and Mitigate data
+
+    Forward Proxy,
+    Reverse Proxy,
+    API
+
+    
+
+
+
+
+
+
+
+
+
     
 
 

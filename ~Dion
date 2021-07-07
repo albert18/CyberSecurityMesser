@@ -603,7 +603,25 @@ Stopping of DDos
     IPS can prevent a small DDOS
 
 Spoofing
+    Use proper Authentication
+
+Hijacking
+    Session Theft
+    TCP/IP Jacking
+    Blind Hijacking
+    clickjacking
+    Man-in-the-middle
+    Man-in-the-browser
+    Watering hole
+    Cross-site Scripting
     
+Replay Attack
+
+Null Session
+
+
+
+
 
 ---------------------------------------------------------- Section 16
 ---------------------------------------------------------- Section 17

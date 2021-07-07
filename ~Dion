@@ -689,19 +689,27 @@ Biometric Reader
     Eye Scan
     Voice Recognition
     False Acceptance Rate(FAR)
-
-
-
-
-
-     
-
-
-
-
-
+    Crossover error Rate(CER)
 
 ---------------------------------------------------------- Section 18
+Facility Security
+
+Fire Surpression
+    Handheld
+    Spriklers
+    Special Hazard
+
+    Fire Type by class
+        A - Wood, Paper 
+        B - Flammable, Liquids and gases
+        C - electric fire
+        D - Metal
+        K - Cooking oil
+    
+
+
+
+
 ---------------------------------------------------------- Section 19
 ---------------------------------------------------------- Section 20
 ---------------------------------------------------------- Section 21

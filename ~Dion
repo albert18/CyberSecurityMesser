@@ -621,7 +621,10 @@ Null Session
 
 Transitive Attack - Arent really attack but more coceptual method
 
-DNS Poisoning
+DNS poisoning (also known as DNS cache poisoning or DNS spoofing) 
+is a type of attack which uses security gaps in the Domain Name System (DNS) protocol to redirect internet traffic to malicious website
+
+ARP Poisoning
 
 
 ---------------------------------------------------------- Section 16

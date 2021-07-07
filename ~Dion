@@ -626,8 +626,19 @@ is a type of attack which uses security gaps in the Domain Name System (DNS) pro
 
 ARP Poisoning
 
-
 ---------------------------------------------------------- Section 16
+Securing Network
+
+Securing Network Devices
+    Default Account
+    Weak Passwords
+    Privilege Escalation
+
+Network Media
+    Electromagnetic Interference(EMI)
+    Radio Frequency Interference (RFI)
+    Protected Distribution System(PDS)
+
 ---------------------------------------------------------- Section 17
 ---------------------------------------------------------- Section 18
 ---------------------------------------------------------- Section 19

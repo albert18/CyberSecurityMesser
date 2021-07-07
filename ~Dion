@@ -648,9 +648,21 @@ Wireless Encryption
     Wifi Protected Access(WPA) - replacement for WEP
     WPA2 - 802.11i, AES with a 128 bit key 
 
+    Wifi Protected Setup(WPS) - Always disable WPS
 
 
+Wireless Access Point
+    2.4 Ghz Signal
+    5.0 Ghz Signal
 
+Wireless Attacks
+    War Chalking
+    I.V. Attack
+    Wifi Disassociation attack
+    Brute Force Attack
+
+WPA3 
+    Wifi-Protected Access 3 - Latest
 
 
 

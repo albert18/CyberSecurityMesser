@@ -532,23 +532,72 @@ Infrastructure as code(IAC)
 Artificial Neural Network(ANN)
 
 ---------------------------------------------------------- Section 15
+Inbound 
+Outbound
+Well-Known Ports
+Registered Ports
+
+Memorization Port
+    65,536 Port thats Available
+
+    21 TCP - FTP
+    22 TCP/UDP - SSH
+    23 TCP/UDP = Telnet - NOT SAFE
+    25 TCP - SMTP Mail
+    53 TCP/UDP - DNS
+    69 UDP - TFTP
+    80 TCP - HTTP
+    88 TCP/UDP - Kerberos
+    110 TCP - POP3
+    119 TCP - NNTP
+    135 TCP/UDP - RPC/DCOM
+    137-139 TCP/UDP - NetBios
+    143 TCP - IMAP
+    161 UDP - SNMP
+    162 TCP/UDP - SNMPTRAP
+    389 TCP/UDP - LDAP
+    443 TCP = HTTPS
+    445 TCP - SMB
+    465/587 TCP - SMTP with SSL/TLS
+    514 UDP = Syslog
+    636 TCP/UDP - LDAP SSL/TLS
+    860 TCP - iSCSI
+    989/990 TCP - FTPS
+    993 TCP - IMAP4 with SSL/TLS
+    995 TCP - POP3 SSL/TLS
+    1433 TCP - MS-SQL-Server
+    1645/1646 UDP - Radius (Alternative)
+    1701 UDP - L2TP
+    1723 TCP/UDP - PPTP
+    1812/1813 UDP - Radius
+    3225 TCP/UDP - FCIP
+    3260 TCP - iSCSI target
+    3389 TCP/UDP - RDP
+    3868 TCP - Diameter
+    5414 TCP - Syslog over TLS
 
 
+Unnecessary Port
+    Any port is associated that you dont need
+    You can stop it 
 
+Denial of Service
+    Flood Attacks
+        Ping Flood
+        Smurf Attack
+        Fraggle Attack
+        Syn Flood
+        XMAS Attack
 
+    Ping of death
+    Teardrop Attack
+    Permanent Denial of Service    
+    Fork Bomb
 
-
-
-
-
-
-
-
-
-
-
-
-
+DDOS
+    Distributed Denial Of Service - Group of compromised attack
+        DNS Amplication
+    
 
 
 ---------------------------------------------------------- Section 16

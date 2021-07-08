@@ -723,13 +723,15 @@ Vehicular vulnerabilities
 IOT - Internet of Things
 
 Embedded System vulnerabilities
-    Progammable Logic Controller(PLC) - 
+    Programmable Logic Controller(PLC) - 
     PLC Firmware
     System on chip(SoC)
     Real Time Operating System(Rootkits)
+    Field Programmable Gate Array(FPGA)
+
+ICS and SCADA vulnerabilities
+    Operational Technology(OT)
     
-
-
 
 
 

@@ -731,11 +731,25 @@ Embedded System vulnerabilities
 
 ICS and SCADA vulnerabilities
     Operational Technology(OT)
+
+    Industrial Control System(ICS) - 
+        FieldBus - Digital serial data communications
+        Human-Machine Interface(HMI) -
+        Data Historian - 
     
+    Supervisory Control and Data Acquisition(SCADA)
 
+    ModBus - communications protocol used in operation network.
 
+Mitigating vulnerabilities
+    -Establish Administrative
+    -Implement the minimum network links by disabling Unnecessary links
+    -Develop and test a patch management program for operation Technology
+    -Perform regular audits of logical and physical
 
-
+Premise System
+    Building automation system(BAS)
+    
 
 
 ---------------------------------------------------------- Section 19

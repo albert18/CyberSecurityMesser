@@ -760,8 +760,49 @@ Multi-factor Authentication
     Location
     Action
 
+Authentication Model
+    Context Aware - Limiting time or day - Limit geographic
+    Single Sign on(SSO) - default user profile
+    Federated Identity Management(FIdM) - single Identity is create for user and shared.
+
+    Cross-Certification
+    Trusted Third Authority
+    Security Assertion Markup Language(SAML)
+    OpenID 
+ 
+ 802.1x - Framework user port-based authentication
+    Radius
+    TACACS+ 
+
+    Supplicate 
+    Authenticator
+    Authentication Server
+
+    Extensible Authentication Protocol(EAP)
+        A framework of protocols that allows for numerous methods of authentication including
+        passwords, digital Certificats and public key Infrastructure
+
+    EAP-MD5 - uses simple passwords 
+    EAP-TLS - use digital Certificate for mutual Authentication
+    EAP-TTLS - uses a server-side digital Certificate and a client-side password
+
+    EAP-FAST -
+    Protected EAP(PEAP)
 
 
+LDAP and Kerberos
+    LDAP - Lightweight Directory Access Protocol(LDAP) - a database used to centralize information about
+            clients and objects on the network.
+            ** UN-Encrypted
+                PORT 389
+            ** Encrypted
+                PORT 636
+    
+    Active Directory
+
+    Kerberos - Authentication protocol used by windows to provide for two-way or mutual authentication.
+
+    
 
 
 

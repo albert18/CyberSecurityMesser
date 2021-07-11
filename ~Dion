@@ -872,7 +872,38 @@ Best Practices
     Least Priviledge
     Separation Duties
     Job Rotation
+    Mandatory Vacation
+
+Users and Group
+    User rights
+
+    Chmod
+        R(Read) = 4
+        W(Write) = 2
+        X(Execute = 1
+    Example: chmod 760 filename
+
+    7 = owner can RWX
+    6 = group can RW
+    0 = All users (No Access)
+
+    Privilege Creep
+    User Access Recertification
+
+Permission
+
+Username and Password
     
+
+
+
+
+
+
+
+
+
+
 
 
 

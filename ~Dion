@@ -865,7 +865,18 @@ Access Control
     DAC - Discretionary Access Control (DAC) - Who has the access which file.
     MAC - Mandatory Access Control - Computer decide who has the access(Data Level). "NEED TO KNOW"
     RBAC - Rule-based access control - complex mathematics to create sets of object
-    ABAC - 
+    ABAC - Attribute Base access control - Tags 
+
+Best Practices
+    Implicit Deny
+    Least Priviledge
+    Separation Duties
+    Job Rotation
+    
+
+
+
+
 
 
 

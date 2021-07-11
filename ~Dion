@@ -903,23 +903,57 @@ Username and Password
 User Account Control(UAC) - a security component in windows that keeps every user in standard user mode instead of
                             acting like an Administrative user.
 
----------------------------------------------------------- Section 21
+---------------------------------------------------------- Section 21 ***
 Risk Assessment
     Avoid   
     Transfer
     Mitigate
     Accept
 
+Qualitative Analysis
+
+Quantitative Risk - Uses numerical and monetary values to calculate risk
+                    Analysis calculate  
+    Single loss expentency(SLE) - Cost associated with the realization of each individual threat
+    Annualized Rate of Occurrence(ARO) - how many times threay in a year.
+    Annualized Loss Expectancy(ALE) - 
+
+Methodologies
+    Security Assessment
+        vulnerability Search
+        PenTEST
     
+    Active Assessment
+    Passive Assessment
+
+Security Controls
+    Physical Controls
+    Technical Controls
+    Admnistrative Controls
+
+    NIST Categories
+    Operational Controls
+    Technical Controls
+
+    Preventive Control
+    Detective Control
+    Corrective Control
+
+    Compensating Control
+
+Security Risk
+    External
+    Internal
+    Legacy
+    Multiparty
+    IP Theft 
+    Software Compliance/Licensing
 
 
 
-
-
-
-
-
-
+Transference (or sharing) means assigning risk to a third party (such as an insurance company or a contract with a supplier that defines liabilities). 
+Avoidance means that the company stops doing the activity that is risk-bearing. Risk mitigation is the overall process of reducing exposure to or the effects of risk factors, such as by patching a vulnerable system. 
+Acceptance means that no countermeasures are put in place either because the level of risk does not justify the cost or because there will be an unavoidable delay before the countermeasures are deployed.
 
 
 

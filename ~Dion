@@ -860,12 +860,18 @@ Authentication
         Broken Authentication
         Session hijacking
 
----------------------------------------------------------- Section 20
+---------------------------------------------------------- Section 20 *****
 Access Control
     DAC - Discretionary Access Control (DAC) - Who has the access which file.
     MAC - Mandatory Access Control - Computer decide who has the access(Data Level). "NEED TO KNOW"
     RBAC - Rule-based access control - complex mathematics to create sets of object
     ABAC - Attribute Base access control - Tags 
+
+    **
+    Role-based access control (RBAC) is a modification of DAC that provides a set of organizational roles that users may be assigned in order to gain access rights. 
+    The system is non-discretionary since the individual users cannot modify the ACL of a resource. Users gain their access rights implicitly based on the groups to which
+    they are assigned as members.
+    **
 
 Best Practices
     Implicit Deny
@@ -893,24 +899,22 @@ Users and Group
 Permission
 
 Username and Password
-    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+User Account Control(UAC) - a security component in windows that keeps every user in standard user mode instead of
+                            acting like an Administrative user.
 
 ---------------------------------------------------------- Section 21
+
+
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------- Section 22
 ---------------------------------------------------------- Section 23

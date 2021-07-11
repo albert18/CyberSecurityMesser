@@ -824,24 +824,51 @@ VPN - Virtual Private Network
 
     Point to Point Protocol
 
-    
+Radius Authentication Dial-in User Service 
+    **Authentication
+        PORT  1812 0r PORT 1645
+    **Accounting
+        Port 1813 OR 1646
 
+Authentication Summary
+    802.1x - IEEE standard that defines port-based network Access control(PNAC) and is a data link layer
+            authentication Technology used to connect devices to a wired or wireless LAN.
 
+    LDAP - Application layer protocol for accessing and modifying Directory services data
 
+    Kerberos - Authentication protocol used in windows
 
+    RAS(Remote access service)
 
+    CHAP
 
+    Radius
+        **Authentication
+        PORT  1812 0r PORT 1645
+        **Accounting
+        Port 1813 OR 1646
 
+    TACACS+  - Cisco proprietary version of RADIUS that provides 
+                separate authentication and authorization funcstion over port 49 (TCP) - NOT CROSS PLATFORM
 
-
-
-
-
-
-
-
+Authentication
+        Spoofing
+        Man-in-the-Middle attack
+        Man in the browser(MiTB)
+        Password Spraying
+        Credential Stuffing
+        Broken Authentication
+        Session hijacking
 
 ---------------------------------------------------------- Section 20
+Access Control
+    DAC - Discretionary Access Control (DAC) - Who has the access which file.
+    MAC - Mandatory Access Control - Computer decide who has the access(Data Level). "NEED TO KNOW"
+    RBAC - Rule-based access control - complex mathematics to create sets of object
+    ABAC - 
+
+
+
 ---------------------------------------------------------- Section 21
 ---------------------------------------------------------- Section 22
 ---------------------------------------------------------- Section 23

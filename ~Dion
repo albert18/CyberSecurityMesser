@@ -984,9 +984,10 @@ Vulnerability Assessment
     Network Sniffing - The process of finding and investigating other computers on the network by analyzing the network traffic or capturing the packets(It called packet sniffer or packet sniffer)
 
     Password Analysis - A tool used to test strength of your password to ensure your password policies are being followed
+        -Brute force Attack
+        -
 
 
-    
 
 
 

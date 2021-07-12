@@ -956,7 +956,7 @@ Avoidance means that the company stops doing the activity that is risk-bearing. 
 Acceptance means that no countermeasures are put in place either because the level of risk does not justify the cost or because there will be an unavoidable delay before the countermeasures are deployed.
 
 
----------------------------------------------------------- Section 22
+---------------------------------------------------------- Section 22***
 Vulnera Management
     Steps: 1 through 5
     -Define the desired state of security
@@ -984,21 +984,36 @@ Vulnerability Assessment
     Network Sniffing - The process of finding and investigating other computers on the network by analyzing the network traffic or capturing the packets(It called packet sniffer or packet sniffer)
 
     Password Analysis - A tool used to test strength of your password to ensure your password policies are being followed
+        -Password Cracker
+        -Password Guessing
         -Brute force Attack
-        -
+        -Cryptanalysis Attack
+
+NOTE****
+Nmap sends specially crafted packets to the target host(s) and then analyzes the responses to determine the open ports and services running on those hosts. 
+In addition, nmap can determine the versions of the applications being used on those ports and services. Nmap is a command-line tool for use on Linux, Windows,
+ and macOS systems.
 
 
-
-
-
-
-
-
-
-
+A brute-force attack when an attacker uses a set of predefined values to attack a target and analyze the response until he succeeds.
+Success depends on the set of predefined values. If it is larger, then it will take more time, but there is a better probability of success. 
+In a traditional brute-force attack, the passcode or password is incrementally increased by one letter/number each time until the right passcode/password is found.
 
 
 ---------------------------------------------------------- Section 23
+Monitoring Types
+    Signature-Based - Network traffic is analyzed for predetermined attack patterns
+    Anomaly-Based - A baseline is established and any network traffic that is outside of the baseline is evaluated
+    Behavior-Based - Activity is evaluated based on the previous behavior of applications, executables and operating system in comparison to the current activity of system
+
+Performance Baselining - process if measuring changes in networking, hardware, software and application
+    -Baseling reporting
+    -Security Posture
+    -
+
+
+
+
 ---------------------------------------------------------- Section 24
 ---------------------------------------------------------- Section 25
 ---------------------------------------------------------- Section 26

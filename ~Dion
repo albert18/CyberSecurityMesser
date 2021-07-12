@@ -1009,9 +1009,22 @@ Monitoring Types
 Performance Baselining - process if measuring changes in networking, hardware, software and application
     -Baseling reporting
     -Security Posture
-    -
 
+Protocol Analyzer are used to campture and analyze network traffic
+    Promiscuous Mode
+    Non-Promiscuous Mode
+    Port-Mirroring
+    Network Tap
 
+Simple Network Management Protocol(SNMP) - TCP/IP protocol that aids in monitoring network-attached devices and computers.
+    Managed Devices
+    Agents
+    (NPM) Network Management System
+
+    V1/V2 are insecure due
+    SNMP V3 - that provides integrity, authentication and encryption - USE THIS
+
+    
 
 
 ---------------------------------------------------------- Section 24

@@ -958,7 +958,32 @@ Acceptance means that no countermeasures are put in place either because the lev
 
 ---------------------------------------------------------- Section 22
 Vulnera Management
+    Steps: 1 through 5
+    -Define the desired state of security
+    -Create a baseline
+    -Prioritize vulnerabilities
+    -Mitigate vulnerabilities
+    -Monitor the network and systems
+
+Penetration Test
+    Black Box Testing
+    White Box Testing
+    White-Box Testing
+
+    Metasploit and Canvas are commonly used
+    
+
+
+
+
+
+
+
 
 
 
 ---------------------------------------------------------- Section 23
+---------------------------------------------------------- Section 24
+---------------------------------------------------------- Section 25
+---------------------------------------------------------- Section 26
+---------------------------------------------------------- Section 27

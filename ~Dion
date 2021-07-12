@@ -1208,7 +1208,7 @@ TIPS
 **
 
 
----------------------------------------------------------- Section 26
+---------------------------------------------------------- Section 26 ***
 Public Key Infrastructure - entire system of hardware, software, policies and people
     Certficate Authority
 
@@ -1224,7 +1224,7 @@ Digital Certificate - digitally signed electronic documents that bind a public k
 
 Registration Authority - Used to verify information about a user priot to requesting that a certificate Authority issue the certificate
     Certificate Authority
-    Certificate Revocation List(CLR) - an online list of digital certificates that the certificate Authority has revoked.
+    Certificate Revocation List(CRL) - an online list of digital certificates that the certificate Authority has revoked.
 
     Online Certificate Status Protocol(OCSP) - check status of certificate
 
@@ -1236,12 +1236,26 @@ Registration Authority - Used to verify information about a user priot to reques
 Web of Trust
     
 
+***
+
+TIPS
+
+-- Transitive trust occurs when X trusts Y, and Y trusts Z, therefore X trusts Z. This is because the trust flows from the first part (Dion Training) through the second party
+ (Thor Teaches) to the third party (Udemy).
 
 
-    
+-- Non-repudiation occurs when a sender cannot claim they didn’t send an email when they did. A digital signature should be attached to each email sent to achieve 
+non-repudiation. This digital signature is comprised of a digital hash of the email’s contents, and then encrypting that digital hash using the sender’s private key. 
+The receiver can then unencrypt the digital hash using the sender’s public key to verify the integrity of the message.
 
 
+A CSR (certificate signing request) is what is submitted to the CA (certificate authority) to request a digital certificate. 
+Key escrow stores keys, 
+CRL is a list of revoked certificate, and the 
+OCSP is a status of certificates that provides validity such as good, revoked, or unknown
 
+
+***
 
 
 

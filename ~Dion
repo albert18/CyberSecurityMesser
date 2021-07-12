@@ -1125,11 +1125,25 @@ Cryptography Considerations
     Blockchain - shared immutable ledger for recording transactions tracking assets and building trust.
     Public ledger - keeping record system that Maintain participants identities
     Quantum Computing - a computer that uses quantum mechanics to generate and manipulate quantum bits(qubits) in order to access enormous processing powers.
+    Quantum communication - communication network that relies on qubits made of protons(light) to send multiple combinations of 1s
+    Ephemeral - short lived used in the key exchange for WPA3
 
 
+**
+Elliptic-curve cryptography (ECC) is an approach to public-key cryptography based on the algebraic structure of elliptic curves over finite fields. As a public-key cryptosystem, 
+it relies on an asymmetric algorithm. Twofish, RC4, and DES are all symmetric algorithms.
 
 
+The only truly unbreakable encryption is one that uses a one-time use pad. This ensures that every message is encrypted with a different shared key that only the two owners of the one-time use pad would know.
+ This technique ensures that there is no pattern in the key for an attacker to guess or find. Even if one of the messages could be broken, all of the other messages would remain secure since they use different 
+ keys to encrypt them. Unfortunately, one-time use pads require that two identical copies of the pad are produced and distributed securely before they can be used.
 
+The most likely explanation is that the user utilized steganography to hide the leaked data inside the photos from their trip. Steganography is the process of hiding one message inside another. 
+By hiding the customer’s information within the digital photos, the incident response team would not be able to see the data being hidden without knowing to look for it inside the seemingly
+ benign pictures from the trip.
+
+
+**
 
 
 ---------------------------------------------------------- Section 25

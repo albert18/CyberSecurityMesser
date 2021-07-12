@@ -1260,7 +1260,77 @@ OCSP is a status of certificates that provides validity such as good, revoked, o
 
 
 ---------------------------------------------------------- Section 27
+
+Secure/Multipurpose Internet Mail Extensions(S/MIME) - Standard that provides cryptographic security for electronic messaging
+        can encrypt emails and their contents
+
+
+SSL & TLS - 
+    SSL - securing web (OLD)
+    TLS - Secure 
+
+
+Secure Shell Protocol - protocol that can create  secure channel between two computer or network devices to enable one drive to control the other device.
+    SSH - PORT 22
+
+VPN - secure connection between to computer
+    Point to Point tunneling - sends data as encrypted traffic(PORT 1723) - CHAP-based Authentication which vulnerabilities for attack
+
+    Layer 2 Tunneling Protocol(L2TP) - Pair with IP Sec to provide security (PORT 1701)
+
+    Interket Key Exchange 
+        Main Mode
+        Aggreesive
+        Quick
+
+    Authentication Header - Protoco used in IPSEC that provides integrity and authentication
+
+    Escapsulation Security Payload(ESP) - Provides, Confidentiality and authenticity of packets
+
+    IPSec
+        Transport Mode -
+        Tunnel Mode - 
+
+
+***
+TIPS
+    This output from the tcpdump command is displaying three packets in a larger sequence of events. Based solely on these three packets, 
+    we can only be certain that the server (11.154.12.121) is running an SSH server over port 22. This is based on the first line of the output. 
+    The second and third lines are the server responding to the request and sending data back to the client (10.0.19.121) over port 52497. 
+    There is not evidence of an attack against either the server or the client based on this output since we can only see the headers
+    and not content being sent between the client and server.
+
+
+    IPSec is the most secure protocol that works with VPNs. The use of PPTP and SSL is discouraged for VPN security. 
+    Due to this, the use of PPTP and SSL for a VPN will likely alert during a vulnerability scan as an issue to be remediated.
+
+
+    Port 443 is used for HTTPS traffic. Therefore, this port must be opened. This is secure web browsing over SSL or TLS.
+     Port 21 is used for the File Transfer Protocol (FTP). Port 80 is used for unsecured web browsing (HTTP). Port 143 is used for Internet Mail Application Protocol (IMAP).
+
+***
+
+
 ---------------------------------------------------------- Section 28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------- Section 29
 ---------------------------------------------------------- Section 30
 ---------------------------------------------------------- Section 31

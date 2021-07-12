@@ -974,7 +974,19 @@ Penetration Test
         Pivot
         Persistence
     
+OVAL - Open vulnerability and Assessment Language - use to share data with different tools that focusing in risk assessment
+    Oval Language XL
+    Oval Interpreter
 
+Vulnerability Assessment 
+    Network Mapping - Discovery and documentation of physical and logical connectivity(Example tool: ZENMAP)
+    Vulnerability Scanning - a technique that identifies threats on the network without exploiting them
+    Network Sniffing - The process of finding and investigating other computers on the network by analyzing the network traffic or capturing the packets(It called packet sniffer or packet sniffer)
+
+    Password Analysis - A tool used to test strength of your password to ensure your password policies are being followed
+
+
+    
 
 
 

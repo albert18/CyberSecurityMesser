@@ -1364,23 +1364,37 @@ Disaster Recovery Plan
     - 
 
 Business Impact Analysis(BIA)
+
+
+***
+TIPS
+
+    Since this is a Media Streaming Server, you should implement a RAID 0 which provides disk stripping across both drives. This will increase the speed of the data delivery,
+     but provides no redundancy. If you were concerned with redundancy, then you should choose a RAID 1 which uses a mirror of the data on both hard disks. 
+     You cannot use a RAID 5, since this requires a minimum of 3 disk drives and stripes the data across the hard disks. 
+     You also can not use a RAID 6 since this requires at least 4 hard disks with dual parity and disk stripping.
+
     
+    Mean time to repair (MTTR) is a basic measure of the maintainability of repairable items. It represents the average time required to repair a failed component or device.
 
-
-
-
-
-
-
-
-
-
-
-
-
+    An uninterruptible power supply or uninterruptible power source (UPS) is an electrical apparatus that provides emergency power to a load when the input 
+    power source becomes too low, or the main power fails. A UPS provides near-instantaneous protection from input power interruptions by using a battery backup. 
+    The on-battery run-time of most uninterruptible power sources is usually short (less than 60 minutes) but sufficient to properly shut down a computer system.
+    
+***
 
 
 
 ---------------------------------------------------------- Section 29
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------- Section 30
 ---------------------------------------------------------- Section 31

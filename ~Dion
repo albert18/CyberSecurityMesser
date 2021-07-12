@@ -1043,6 +1043,24 @@ SOAR - Security Orchestration Automation n and Response - a class of security to
 
         SOAR is primarily used for incident response
         
+
+****
+Simple Network Management Protocol (SNMP) is commonly used to gather information from routers, switches, and other network devices. 
+It provides information about a device's status, including CPU and memory utilization, as well as many other useful details about the device. 
+NetFlow provides information about network traffic. A management information base (MIB) is a database used for managing the entities in a communication network. 
+The Simple Mail Transfer Protocol (SMTP) is a communication protocol for electronic mail transmission.
+
+A security orchestration, automation, and response (SOAR) is used to facilitate incident response, threat hunting, 
+and security configuration by orchestrating automated runbooks and delivering data enrichment. A SOAR may be implemented as a standalone technology or 
+integrated within a SIEM as a next-gen SIEM. A SOAR can scan the organization's store of security and threat intelligence, 
+analyze it using machine/deep learning techniques, and then use that data to automate and provide data enrichment for the workflows that drive 
+incident response and threat hunting.
+
+The syslog server is a centralized log management solution. By looking through the logs on the syslog server, the technician could determine which 
+service failed on which server, since all the logs are retained on the syslog server from all of the network devices and servers.
+
+****
+
 ---------------------------------------------------------- Section 24
 
 

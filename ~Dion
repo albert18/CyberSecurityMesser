@@ -1026,7 +1026,17 @@ Simple Network Management Protocol(SNMP) - TCP/IP protocol that aids in monitori
 
 Auditing - Technical assessment(is a detective control)    
 
+Logging - Data files that contain the Accounting and audit trail for actions performed by a user on the computer or network.
+    Security Logs
+    System Logs 
+    Application Logs
+    Syslog - A standardized format used for computer message loggin that allows for the separation of the software that generates messages, the system 
+        that stores them, and the software that reports and analyzes them. PORT 514
+    
+Log File
+    Log File Maintenance
 
+SIEM
 
 
 ---------------------------------------------------------- Section 24

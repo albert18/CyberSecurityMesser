@@ -1000,7 +1000,7 @@ Success depends on the set of predefined values. If it is larger, then it will t
 In a traditional brute-force attack, the passcode or password is incrementally increased by one letter/number each time until the right passcode/password is found.
 
 
----------------------------------------------------------- Section 23
+---------------------------------------------------------- Section 23 **
 Monitoring Types
     Signature-Based - Network traffic is analyzed for predetermined attack patterns
     Anomaly-Based - A baseline is established and any network traffic that is outside of the baseline is evaluated
@@ -1061,7 +1061,52 @@ service failed on which server, since all the logs are retained on the syslog se
 
 ****
 
----------------------------------------------------------- Section 24
+---------------------------------------------------------- Section 24 ************
+Cryptography - practice and study of writing and solving codes on order to hide the true meaning of information.
+
+        Encryption - process of converting ordinary(plaintext) into an unintelligible form (ciphertext).
+
+        Data at Rest - inactive data that is archived such as data resident on a hard drive.
+
+        Data in Use - data that in undergoing constant change
+
+        Cipher is an algorithm which performs the encryption or decryption
+
+
+Symmetric and Asymmetric
+    Symmetric(Private Key) - Encryption algorithm in which both sender and the receiver must know the same secret using privately held key.
+    Asymmetric - (Public Key) - Encryption algorithm where different keys are used to Encrypt and decrypt the data.
+
+    Stream cipher - utilize a keystream generator to Encrypt data bit using a mathematical XOR function
+
+    Block Cipher - Breaks the input into fixed-length blocks of data and performs the encryption on each block.
+
+
+Symmetric algorithm
+    DES - Encryption algorithm which breaks the input into 64 bit, create ciphertext using key strength of 56 bits(Not secure, was use back in 70's)
+    3DES - 3x56 bits that was use
+    IDEA(International data encryption algorithm) - Symmetric block cipher which use 64 bit to Encrypt plaintext into cipher (128 bits)
+    AES(Advanced Encryption Standard) - Symmetric block cipher that uses 128 bit, 192 bit or 256 bit and matching encryption key in to Encrypt into ciphertext. (Widely use)
+    Blowfish - Symmetric block cipher that uses 64 bit blocks and  a variable length encryption key to Encrypt plaintext into ciphertext.
+    Two Fish - 128 bit block, 128-bit, 192-bit or 256-bit
+    RC4(Rivest Cipher) -  cipher using variable key size from 40-bits to 2048-bits that is used in SSL and WEP-- ONLY STREAM CIPHER THE REST IS BLOCK CIPHER
+    RC5 - 2048-bit replace DES and AES
+    RC6 - 
+
+
+
+Public Key Cryptography
+    Use Key Pair(Private key and Public Key)
+    Digital Signature -
+
+    TIPS - Asymmetric encryption is also know as public key Cryptography.
+            Two key are used, Encrypt it and decrypt
+
+Asymmetric algorithm
+    Diffie-Hellman - 
+    RSA
+    ECC
+
 
 
 

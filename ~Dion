@@ -1103,20 +1103,13 @@ Public Key Cryptography
             Two key are used, Encrypt it and decrypt
 
 Asymmetric algorithm
-    Diffie-Hellman - 
-    RSA
-    ECC
+    Diffie-Hellman - used to conduct key exchanges and secure key(Widely setting VPN or Encrypting tunnel)
+    RSA(Rivest, Shamir and Adleman) - Asymmetric algorithm that relies on the mathematical difficulty of factoing large primer numbers. (1024-bits to 4096-bits)
+    ECC(Elliptic Curve Cryptography) - algorithm that is based upon the algebraic structure of elliptic curves over finite fields to define the keys(Heavely use in MOBILE DEVICES)
 
-
-
-
-
-
-
-
-
-
-
+    ECDH
+    ECDHE
+    ECDSA
 
 
 

@@ -1312,9 +1312,59 @@ TIPS
 
 
 ---------------------------------------------------------- Section 28
+Redundancy - helps ensure fault tolerance
+
+Redundant Power
+    Redundant Power Supply
+        Surge - unexpected increase
+        Spikes - Jump a lot
+        SAG - unexpected decrease
+        Brownout
+        Blackout
+
+Backup Power
+    Uninterruptible Power Supply(UPS) - Battery backup
+    Backup Generator - emergency power
 
 
+Data Redundancy 
+    Redundant Array of independent Disk(Raid)
+        RAID 0 - provide data striping across multiple disk to increase performance
+        RAID 1 - Provides data by mirroring the other data
+        RAID 5 - provide data striping across the disk drives(Minimum 3 drive)
+        RAID 6 - Double parity data across, 2 stripes(modify of RAID 5, minimum 4 drive)
+        RAID 10 - Creates a striped RAID of two mirrored RAIDS (minimum 4 drive)
 
+        Remember - Fault-Resistant, Fault-Tolerant, Disaster-Tolerant
+
+
+Network Redundancy - on ensuring that the network remains up
+
+Server Redundancy   
+    Cluster - two or more servers working together to perform particular job function.
+        Failover Cluster
+    
+    Load-Balancing cluster
+
+Redundant Site
+    Hot Site - 
+    Cold Site -
+
+
+Data Backup
+
+Tape Rotation
+    10 Tape Rotation - two weeks
+    Grandfather-Father-Son(Daily, Weekly, Monthly)
+    Tower of Hanoi - 
+
+    Snapshot Backup
+
+Disaster Recovery Plan
+    - 
+
+Business Impact Analysis(BIA)
+    
 
 
 

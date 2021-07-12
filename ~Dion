@@ -1148,13 +1148,38 @@ By hiding the customer’s information within the digital photos, the incident r
 
 ---------------------------------------------------------- Section 25
 Hashing - one way cryptographic function
+    Message(MD5) - algorithm that creates a value fixed-length 128-bit hash value unique to the input file.
+        Collision - 
+    Secure Hash algorithm(SHA)
+        SHA1 - creates fixed-length 160 bit hash value unique to the input file.
+        SHA2 - Family of algorithm that includes SHA-224, SHA-256, SHA-348 and SHA 512
+        SHA3 - 224-bits and 512-bits
+
+    RACE Integrity Primitive Evaluation Message Digest (RIPEMD) - open source hash algorithm that creates unique 160-bit, 256 bit or 320 bit
+    Hash based message authentication code(HMAC) -  create a level of assurance
+
+    HMAC-MD5
+    HMAC-SHA1
+    HMAC-SHA256
+
+    Digital Signature
+    Code Signing - Delopers
+
+    Password
+        LANMAN(LM HASH) - old version, 14 characters, Weak(develop back in 80's)
+        NT LAN MANAGER HASH(NTLM Hash)  -
+        NTLMv2 Hash - replacement on the NTLM Hash that uses HMAC-MD5 and is considered difficult to crack.
+
+**
+TIPS 
+    - Anything with integrity means it involves HASH
     
+    2 most use HASh
+         MD5 - less secure
+         SHA - more secure
 
 
-
-
-
-
+**
 
 
 

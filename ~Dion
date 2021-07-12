@@ -1210,7 +1210,35 @@ TIPS
 
 ---------------------------------------------------------- Section 26
 Public Key Infrastructure - entire system of hardware, software, policies and people
+    Certficate Authority
 
+Digital Certificate - digitally signed electronic documents that bind a public key with a users identity
+    X.509 - standard used PKI for digital certificates and contains the owner/user
+    Wildcard Certificate
+    Single-sided certificates
+    Dual-sided certificates
+
+    BER - The original ruleset governing the encoding of data structures for certificates where several different encoding types can be utilized
+    CER - 
+    DER
+
+Registration Authority - Used to verify information about a user priot to requesting that a certificate Authority issue the certificate
+    Certificate Authority
+    Certificate Revocation List(CLR) - an online list of digital certificates that the certificate Authority has revoked.
+
+    Online Certificate Status Protocol(OCSP) - check status of certificate
+
+    Public Key Pinning
+
+    Key Escrow - secure copy of a users private key is help just in case the user loses their key.
+    Key Recovery Agent - 
+
+Web of Trust
+    
+
+
+
+    
 
 
 

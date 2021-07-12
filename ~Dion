@@ -1112,7 +1112,22 @@ Asymmetric algorithm
     ECDSA
 
 
-Pretty Good Privacy(PGP) - encryption program used for signing, encryption and decrypting emails
+Pretty Good Privacy(PGP) - encryption program used for signing, encryption and decrypting emails(Symmetric functions use 128-bit or higher and Asymmetric function use 512 to 2048 bit)
+    (GNU)Privacy Guard - 
+
+
+Key Management - Refers how to generate, exchange, store
+
+
+One-Time PAD - stream cipher that Encrypt plaintext information with a secret random key that in the same length as the plaintext input.
+
+Cryptography Considerations
+    Blockchain - shared immutable ledger for recording transactions tracking assets and building trust.
+    Public ledger - keeping record system that Maintain participants identities
+    
+
+
+
 
 
 

@@ -1024,7 +1024,9 @@ Simple Network Management Protocol(SNMP) - TCP/IP protocol that aids in monitori
     V1/V2 are insecure due
     SNMP V3 - that provides integrity, authentication and encryption - USE THIS
 
-    
+Auditing - Technical assessment(is a detective control)    
+
+
 
 
 ---------------------------------------------------------- Section 24

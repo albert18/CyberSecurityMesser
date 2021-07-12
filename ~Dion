@@ -1170,6 +1170,23 @@ Hashing - one way cryptographic function
         NT LAN MANAGER HASH(NTLM Hash)  -
         NTLMv2 Hash - replacement on the NTLM Hash that uses HMAC-MD5 and is considered difficult to crack.
 
+
+Hashing Attack
+    Pass the HASH - A technique that allows an attacker to authenticate to a remote server or service by using underlying NTLM or LM hash instead of requiring plaintext password.
+
+    Birthday Attack - find 2 different messages that have the same identical hash digest.
+
+
+
+Increasing Hash Security
+    Key Stretching
+    Salting
+
+
+
+
+
+
 **
 TIPS 
     - Anything with integrity means it involves HASH
@@ -1178,8 +1195,19 @@ TIPS
          MD5 - less secure
          SHA - more secure
 
+    SHA-1 creates a 160-bit fixed output. 
+    SHA-2 creates a 256-bit fixed output. 
+    NTLM creates a 128-bit fixed output. 
+    MD-5 creates a 128-bit fixed output.
+
+
+
+    In cryptography, key stretching techniques are used to make a possibly weak key, typically a password or passphrase, more secure against a brute-force attack 
+    by increasing the resources it takes to test each possible key. The question describes one such key stretching technique.
 
 **
+
+
 
 
 

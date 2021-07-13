@@ -1515,9 +1515,8 @@ Key Framework
     ISO 27001
     ISO 31000
     System and Organization Controls (SOC)
-
-
-
+    SOC 2  - trusted services criteria
+    TYPE 2
 
 ***
 TIPS
@@ -1526,20 +1525,15 @@ TIPS
 
     Procedures are specific
 
+    The Payment Card Industry Data Security Standard (PCI DSS) applies to companies of any size that accept credit card payments. 
+    If your company intends to accept card payment and store, process, and transmit cardholder data, you need to host your data securely and follow PCI
+     compliance requirements.
+
+    GDPR (General Data Protection Regulation) is a regulation that applies to companies that do business in the European Union. 
+    The four forms of regulated data covered by the CompTIA A+ (220-1002) exam are PII (Personally Identifiable Information), 
+    PCI (Payment Card Industry), GDPR (General Data Protection Regulation), and PHI (Protected Health Information).
+
 ***
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---------------------------------------------------------- Section 31

@@ -1558,3 +1558,25 @@ Incidement Response Planning
     Forensic Analysts
     Threat researcher
     Cross function support
+
+    CSIRT - should be the single point of contact for security incidents
+
+
+Investigate Data
+    Log Files
+
+Forensic Procedures
+    Identification
+    Collection
+    Analysis
+    Reporting
+
+Data Collection
+    Evidence
+    Data Acquisition
+
+Security tool
+    Tracert/traceroute
+    NSLookup 
+    Ipconfig/ifconfig
+    

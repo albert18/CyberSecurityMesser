@@ -1579,4 +1579,45 @@ Security tool
     Tracert/traceroute
     NSLookup 
     Ipconfig/ifconfig
-    
+    nmap - open source network scanner that is used to discover hosts and services on the computer network
+    ping/pathping - to see if hose is reachable
+    hping - open-source generator and Analyzer for TCP/IP protocol
+    nestat - displays network connections for transmission control protocol
+    netcat - 
+    arp -
+    route - 
+    Curl 
+    sn1per
+    scanless
+    dnsenum
+    Nessus
+    Cuckoo
+
+
+File manipulation tool
+    Head
+    cat
+    Shell and scripts
+    python
+
+
+
+
+***
+
+TIPS
+
+    A cybersecurity analyst must preserve evidence during the containment, eradication, and recovery phase. They must preserve forensic and incident information
+     for future needs, to prevent future attacks, or to bring up an attacker on criminal charges. Restoration and recovery are often prioritized over 
+     analysis by business operations personnel, but taking time to create a forensic image is crucial to preserve the evidence for further analysis and investigation.
+
+
+    When collecting evidence, you should always follow the order of volatility. This will allow you to collect the most volatile evidence (most likely to change)
+     first, and the least volatile (least likely to change) last. You should always begin the collection with the CPU registers and cache memory (L1/L2/L3/GPU). 
+     The contents of system memory (RAM), including a routing table, ARP cache, process tables, kernel statistics, and temporary file systems/swap space/virtual memory. Next, you would move onto the collection of data storage devices like hard drives, SSDs, and flash memory devices.
+
+
+
+    The chain of custody is used to document the collection and preservation of evidence from its initial acquisition, throughout the handling leading up to a trial, and during its preservation in case of an appeal or retrial.
+
+***
